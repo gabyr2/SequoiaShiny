@@ -1,0 +1,133 @@
+Location,Date,Year,Trip,TadpoleID,Bio_Mass,Liver_Mass,HSI,SlideID,Stain,CuClass,Hypereosin,Autolysis,Vacuoliz,Pancreas,ExtraTiss,Comments
+Frog,20220714,2022,2,572,0.724,0.014,0.019,FR572,hematoxylin and eosin,NA,0,0,0,1,0,NA
+Lyness,20210721,2021,2,46,1.819,NA,NA,LY46,hematoxylin and eosin,NA,3,0,1,1,e/sto,NA
+Lyness,20210721,2021,2,48,1.707,0.064,0.037,LY48,hematoxylin and eosin,NA,3,0,1,0,e/sto,NA
+Lyness,20210721,2021,2,49,2.014,0.052,0.026,LY49,hematoxylin and eosin,NA,3,0,1,0,e/sto,NA
+Lyness,20210721,2021,2,52,1.216,0.021,0.017,LY52,hematoxylin and eosin,NA,1,0,1,0,0,possible extramedullary hematopoiesis in liver
+Lyness,20210721,2021,2,53,1.131,0.38,0.336,LY53,hematoxylin and eosin,NA,3,0,1,0,0,NA
+Lyness,20210721,2021,2,54,1.18,0.057,0.048,LY54,hematoxylin and eosin,NA,0,0,1,1,e/sto fat bla oth,unknown organ and minimal hypereosihophilia (as granules) in some cells in liver
+Lyness,20210721,2021,2,55,1.341,0.101,0.075,LY55,hematoxylin and eosin,NA,3,1,1,1,0,NA
+Lyness,20210721,2021,2,56,1.893,0.107,0.057,LY56,hematoxylin and eosin,NA,3,0,1,0,fat,NA
+Lyness,20210721,2021,2,58,1.617,0.028,0.017,LY58,hematoxylin and eosin,NA,0,0,1,1,e/sto,NA
+Lyness,20210721,2021,2,59,1.456,0.477,0.328,LY59,hematoxylin and eosin,NA,3,0,1,1,0,bubbles in coverslipping
+Lyness,20210721,2021,2,60,1.599,0.261,0.163,LY60,hematoxylin and eosin,NA,3,0,1,1,0,NA
+Topaz,20210723,2021,2,76,1.105,0.053,0.048,TO76,hematoxylin and eosin,NA,3,0,1,1,0,NA
+Topaz,20210723,2021,2,77,1.021,0.047,0.046,TO77,hematoxylin and eosin,NA,3,1,1,0,0,NA
+Topaz,20210723,2021,2,78,1.843,0.093,0.05,TO78,hematoxylin and eosin,NA,3,0,1,1,0,NA
+Topaz,20210723,2021,2,79,1.292,0.043,0.033,TO79,hematoxylin and eosin,NA,3,1,1,1,0,NA
+Topaz,20210723,2021,2,80,0.883,0.06,0.068,TO80,hematoxylin and eosin,NA,3,0,1,0,0,NA
+Topaz,20210723,2021,2,81,1.328,0.041,0.031,TO81,hematoxylin and eosin,NA,3,1,1,1,0,NA
+Topaz,20210723,2021,2,82,1.277,0.062,0.049,TO82,hematoxylin and eosin,NA,3,1,1,1,0,NA
+Topaz,20210723,2021,2,83,0.387,0.021,0.054,TO83,hematoxylin and eosin,NA,3,0,1,0,0,NA
+Topaz,20210723,2021,2,84,0.661,0.008,0.012,TO84,hematoxylin and eosin,NA,3,0,1,0,0,NA
+Topaz,20210723,2021,2,85,0.801,0.028,0.035,TO85,hematoxylin and eosin,NA,3,1,1,1,0,NA
+Lyness,20220713,2022,2,546,2.481,0.219,0.088,LY546,hematoxylin and eosin,NA,3,0,1,0,0,NA
+Lyness,20220713,2022,2,547,1.684,0.039,0.023,LY547,hematoxylin and eosin,NA,2,0,1,1,0,NA
+Lyness,20220713,2022,2,548,1.237,0.043,0.035,LY548,hematoxylin and eosin,NA,3,0,1,1,0,NA
+Lyness,20220713,2022,2,549,0.964,0.026,0.027,LY549,hematoxylin and eosin,NA,0,0,0,0,0,"a speck of liver and a speck of pancreas, so marked as ""0"""
+Lyness,20220713,2022,2,550,0.999,0.027,0.027,LY550,hematoxylin and eosin,NA,3,0,1,0,0,NA
+Lyness,20220713,2022,2,551,1.039,0.02,0.019,LY551,hematoxylin and eosin,NA,2,1,1,1,bla,"bladder-like tissue right on the edge/surface of the liver - so maybe it's gall bladder, not urinary bladder, that weve been seeing"
+Lyness,20220713,2022,2,552,1.217,0.112,0.092,LY552,hematoxylin and eosin,NA,0,0,0,1,0,"only a speck of liver present, so marked as ""0"""
+Lyness,20220713,2022,2,553,1.003,0.033,0.033,LY553,hematoxylin and eosin,NA,3,0,1,1,bla,NA
+Lyness,20220713,2022,2,554,1.439,0.049,0.034,LY554,hematoxylin and eosin,NA,3,0,1,0,0,NA
+Lyness,20220713,2022,2,555,1.05,0.021,0.02,LY555,hematoxylin and eosin,NA,0,1,0,1,0,NA
+Lyness,20220713,2022,2,556,1.411,0.049,0.035,LY556,hematoxylin and eosin,NA,3,1,1,1,bla,NA
+Lyness,20220713,2022,2,557,1.212,0.039,0.032,LY557,hematoxylin and eosin,NA,3,1,1,0,bla,NA
+Lyness,20220713,2022,2,558,1.368,0.05,0.037,LY558,hematoxylin and eosin,NA,3,1,1,1,oth,probable free blood/clot on slide
+Lyness,20220713,2022,2,559,1.427,0.034,0.024,LY559,hematoxylin and eosin,NA,3,0,1,0,0,NA
+Lyness,20220713,2022,2,560,0.871,NA,NA,LY560,hematoxylin and eosin,NA,0,0,1,1,0,NA
+Frog,20220714,2022,2,561,1.863,0.046,0.025,FR561,hematoxylin and eosin,NA,2,0,1,1,0,NA
+Frog,20220714,2022,2,562,1.532,0.039,0.025,FR562,hematoxylin and eosin,NA,3,0,1,1,0,NA
+Frog,20220714,2022,2,563,0.974,0.046,0.047,FR563,hematoxylin and eosin,NA,1,0,1,0,fat,NA
+Frog,20220714,2022,2,564,1.369,0.047,0.034,FR564,hematoxylin and eosin,NA,2,0,1,0,bla,NA
+Frog,20220714,2022,2,565,1.333,0.033,0.025,FR565,hematoxylin and eosin,NA,0,0,1,0,0,NA
+Frog,20220714,2022,2,566,1.171,0.035,0.03,FR566,hematoxylin and eosin,NA,1,0,1,1,bla,NA
+Frog,20220714,2022,2,567,1.486,0.034,0.023,FR567,hematoxylin and eosin,NA,3,1,1,0,bla,NA
+Frog,20220714,2022,2,568,1.169,0.039,0.033,FR568,hematoxylin and eosin,NA,3,0,1,1,0,"pancreas-like very eosinophilic, but still pretty sure it's pancreas"
+Frog,20220714,2022,2,569,0.785,0.014,0.018,FR569,hematoxylin and eosin,NA,0,0,1,1,e/sto,NA
+Frog,20220714,2022,2,570,0.742,0.009,0.012,FR570,hematoxylin and eosin,NA,0,0,1,0,bla,NA
+Frog,20220714,2022,2,571,1.134,0.026,0.023,FR571,hematoxylin and eosin,NA,1,0,1,1,bla,NA
+Frog,20220714,2022,2,573,0.473,0.01,0.021,FR573,hematoxylin and eosin,NA,3,0,1,0,0,"blade must have been old, it has shreaded the tissue"
+Frog,20220714,2022,2,574,0.703,0.032,0.046,FR574,hematoxylin and eosin,NA,0,0,1,1,bla,NA
+Frog,20220714,2022,2,575,0.921,0.019,0.021,FR575,hematoxylin and eosin,NA,1,0,1,1,0,NA
+Topaz,20220717,2022,2,576,0.894,0.021,0.023,TO576,hematoxylin and eosin,NA,2,0,1,1,bla,NA
+Topaz,20220717,2022,2,577,1.463,0.053,0.036,TO577,hematoxylin and eosin,NA,3,1,1,1,0,NA
+Topaz,20220717,2022,2,578,1.265,0.038,0.03,TO578,hematoxylin and eosin,NA,3,0,1,1,fat,"pancreas-like very eosinophilic, but still pretty sure it's pancreas"
+Topaz,20220717,2022,2,579,1.344,0.029,0.022,TO579,hematoxylin and eosin,NA,1,0,1,1,bla,NA
+Topaz,20220717,2022,2,580,1.619,0.048,0.03,TO580,hematoxylin and eosin,NA,3,0,1,0,0,NA
+Topaz,20220717,2022,2,581,1.791,0.07,0.039,TO581,hematoxylin and eosin,NA,3,0,1,1,bla,NA
+Topaz,20220717,2022,2,582,1.818,0.033,0.018,TO582,hematoxylin and eosin,NA,0,0,0,0,0,"only a speck of liver present, so marked as ""0"""
+Topaz,20220717,2022,2,583,1.858,0.068,0.037,TO583,hematoxylin and eosin,NA,3,0,1,0,0,NA
+Topaz,20220717,2022,2,584,1.625,0.037,0.023,TO584,hematoxylin and eosin,NA,3,0,1,1,bla,NA
+Topaz,20220717,2022,2,585,1.623,0.069,0.043,TO585,hematoxylin and eosin,NA,3,1,1,1,0,NA
+Topaz,20220717,2022,2,586,1.415,0.042,0.03,TO586,hematoxylin and eosin,NA,0,0,0,0,0,"a speck of liver and a speck of pancreas, so marked as ""0"""
+Topaz,20220717,2022,2,587,1.751,0.054,0.031,TO587,hematoxylin and eosin,NA,3,0,1,1,bla,"pancreas-like very eosinophilic, but still pretty sure it's pancreas"
+Topaz,20220717,2022,2,588,1.299,0.066,0.051,TO588,hematoxylin and eosin,NA,2,0,1,1,bla,NA
+Topaz,20220717,2022,2,589,1.094,0.041,0.037,TO589,hematoxylin and eosin,NA,0,0,1,1,0,NA
+Topaz,20220717,2022,2,590,1.349,0.018,0.013,TO590,hematoxylin and eosin,NA,3,0,1,1,0,NA
+Lyness,20210721,2021,2,46,1.819,NA,NA,LY46,copper,0,NA,0,0,NA,NA,NA
+Lyness,20210721,2021,2,48,1.707,0.064,0.037,LY48,copper,0,NA,0,0,NA,NA,NA
+Lyness,20210721,2021,2,49,2.014,0.052,0.026,LY49,copper,0,NA,0,0,NA,NA,NA
+Lyness,20210721,2021,2,52,1.216,0.021,0.017,LY52,copper,0,NA,0,0,NA,NA,NA
+Lyness,20210721,2021,2,53,1.131,0.38,0.336,LY53,copper,0,NA,0,0,NA,NA,NA
+Lyness,20210721,2021,2,54,1.18,0.057,0.048,LY54,copper,0,NA,0,0,NA,NA,NA
+Lyness,20210721,2021,2,55,1.341,0.101,0.075,LY55,copper,0,NA,0,0,NA,NA,NA
+Lyness,20210721,2021,2,56,1.893,0.107,0.057,LY56,copper,0,NA,0,0,NA,NA,NA
+Lyness,20210721,2021,2,58,1.617,0.028,0.017,LY58,copper,0,NA,0,0,NA,NA,NA
+Lyness,20210721,2021,2,59,1.456,0.477,0.328,LY59,copper,0,NA,0,0,NA,NA,NA
+Lyness,20210721,2021,2,60,1.599,0.261,0.163,LY60,copper,0,NA,0,0,NA,NA,NA
+Topaz,20210723,2021,2,76,1.105,0.053,0.048,TO76,copper,0,NA,0,0,NA,NA,NA
+Topaz,20210723,2021,2,77,1.021,0.047,0.046,TO77,copper,0,NA,0,0,NA,NA,NA
+Topaz,20210723,2021,2,78,1.843,0.093,0.05,TO78,copper,0,NA,0,0,NA,NA,NA
+Topaz,20210723,2021,2,79,1.292,0.043,0.033,TO79,copper,0,NA,0,0,NA,NA,NA
+Topaz,20210723,2021,2,80,0.883,0.06,0.068,TO80,copper,0,NA,0,0,NA,NA,NA
+Topaz,20210723,2021,2,81,1.328,0.041,0.031,TO81,copper,0,NA,0,0,NA,NA,NA
+Topaz,20210723,2021,2,82,1.277,0.062,0.049,TO82,copper,0,NA,0,0,NA,NA,NA
+Topaz,20210723,2021,2,83,0.387,0.021,0.054,TO83,copper,0,NA,0,0,NA,NA,NA
+Topaz,20210723,2021,2,84,0.661,0.008,0.012,TO84,copper,0,NA,0,0,NA,NA,NA
+Topaz,20210723,2021,2,85,0.801,0.028,0.035,TO85,copper,0,NA,0,0,NA,NA,NA
+Lyness,20220713,2022,2,546,2.481,0.219,0.088,LY546,copper,0,NA,0,0,NA,NA,NA
+Lyness,20220713,2022,2,547,1.684,0.039,0.023,LY547,copper,0,NA,0,0,NA,NA,NA
+Lyness,20220713,2022,2,548,1.237,0.043,0.035,LY548,copper,0,NA,0,0,NA,NA,NA
+Lyness,20220713,2022,2,549,0.964,0.026,0.027,LY549,copper,0,NA,0,0,NA,NA,NA
+Lyness,20220713,2022,2,550,0.999,0.027,0.027,LY550,copper,0,NA,0,0,NA,NA,NA
+Lyness,20220713,2022,2,551,1.039,0.02,0.019,LY551,copper,0,NA,0,0,NA,NA,NA
+Lyness,20220713,2022,2,552,1.217,0.112,0.092,LY552,copper,0,NA,0,0,NA,NA,NA
+Lyness,20220713,2022,2,553,1.003,0.033,0.033,LY553,copper,0,NA,0,0,NA,NA,NA
+Lyness,20220713,2022,2,554,1.439,0.049,0.034,LY554,copper,0,NA,0,0,NA,NA,NA
+Lyness,20220713,2022,2,555,1.05,0.021,0.02,LY555,copper,0,NA,0,0,NA,NA,NA
+Lyness,20220713,2022,2,556,1.411,0.049,0.035,LY556,copper,0,NA,0,0,NA,NA,NA
+Lyness,20220713,2022,2,557,1.212,0.039,0.032,LY557,copper,0,NA,0,0,NA,NA,NA
+Lyness,20220713,2022,2,558,1.368,0.05,0.037,LY558,copper,0,NA,0,0,NA,NA,NA
+Lyness,20220713,2022,2,559,1.427,0.034,0.024,LY559,copper,0,NA,0,0,NA,NA,NA
+Lyness,20220713,2022,2,560,0.871,NA,NA,LY560,copper,0,NA,0,0,NA,NA,NA
+Frog,20220714,2022,2,561,1.863,0.046,0.025,FR561,copper,0,NA,0,0,NA,NA,NA
+Frog,20220714,2022,2,562,1.532,0.039,0.025,FR562,copper,0,NA,0,0,NA,NA,NA
+Frog,20220714,2022,2,563,0.974,0.046,0.047,FR563,copper,0,NA,0,0,NA,NA,NA
+Frog,20220714,2022,2,564,1.369,0.047,0.034,FR564,copper,0,NA,0,0,NA,NA,NA
+Frog,20220714,2022,2,565,1.333,0.033,0.025,FR565,copper,0,NA,0,0,NA,NA,NA
+Frog,20220714,2022,2,566,1.171,0.035,0.03,FR566,copper,0,NA,0,0,NA,NA,NA
+Frog,20220714,2022,2,567,1.486,0.034,0.023,FR567,copper,0,NA,0,0,NA,NA,NA
+Frog,20220714,2022,2,568,1.169,0.039,0.033,FR568,copper,0,NA,0,0,NA,NA,NA
+Frog,20220714,2022,2,569,0.785,0.014,0.018,FR569,copper,0,NA,0,0,NA,NA,NA
+Frog,20220714,2022,2,570,0.742,0.009,0.012,FR570,copper,0,NA,0,0,NA,NA,NA
+Frog,20220714,2022,2,571,1.134,0.026,0.023,FR571,copper,0,NA,0,0,NA,NA,NA
+Frog,20220714,2022,2,572,0.724,0.014,0.019,FR572,copper,0,NA,0,0,NA,NA,NA
+Frog,20220714,2022,2,573,0.473,0.01,0.021,FR573,copper,0,NA,0,0,NA,NA,NA
+Frog,20220714,2022,2,574,0.703,0.032,0.046,FR574,copper,0,NA,0,0,NA,NA,NA
+Frog,20220714,2022,2,575,0.921,0.019,0.021,FR575,copper,0,NA,0,0,NA,NA,NA
+Topaz,20220717,2022,2,576,0.894,0.021,0.023,TO576,copper,0,NA,0,0,NA,NA,NA
+Topaz,20220717,2022,2,577,1.463,0.053,0.036,TO577,copper,0,NA,0,0,NA,NA,NA
+Topaz,20220717,2022,2,578,1.265,0.038,0.03,TO578,copper,0,NA,0,0,NA,NA,NA
+Topaz,20220717,2022,2,579,1.344,0.029,0.022,TO579,copper,0,NA,0,0,NA,NA,NA
+Topaz,20220717,2022,2,580,1.619,0.048,0.03,TO580,copper,0,NA,0,0,NA,NA,NA
+Topaz,20220717,2022,2,581,1.791,0.07,0.039,TO581,copper,0,NA,0,0,NA,NA,NA
+Topaz,20220717,2022,2,582,1.818,0.033,0.018,TO582,copper,0,NA,0,0,NA,NA,NA
+Topaz,20220717,2022,2,583,1.858,0.068,0.037,TO583,copper,0,NA,0,0,NA,NA,NA
+Topaz,20220717,2022,2,584,1.625,0.037,0.023,TO584,copper,0,NA,0,0,NA,NA,NA
+Topaz,20220717,2022,2,585,1.623,0.069,0.043,TO585,copper,0,NA,0,0,NA,NA,NA
+Topaz,20220717,2022,2,586,1.415,0.042,0.03,TO586,copper,0,NA,0,0,NA,NA,NA
+Topaz,20220717,2022,2,587,1.751,0.054,0.031,TO587,copper,0,NA,0,0,NA,NA,NA
+Topaz,20220717,2022,2,588,1.299,0.066,0.051,TO588,copper,0,NA,0,0,NA,NA,NA
+Topaz,20220717,2022,2,589,1.094,0.041,0.037,TO589,copper,0,NA,0,0,NA,NA,NA
+Topaz,20220717,2022,2,590,1.349,0.018,0.013,TO590,copper,0,NA,0,0,NA,NA,NA

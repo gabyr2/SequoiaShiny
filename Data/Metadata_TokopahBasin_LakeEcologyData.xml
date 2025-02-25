@@ -1,0 +1,3340 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Gabrielle E. Ruso</origin>
+        <origin>Jeffrey A. Back</origin>
+        <origin>Danielle M. Cleveland</origin>
+        <origin>María J. Forzán</origin>
+        <origin>Satomi Kohno</origin>
+        <origin>Kelly M. Martin</origin>
+        <origin>Erik Meyer</origin>
+        <origin>Craig P. Paukert</origin>
+        <origin>Brittany G. Perrotta</origin>
+        <origin>Elisabeth B. Webb</origin>
+        <origin>Thea M. Edwards</origin>
+        <pubdate>20250214</pubdate>
+        <title>Lake depth profile, water quality, sediment, periphyton, tadpole (Pseudacris regilla), and landscape data from six lakes and two stream sites of the Tokopah Basin in Sequoia National Park, California, 2021-2022</title>
+        <geoform>tabular digital data</geoform>
+        <pubinfo>
+          <pubplace>Reston, VA</pubplace>
+          <publish>U.S. Geological Survey</publish>
+        </pubinfo>
+        <othercit>Authors Open Researcher and Contributor Id (ORCID) are as follows: Gabrielle E. Ruso: 0000-0002-2964-805X; Jeffrey A. Back: 0000-0003-1943-7096; Danielle M. Cleveland: 0000-0003-3880-4584; María J. Forzán: 0000-0002-0810-9911; Satomi Kohno: 0000-0001-6184-3616; Kelly M. Martin: 0009-0003-0132-2087; Erik Meyer: 0000-0003-2128-3532;  Craig P. Paukert: 0000-0002-9369-8545; Brittany G. Perrotta: 0000-0003-2669-3047; Elisabeth B. Webb: 0000-0003-3851-6056; Thea M. Edwards: 0000-0002-6176-2872</othercit>
+        <onlink>https://doi.org/10.5066/P1T6UYAX</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This dataset includes a collection of files related to a project investigating the ecology of six lakes in the Tokopah Basin. The primary purpose of the research project was to understand the dynamics of periphyton growth and the potential relationships with nitrogen and copper concentrations in high elevation lakes of the Sierra Nevada mountains in Sequoia National Park, California. Additional research questions included those related to ecological variation between different lakes within the same basin, and those related to potential ecotoxicity of copper to organisms in these ecosystems. Files in this release contain data of lake depth profiles, lake watershed characteristics, Secchi depth, time series of specific parameters measured in study lakes and stream sites, water chemistry, sediment copper concentrations, periphyton copper concentrations and growth metrics (chlorophyll a and ash-free dry mass), and Pacific chorus frog tadpole (Pseudacris regilla) morphological characteristics, copper concentrations, and histological evaluations of liver tissue.  The lake profile data includes measurements of dissolved oxygen, pH, temperature, conductivity, chlorophyll a, and phycocyanin at the surface, middle, and greatest depths of each lake and at each visit.  Lake watershed data includes surface areas of the lakes and their watersheds, lake depths, summary statistics for elevation, slope, and aspect, and the proportions of each lake watershed covered by meadow, rock, upland, or other aquatic habitats.  The time series data includes hourly measurements of temperature, conductivity, dissolved oxygen, pH, and nitrate at the six lake and two stream sites (nitrate only measured at the stream sites) for approximately April through November (specific timing varied by site and year).  Water chemistry data includes concentration measurements of a variety of cations, anions, nutrients, dissolved organic matter, and copper.  Tadpole morphological measurements include Gosner stage, mass, snout-vent length, total length, and the presence of deformities.  Roughly half of all collected tadpoles were processed for whole-body copper concentration, and the other half had livers dissected for histological processing and evaluation.</abstract>
+      <purpose>The purpose of this dataset is to provide a holistic assessment of the six study lakes in the Tokopah Basin of Sequoia National Park, California.  These data have primarily been used to address two research topics.  The first research project investigated the potential for periphyton growth metrics to be influenced by macro- and micronutrients, namely nitrogen and copper, respectively.  In addition to the periphyton samples, we also collected and measured physical, chemical, and biological properties of the study lakes to inform our understanding of the variation in periphyton growth among the study lakes.  We included two stream sites in the study to help develop an overall picture of the Tokopah Basin and characterize changes in nitrate concentrations in remote, high-elevation aquatic ecosystems over time.  These data were also used to investigate the potential for ecotoxicological effects of copper on a native amphibian, the Pacific chorus frog tadpole (Pseudacris regilla).  In the future, these data can be used as reference or comparison values if similar samples are taken in the future from the same lakes (e.g., water chemistry, sediment copper, or periphyton growth metrics).  These data can also be used as comparisons if similar samples are collected from other alpine lake ecosystems in the future, both regionally (Sierra Nevada or Rocky Mountain ranges) and globally (i.e., other mountain ranges in Europe), where similar research is often conducted.  Finally, some of the data shared in this release (some of the time series data) are also incorporated in a field experiment study for which the bulk of the data are released in a separate package at https://doi.org/10.5066/P134F43I</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20210615</begdate>
+          <enddate>20221015</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <descgeog>Tokopah Basin</descgeog>
+      <bounding>
+        <westbc>-118.72581</westbc>
+        <eastbc>-118.61107</eastbc>
+        <northbc>36.64232</northbc>
+        <southbc>36.57774</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>biota</themekey>
+        <themekey>inlandWaters</themekey>
+        <themekey>environment</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>Limnology</themekey>
+        <themekey>periphyton</themekey>
+        <themekey>ecology</themekey>
+        <themekey>ecotoxicology</themekey>
+        <themekey>water quality</themekey>
+        <themekey>nutrient cycling</themekey>
+        <themekey>amphibians</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:67ae1a04d34e3f09c0e0f018</themekey>
+      </theme>
+      <place>
+        <placekt>Geographic Names Information System</placekt>
+        <placekey>Tulare County</placekey>
+      </place>
+      <place>
+        <placekt>Getty Thesaurus of Geographic Names</placekt>
+        <placekey>Sequoia National Park</placekey>
+      </place>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Tokopah Basin</placekey>
+      </place>
+    </keywords>
+    <taxonomy>
+      <keywtax>
+        <taxonkt>None</taxonkt>
+        <taxonkey>amphibians</taxonkey>
+      </keywtax>
+      <taxonsys>
+        <classsys>
+          <classcit>
+            <citeinfo>
+              <origin>Integrated Taxonomic Information System (ITIS)</origin>
+              <pubdate>2024</pubdate>
+              <title>Integrated Taxonomic Information System (ITIS)</title>
+              <geoform>ONLINE_REFERENCE</geoform>
+              <pubinfo>
+                <pubplace>Washington, D.C.</pubplace>
+                <publish>Integrated Taxonomic Information System (ITIS)</publish>
+              </pubinfo>
+              <onlink>http://itis.gov</onlink>
+            </citeinfo>
+          </classcit>
+        </classsys>
+        <ider>
+          <cntinfo>
+            <cntperp>
+              <cntper>Gabrielle E Ruso</cntper>
+              <cntorg>USGS - WATER</cntorg>
+            </cntperp>
+            <cntpos>Physical Scientist</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical</addrtype>
+              <address>Columbia Environmental Res Ctr,CERC - A-3 Main Office/LAb</address>
+              <city>Columbia</city>
+              <state>MO</state>
+              <postal>65201</postal>
+            </cntaddr>
+            <cntvoice>573-875-5399</cntvoice>
+            <cntemail>gruso@usgs.gov</cntemail>
+          </cntinfo>
+        </ider>
+        <taxonpro>expert advice</taxonpro>
+        <taxoncom>Test organisms were identified confidently as the only frog species present at the study site.</taxoncom>
+      </taxonsys>
+      <taxongen>All test organisms were identified to species</taxongen>
+      <taxoncl>
+        <taxonrn>Kingdom</taxonrn>
+        <taxonrv>Animalia</taxonrv>
+        <common>animals</common>
+        <taxoncl>
+          <taxonrn>Subkingdom</taxonrn>
+          <taxonrv>Bilateria</taxonrv>
+          <common>triploblasts</common>
+          <taxoncl>
+            <taxonrn>Infrakingdom</taxonrn>
+            <taxonrv>Deuterostomia</taxonrv>
+            <taxoncl>
+              <taxonrn>Phylum</taxonrn>
+              <taxonrv>Chordata</taxonrv>
+              <common>chordates</common>
+              <taxoncl>
+                <taxonrn>Subphylum</taxonrn>
+                <taxonrv>Vertebrata</taxonrv>
+                <common>vertebrates</common>
+                <taxoncl>
+                  <taxonrn>Infraphylum</taxonrn>
+                  <taxonrv>Gnathostomata</taxonrv>
+                  <taxoncl>
+                    <taxonrn>Superclass</taxonrn>
+                    <taxonrv>Tetrapoda</taxonrv>
+                    <taxoncl>
+                      <taxonrn>Class</taxonrn>
+                      <taxonrv>Amphibia</taxonrv>
+                      <common>Amphibians</common>
+                      <taxoncl>
+                        <taxonrn>Order</taxonrn>
+                        <taxonrv>Anura</taxonrv>
+                        <common>Frogs</common>
+                        <common>Toads</common>
+                        <taxoncl>
+                          <taxonrn>Family</taxonrn>
+                          <taxonrv>Hylidae</taxonrv>
+                          <common>Hylids</common>
+                          <common>New World Tree Frogs</common>
+                          <common>Treefrogs</common>
+                          <common>Hylid Frogs</common>
+                          <taxoncl>
+                            <taxonrn>Subfamily</taxonrn>
+                            <taxonrv>Acridinae</taxonrv>
+                            <taxoncl>
+                              <taxonrn>Genus</taxonrn>
+                              <taxonrv>Pseudacris</taxonrv>
+                              <common>Chorus Frogs</common>
+                              <common>Spring Peepers</common>
+                              <taxoncl>
+                                <taxonrn>Species</taxonrn>
+                                <taxonrv>Pseudacris regilla</taxonrv>
+                                <common>Northern Pacific Treefrog</common>
+                                <common>Pacific Chorus Frog</common>
+                                <common>Pacific Treefrog</common>
+                                <common>TSN: 207313</common>
+                              </taxoncl>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                    </taxoncl>
+                  </taxoncl>
+                </taxoncl>
+              </taxoncl>
+            </taxoncl>
+          </taxoncl>
+        </taxoncl>
+      </taxoncl>
+    </taxonomy>
+    <accconst>None.  Please see 'Distribution Info' for details.</accconst>
+    <useconst>It is requested that the authors and the USGS Columbia Environmental Research Center be cited for any subsequent publications that reference this dataset.  Users are advised to read the dataset's metadata thoroughly to understand appropriate use and data limitations.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Gabrielle E Ruso</cntper>
+          <cntorg>USGS - WATER</cntorg>
+        </cntperp>
+        <cntpos>Physical Scientist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Columbia Environmental Res Ctr,CERC - A-3 Main Office/LAb</address>
+          <city>Columbia</city>
+          <state>MO</state>
+          <postal>65201</postal>
+        </cntaddr>
+        <cntvoice>573-875-5399</cntvoice>
+        <cntemail>gruso@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Windows 11 version 23H2, build 22631.3880; notepad++ 64-bit x64 version 8.6.9</native>
+    <tool>
+      <tooldesc>R: A Language and Environment for Statistical Computing: Version 4.2.2. R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS.</tooldesc>
+      <toolacc>
+        <onlink>https://www.R-project.org/</onlink>
+        <toolinst>R is open access can be downloaded from https://www.R-project.org/</toolinst>
+      </toolacc>
+      <toolcite>
+        <citeinfo>
+          <origin>R Core Team</origin>
+          <pubdate>20240229</pubdate>
+          <title>R: A Language and Environment for Statistical Computing</title>
+          <geoform>software</geoform>
+        </citeinfo>
+      </toolcite>
+    </tool>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>For the logger and YSI data (hourlyLoggers, YSI_Clean), we performed calibrations in the field every month.  For the loggers, we performed these calibrations when we retrieved data during site visits before we re-deployed the loggers in the water.  For the YSI sonde, we performed recalibration before conducting a depth profile in each lake during every site visit.  After retrieving data, we spot-checked data and removed measurements that were recorded when the loggers or sonde were out of the water.  
+For water, sediment, and periphyton samples we collected a series of field replicates, and for the water and sediment samples we also collected field sample duplicates.  We collected these replicates and duplicates to account for natural variation that we expected to find.  For the water, sediment, periphyton, and tadpole samples (excluding periphyton chlorophyll a and ash-free dry mass), we used several lab processes to ensure that the data were as correct as possible.  For example, the labs ran calibration standards and curves, ran a random subset of samples in duplicate (i.e., the same sample run twice), and selected a random subset of samples to ‘spike’ with the target analyte. These methods allowed for the verification of the methodology, and the calculation of relative percent difference and percent recovery.  Any samples, albeit few in number, which were identified as potential outliers have been indicated in the comments or notes field of their respective data tables. Given the more destructive nature of the lab analyses for periphyton chlorophyll a and ash-free dry mass, lab duplicates and sample spikes could not be run.  However, the greater number of field sample duplicates helps to quantify the natural variation observed.  For all samples, standard protocols were employed and are described and cited in the methods section of this metadata.  Finally, in the field and office, we used tablets for data entry and pre-printed sample labels to facilitate efficient sample collection and processing.</attraccr>
+    </attracc>
+    <logic>Lab processes included spiking a subset of samples to evaluate recovery rates and samples were acceptable (e.g., percent recovery of 80 to 120 percent).  Lab processes for water nutrient samples included the use of modified calibration curves, that is –calibration curves using lower concentrations to better reflect the environmental conditions of our study.  A few samples were potential outliers, but some of these appeared consistent (from the same lake) or could be explained by lab processing.  Such cases are identified in the notes section of their respective files.</logic>
+    <complete>In September and October of 2021, there was a large fire that did not burn our field sites but prevented field access. Therefore, we could not collect samples for our planned trips in each of those months.  Instead, we were able to visit field sites in early November 2021 to retrieve all sample gear, and as many samples as possible.  We were able to collect limited water, sediment, and periphyton samples during this trip.  Additionally, in 2022, we could not collect data from one section of Topaz Lake due to safety hazards of a large thunderstorm that was building over the lake. We retrieved most of the planned samples from that lake but could not collect 100 percent of them. Otherwise, data set is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>For the spatial landscape-level, we relied on existing data sources to validate coordinate accuracy.</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>No formal positional accuracy tests were conducted</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <method>
+        <methtype>both</methtype>
+        <methdesc>This study collected data on high altitude lakes. This included watershed data using existing data sources, and field sampling for lake periphyton growth, water quality, copper concentrations in tadpoles. Each lake was visited 5 times annually for 2 years.</methdesc>
+        <methcite>
+          <citeinfo>
+            <origin>Barry J. F. Biggs</origin>
+            <origin>Cathy Kilroy</origin>
+            <pubdate>2000</pubdate>
+            <title>Stream Periphyton Monitoring Manual</title>
+            <geoform>publication</geoform>
+            <pubinfo>
+              <pubplace>Christchurch, New Zealand</pubplace>
+              <publish>NIWA</publish>
+            </pubinfo>
+            <othercit>Biggs, B. J. F., and C. Kilroy. 2000. Stream periphyton monitoring manual. National Institute of Water and Atmospheric Research for the New Zealand Ministry for the Environment, Wellington, New Zealand.</othercit>
+            <onlink>https://niwa.co.nz/freshwater/stream-periphyton-monitoring-manual</onlink>
+          </citeinfo>
+        </methcite>
+        <methcite>
+          <citeinfo>
+            <origin>Lihong Chai</origin>
+            <origin>Hongyuan Wang</origin>
+            <origin>Hongzhang Deng</origin>
+            <origin>Hongfeng Zhao</origin>
+            <origin>Wenke Wang</origin>
+            <pubdate>20140321</pubdate>
+            <title>Chronic exposure effects of copper on growth, metamorphosis and thyroid gland, liver health in Chinese toad (Bufo gargarizans) tadpoles</title>
+            <geoform>publication</geoform>
+            <serinfo>
+              <sername>Chemistry and Ecology</sername>
+              <issue>vol. 30, issue 7</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>n/a</pubplace>
+              <publish>Informa UK Limited</publish>
+            </pubinfo>
+            <othercit>ppg. 589-601</othercit>
+            <onlink>https://doi.org/10.1080/02757540.2014.894985</onlink>
+          </citeinfo>
+        </methcite>
+        <methcite>
+          <citeinfo>
+            <origin>Ilana A Galex</origin>
+            <origin>Cameron M Gallant</origin>
+            <origin>Nicole D'Avignon</origin>
+            <origin>Lauren M Kuchenbrod</origin>
+            <origin>Craig A Fletcher</origin>
+            <origin>Allison R Rogala</origin>
+            <pubdate>20200501</pubdate>
+            <title>Evaluation of Effective and Practical Euthanasia Methods for Larval African Clawed Frogs (Xenopus laevis)</title>
+            <geoform>publication</geoform>
+            <serinfo>
+              <sername>Journal of the American Association for Laboratory Animal Science</sername>
+              <issue>vol. 59, issue 3</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>n/a</pubplace>
+              <publish>American Association for Laboratory Animal Science</publish>
+            </pubinfo>
+            <othercit>ppg. 269-274</othercit>
+            <onlink>https://doi.org/10.30802/AALAS-JAALAS-19-000141</onlink>
+          </citeinfo>
+        </methcite>
+        <methcite>
+          <citeinfo>
+            <origin>Kenneth L. Gosner</origin>
+            <pubdate>1960</pubdate>
+            <title>A Simplified Table for Staging Anuran Embryos and Larvae with Notes on Identification</title>
+            <geoform>publication</geoform>
+            <serinfo>
+              <sername>Herpetologica</sername>
+              <issue>Vol 16, No. 3</issue>
+            </serinfo>
+            <othercit>Gosner, K. L. 1960. A simplified table for staging anuran embryos and larvae with notes on identification. Herpetologica 16:183-190.</othercit>
+            <onlink>https://www.jstor.org/stable/3890061</onlink>
+          </citeinfo>
+        </methcite>
+        <methcite>
+          <citeinfo>
+            <origin>MERT GÜRKAN</origin>
+            <origin>SİBEL HAYRETDAĞ</origin>
+            <pubdate>20120101</pubdate>
+            <title>Morphological and histological effects of copper sulfate on the larval development of green toad, Bufo viridis</title>
+            <geoform>publication</geoform>
+            <pubinfo>
+              <pubplace>n/a</pubplace>
+              <publish>The Scientific and Technological Research Council of Turkey (TUBITAK-ULAKBIM) - DIGITAL COMMONS JOURNALS</publish>
+            </pubinfo>
+            <onlink>https://doi.org/10.3906/zoo-0909-18</onlink>
+          </citeinfo>
+        </methcite>
+        <methcite>
+          <citeinfo>
+            <origin>R. Hilmans</origin>
+            <pubdate>2023</pubdate>
+            <title>Raster: geographic data analysis and modeling</title>
+            <edition>version 3.6-26</edition>
+            <geoform>application/service</geoform>
+            <othercit>Hijmans, R. 2023. Raster: geographic data analysis and modeling. R package version 3.6-26. https://cran.r-project.org/package=raster.</othercit>
+            <onlink>https://cran.r-project.org/package=raster</onlink>
+          </citeinfo>
+        </methcite>
+        <methcite>
+          <citeinfo>
+            <origin>Edzer Pebesma</origin>
+            <origin>Roger Bivand</origin>
+            <pubdate>20230510</pubdate>
+            <title>Spatial Data Science</title>
+            <geoform>publication</geoform>
+            <pubinfo>
+              <pubplace>New York</pubplace>
+              <publish>Chapman and Hall/CRC</publish>
+            </pubinfo>
+            <onlink>https://doi.org/10.1201/9780429459016</onlink>
+          </citeinfo>
+        </methcite>
+        <methcite>
+          <citeinfo>
+            <origin>D. D. MacDonald</origin>
+            <origin>C. G. Ingersoll</origin>
+            <origin>T. A. Berger</origin>
+            <pubdate>20000630</pubdate>
+            <title>Development and Evaluation of Consensus-Based Sediment Quality Guidelines for Freshwater Ecosystems</title>
+            <geoform>publication</geoform>
+            <serinfo>
+              <sername>Archives of Environmental Contamination and Toxicology</sername>
+              <issue>vol. 39, issue 1</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>n/a</pubplace>
+              <publish>Springer Science and Business Media LLC</publish>
+            </pubinfo>
+            <othercit>ppg. 20-31</othercit>
+            <onlink>https://doi.org/10.1007/s002440010075</onlink>
+          </citeinfo>
+        </methcite>
+        <methcite>
+          <citeinfo>
+            <origin>T. Morgan-Wall</origin>
+            <pubdate>2024</pubdate>
+            <title>Rayshader: create maps and visualize data in 2D and 3D</title>
+            <geoform>publication</geoform>
+            <othercit>Morgan-Wall, T. 2024. Rayshader: create maps and visualize data in 2D and 3D. R package version 0.37.3. https://cran.r-project.org/package=rayshader.</othercit>
+            <onlink>https://cran.r-project.org/package=rayshader</onlink>
+          </citeinfo>
+        </methcite>
+        <methcite>
+          <citeinfo>
+            <origin>Donald E. Tillitt</origin>
+            <origin>Diana M. Papoulias</origin>
+            <origin>Jeffrey J. Whyte</origin>
+            <origin>Catherine A. Richter</origin>
+            <pubdate>201008</pubdate>
+            <title>Atrazine reduces reproduction in fathead minnow (Pimephales promelas)</title>
+            <geoform>publication</geoform>
+            <serinfo>
+              <sername>Aquatic Toxicology</sername>
+              <issue>vol. 99, issue 2</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>n/a</pubplace>
+              <publish>Elsevier BV</publish>
+            </pubinfo>
+            <othercit>ppg. 149-159</othercit>
+            <onlink>https://doi.org/10.1016/j.aquatox.2010.04.011</onlink>
+          </citeinfo>
+        </methcite>
+        <methcite>
+          <citeinfo>
+            <origin>U.S. Environmental Protection Agency</origin>
+            <pubdate>1983</pubdate>
+            <title>Methods for chemical analysis of water and wastes</title>
+            <geoform>publication</geoform>
+          </citeinfo>
+        </methcite>
+        <methcite>
+          <citeinfo>
+            <origin>U.S. Environmental Protection Agency</origin>
+            <pubdate>1996</pubdate>
+            <title>Method 3050B: acid digestion of sediments, sludges, and soils, revision 2</title>
+            <geoform>publication</geoform>
+          </citeinfo>
+        </methcite>
+        <methcite>
+          <citeinfo>
+            <origin>U.S. Environmental Protection Agency</origin>
+            <pubdate>2014</pubdate>
+            <title>Method 6020B: inductively coupled plasma-mass spectrometry</title>
+            <geoform>publication</geoform>
+          </citeinfo>
+        </methcite>
+        <methcite>
+          <citeinfo>
+            <origin>Q. Wu</origin>
+            <origin>A. Brown</origin>
+            <pubdate>2022</pubdate>
+            <title>Whitebox: 'whiteboxtools' R frontend</title>
+            <geoform>publication</geoform>
+            <othercit>Wu, Q., and A. Brown. 2022. Whitebox: 'whiteboxtools' R frontend. R package version 2.2.0. https://cran.r-project.org/package=whitebox.</othercit>
+            <onlink>https://cran.r-project.org/package=whitebox</onlink>
+          </citeinfo>
+        </methcite>
+      </method>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>NASA/METI/AIST/Japan Space systems And U.S./Japan ASTER Science Team</origin>
+            <pubdate>2019</pubdate>
+            <title>ASTER Global Digital Elevation Model V003</title>
+            <edition>Version 3</edition>
+            <geoform>raster digital data</geoform>
+            <serinfo>
+              <sername>ASTGTM.003</sername>
+              <issue>Version 3</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Sioux Falls, South Dakota, USA</pubplace>
+              <publish>NASA EOSDIS Land Processes Distributed Active Archive Center</publish>
+            </pubinfo>
+            <othercit>This file is a Terra Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) Global DEM, obtained from https://search.earthdata.nasa.gov/search – search for file name: ASTGTMV003_N36W119. The file used was ASTGTMV003_N36W119_dem.tif</othercit>
+            <onlink>https://doi.org/10.5067/aster/astgtm.003</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>20000301</begdate>
+              <enddate>20131130</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>ASTER Global Digital Elevation Model V003, 2019</srccitea>
+        <srccontr>Digital elevation model including the sampled area. This file was used to delineate watersheds of each study lake. Then, for each watershed, we calculated summary statistics for elevation, aspect, and slope.  We also used the watershed outlines to clip land cover data and calculate land cover proportions for each lake.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>National Park Service</origin>
+            <pubdate>2009</pubdate>
+            <title>Geospatial data for the Vegetation Mapping Inventory Project of Sequoia and Kings Canyon National Parks</title>
+            <geoform>vector digital data</geoform>
+            <onlink>https://irma.nps.gov/DataStore/Reference/Profile/2252079</onlink>
+          </citeinfo>
+        </srccite>
+        <srcscale>15840</srcscale>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>2000</begdate>
+              <enddate>2007</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>Geospatial data for the Vegetation Mapping Inventory Project of Sequoia and Kings Canyon National Parks, 2009</srccitea>
+        <srccontr>These spatial data were used to determine the surface area of each study lake (ha), and the surface area of each lake watershed (ha).  Additionally, after delineating watersheds with the DEM described above – we calculated the proportion of land cover types in each lake watershed.  These proportion data are provided in lakeSpatialData.csv, but this geodatabase containing the original land cover data are not included in the data release package.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>United States Geological Survey</origin>
+            <pubdate>1994</pubdate>
+            <title>USGS Water Data for the Nation</title>
+            <geoform>dataset</geoform>
+            <pubinfo>
+              <pubplace>https://www.sciencebase.gov</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <othercit>SiteID:11206820; directly accessible at https://waterdata.usgs.gov/monitoring-location/11206820.</othercit>
+            <onlink>https://doi.org/10.5066/f7p55kjn</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>20210120</begdate>
+              <enddate>20221214</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>USGS Water Data for the Nation</srccitea>
+        <srccontr>These data were used to compare measurements of nitrate in the same stream site location between our passive data logger and the U.S. Geological Survey’s standard grab sample collection method.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Study Sites: Data were collected from six lakes and two sites of the Marble Fork Kaweah River in the Tokopah Basin of Sequoia National Park, California.  Passive data loggers were placed in two stream sites (described below) to measure water chemistry parameters at a location indicative of headwaters (Tablelands) and a stream location that drains all six lakes [USGS (U.S. Geological Survey) Station Gage].  The six lakes, Heather, Emerald, Pear, Lyness, Frog, and Topaz, are high elevation lakes.</procdesc>
+        <procdate>2021</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Sampling Design: Most field sampling was conducted monthly from June through October of 2021 and 2022.  During each site visit, we collected water, sediment, and periphyton samples, retrieved passive logger data, and collected depth profiles at the deepest point of each lake.  The total length of each lake shoreline was divided randomly into three littoral sections where samples were collected. In September and October 2021, field access was restricted due to the Cabin, Colony, and Paradise Wildfire Complex.  A shortened site visit was accomplished in early November 2021, during which we collected a small subset of samples, including single water samples from Heather, Emerald, and Pear Lakes, and ash-free dry mass periphyton samples from all lakes.</procdesc>
+        <procdate>2021</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Watershed Characterizations (lakeSpatialData.csv): Watersheds were defined and land cover proportions were calculated using the packages raster (Hijmans 2023), stars (Pebesma and Bivand 2023), rayshader (Morgan-Wall 2024), and whitebox (Wu 2022) in Program R (version 4.2.2, R Core Team 2024).  We used a digital elevation model (DEM) raster file from NASA (Granule ID: ASTMGTMV003_N36W119; https://search.earthdata.nasa.gov/search)   which represents satellite data collected between 1 March 2000 and 30 November 2013, and set the outlet of each lake as the ‘pour point’ of each watershed to delineate watersheds and calculate elevation, slope, and aspect characteristics.  Slope and aspect were calculated using the wbt_slope() and wbt_aspect() functions, respectively, from the whitebox package for Program R (Wu 2022).  Geospatial vegetation and land cover data (collected in 2000-2001 by Sequoia and Kings Canyon National Parks, Division of Resources Management and Science; https://irma.nps.gov/DataStore/Reference/Profile/2252079) were used to calculate catchment area to lake surface area ratios (CA:LA) and proportions of land cover (meadow, rock, upland, or water).</procdesc>
+        <srcused>Geospatial data for the Vegetation Mapping Inventory Project of Sequoia and Kings Canyon National Parks, 2009</srcused>
+        <srcused>ASTER Global Digital Elevation Model V003, 2019</srcused>
+        <procdate>2024</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Passive Data Loggers (hourlyLoggers.rds/csv, usgsStationWQ.rds/csv): Twenty-six passive data loggers were deployed across eight sites in the Tokopah Basin.  At the lake and stream sites, loggers were deployed to measure conductivity and temperature (microSiemens/cm and degrees Celsius; HOBO U24-001), dissolved oxygen (mg/L; MiniDOT Clear Logger), and pH (HOBO MX2501).  At the stream sites we additionally deployed loggers that measured nitrate (NO3-N mg/L; OTT HydroMet ecoN), which required temporary installation of a small solar panel and a site controller with built-in modem (OTT HydroMet XLink 500) to retrieve data.  All loggers collected hourly measurements and data were retrieved with tablets during site visits. The most downstream stream site was located next to a USGS Stream Gage (site identification number: 11206820) which allowed us to make comparisons with USGS grab samples of nitrate that we retrieved online from the USGS National Water Dashboard.  The upstream river site was in the Tablelands region of the basin.</procdesc>
+        <srcused>USGS Water Data for the Nation</srcused>
+        <procdate>2021</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Lake Depth Profiles (secchi.csv, YSI_Clean.csv): During each site visit, we used an inflatable raft to paddle to the deepest point of each lake and used a sonde (YSI, Inc. EXO1) to measure temperature (degrees Celsius), dissolved oxygen (mg/L), conductivity (microSiemens/cm), pH, chlorophyll a (relative fluorescence units, 0 – 100 RFU), and phycocyanin (a cyanobacteria-specific pigment; RFU).  The first measurement was performed at the lake surface, the second at the half-way point, and the last at approximately 1 meter above the lake bottom.  The sonde and sensors worked during most field visits, however there were cases when the sonde or specific sensors did not work and data were not collected.  Ascending and descending Secchi depth measurements were collected in triplicate as an indicator of water clarity using a Secchi disc tied to paracord marked every 0.1 m.    If the Secchi disc was visible at the bottom of the lake, maximum lake depth, as determined with a handheld depth finder, was recorded as the Secchi depth for that visit.</procdesc>
+        <procdate>2021</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Water Samples (waterchem.csv, waternutr.csv) - Field Methods: At each lake section, and during each visit, we collected water samples for cations (Ca2+, Fe2+, K+, Mg2+, Mn2+, Na+, Sr2+, mg/L), anions (Br-, Cl-, F-, SO42-, mg/L), nutrients [nitrogen (N): NH3-N, NO2- + NO3--N, and phosphorus (P): PO43--P, and total P, µg/L], dissolved copper (Cu µg/L), dissolved organic carbon (DOC, mg/L), and alkalinity (as CaCO3 mg/L).  Cation, anion, copper, and nutrient samples were collected in acid-washed 50 ml falcon tubes and DOC samples were collected in 50 ml glass amber vials.  Nutrient samples were split into two separate falcon tubes – one for the dissolved analytes (ammonia: NH3-N, nitrite/nitrate: NO2- + NO3--N, and phosphate: PO43--P), and one for total P.  The dissolved nutrient samples were filtered in the field with syringes and 45 micrometer filter tips.  To collect water samples, we rinsed each tube with lake water three time before filling the tube (nutrient sample tubes were rinsed with filtered water).  During each site visit, we randomly assigned one duplicate and one blank sample for each lake.  Therefore, sample size for each analyte varied by lake and trip.  Blank samples were collected by filling the designated container with deionized (DI) water stored in a covered squirt bottle.  All water samples were stored on ice while in the field.  Upon returning to the lab at Sequoia National Park headquarters, we stored all water samples in a refrigerator at 4 degrees Celsius, except for the nutrient samples which were frozen at -20 degrees Celsius, until all samples were shipped on ice to their analysis destinations.  Upon arrival, all samples were again stored in a freezer at -20 degrees Celsius until they were analyzed.</procdesc>
+        <procdate>2021</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Water Samples (waterchem.csv, waternutr.csv) - Lab Methods: Nutrient samples were processed by the Center for Reservoir and Aquatic Systems Research (CRASR) lab at Baylor University.  All samples were analyzed on a Lachat Quikchem Flow Injection Analysis System (Hach) following method 10-107-06-1-J for ammonia (NH3-N), method 10-107-04-1-J for nitrite/nitrate (NO2- + NO3--N), and method 10-115-01-1-M for phosphate (PO42--P) and total phosphorus.  Method detection limits (MDLs) were calculated for each analyte and for each batch of samples.  Due to variation in sample size per batch and standard deviation of the measurements, MDLs varied with each sample batch.  The range of MDLs were 0.97 – 5.46 NH3-N micrograms per liter, 0.37 – 4.95 NO2- + NO3¬--N micrograms per liter, 0.86 – 3.53 PO42--P micrograms per liter, and 0.72 – 2.63 total P micrograms per liter. All other water samples (cations, anions, dissolved copper, DOC, and alkalinity) were processed by the USGS Columbia Environmental Research Center (CERC).  Copper samples were measured using inductively coupled plasma-mass spectrometry (ICP-MS) following USGS CERC protocols and the U.S. Environmental Protection Agency (USEPA) Method 6020B (USEPA 2014).  MDLs varied with sample batches and ranged from 0.4 to 0.7 Cu micrograms per Liter.  Cation samples were filtered at 0.45 micrometers, acidified with nitric acid, and analyzed with ICP-MS; anion samples were filtered at 0.45 micrometers and analyzed with ion chromatography; and DOC samples were filtered at 0.45 micrometers, acidified with sulfuric acid, and analyzed on a total organic carbon analyzer.  Due to limited sample water volumes, we only measured one sample of filtered water from each lake and each trip for alkalinity via titration.  A pooled 15 ml sample of filtered (0.45 micrometers) water (5 ml from each lake section sample) was placed in a 25 ml beaker on a magnetic stir plate with a stabilized pH meter taking continuous measurements.  Small volumes (2-10 microliters) of sulfuric acid were added until the pH reached 4.5 and alkalinity was calculated as CaCO3 mg/L following USEPA Method 310.1 (USEPA 1983).  The ranges of MDL were 0.01 – 0.5 mg/L for cations, 0.02 – 1.5 mg/L for anions, 0.4 – 0.8 mg/L for DOC, and there was no MDL for alkalinity.  Sample spikes (i.e., samples spiked with a known quantity of analyte), analytical laboratory replicates, and National Institute of Standards and Technology (NIST)-traceable reference materials and calibration standards were used in each sample batch for quality control.</procdesc>
+        <procdate>2021</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Sediment Samples (sediment.csv) - Field Methods: One sediment sample was collected from each of the three lake sections, as well as one duplicate sample randomly assigned to a section.  Thus, four sediment samples were collected from each lake during each site visit.  Using a plastic scoop, we collected a minimum of 10 g of sediments from the littoral zones of each lake section in less than 1 m of water, and sieved (2 mm, MacDonald et al. 2000) samples into acid-washed plastic jars.  Sediment samples were retrieved from approximately the same 3 m x 3 m location on each visit, were kept on ice while in the field, and stored in a freezer at -20 degrees Celsius until they were shipped on ice to CERC for analysis.</procdesc>
+        <procdate>2021</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Sediment Samples (sediment.csv) -  Lab Methods: Sediment samples were lyophilized and digested in a microwave with nitric acid and hydrogen peroxide before total recoverable copper concentrations were measured with ICP-MS following USGS CERC protocols and USEPA Methods 3050B (USEPA 1996) and 6020B (USEPA 2014), respectively. Method detection limit (MDL) values varied across sample batches and ranged from 0.1 – 1 micrograms per gram. To maintain quality control, sample batches included method replicates and spikes, using NIST-traceable calibration standard and reference materials.</procdesc>
+        <procdate>2021</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Periphyton Samples (periChlaAfdm.csv, periphytonCu.csv) - Field Methods - Tile setup: To establish a consistent method of periphyton growth and sample collection, we designed and set arrays of textured acrylic tiles (TAP Plastics, San Leandro, CA) in each lake.  Each tile measured 101.6 mm x 101.6 mm (4 in x 4 in) x 3.175 mm (1/8 in) thick and was attached to a PVC grid using zip-ties threaded through two small holes in the center of each tile.  Rectangular grids were built with perforated PVC pipe [1.9 cm (0.75 in) diameter] arranged in four horizontal rungs. Each grid held 10 tiles, and 9 grids were placed in each lake’s littoral zone (three grids per section) in June of each year, totaling 90 tiles per lake per year. Grids remained in the lakes for approximately two months (53 – 67 days) before sample collection.  One grid per lake section was collected during site visits in August (Trip 3) and early November 2021 (Trip 5), and in August, September, and October 2022 (Trips 3, 4, and 5, respectively).  The sampling schedule differed between the two years because the Cabin, Colony, and Paradise Wildfire Complex prevented field access in September and October 2021.  During each visit and from each tile grid, we collected three tiles for chlorophyll a, three tiles for ash-free dry mass (AFDM), and three tiles for copper concentrations.  In November 2021, additional tiles that were not collected during the wildfires were used to obtain additional AFDM measurements.</procdesc>
+        <procdate>2021</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Periphyton Samples (periChlaAfdm.csv, periphytonCu.csv) - Field Methods - sample collection: To collect tile samples in the field, one grid was gently removed from a lake section and brought to the shoreline.  For each grid, tiles were assigned the numbers 1 – 10, and we randomly pre-selected which tile was used for each sample type. The three copper tiles were removed from the grid with pliers and placed into clean plastic bags. AFDM and chlorophyll a samples were processed similarly.  Before removing the tiles, we set up small filter towers (250 and 500 ml NalgeneTM Reuseable Filter Units) with handheld vacuum pumps (NalgeneTM Repairable Hand-operated PVC Vacuum Pump) and glass fiber filters. AFDM samples were collected on pre-ashed, pre-weighed filters (Whatman Grade 934-AHTM RTU, 47 mm), and chlorophyll a samples were collected on Grade GF/F filters (Whatman, 47 mm).  Small nylon brushes were used to brush all the periphyton off the tile onto the filter, and we used DI water to rinse the tile, brush, and filter tower. Once all periphyton was removed from the tile and the vacuum filtering finished, we removed the filter, folded it in half, and placed it in a bag or pouch. The AFDM samples were placed in plastic bags, and the chlorophyll a samples were placed in small envelopes made of aluminum foil. One nylon brush was dedicated for each lake and was cleaned between samples with DI water.  All samples were held on ice in the field until we returned to the lab at Sequoia National Park headquarters, where we stored all samples in a freezer (-20 degrees Celsius).  Samples were shipped on ice to their respective labs for processing: chlorophyll a samples collected in August 2021 went to the University of Missouri Limnology Lab, and samples collected in 2022 went to the CRASR Lab at Baylor University. All AFDM and copper samples were sent to CERC.</procdesc>
+        <procdate>2021</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Periphyton Samples (periChlaAfdm.csv, periphytonCu.csv) - Lab methods: Copper concentration samples were processed using similar methods as those used for the sediment samples.  Periphyton was scraped from tiles, lyophilized, and microwave-digested with nitric acid and hydrogen peroxide (similar to USEPA Method 3050B; USEPA 1996).  Copper concentrations were then measured using ICP-MS (USEPA method 6020B; USEPA 2014) and the MDLs ranged from 0.1 – 0.4 micrograms per gram dry weight.  A total of 29 samples had low dry weights (i.e., less than the recommended 0.02 g for analysis), thus we composited samples from the same lake section when necessary.  Chlorophyll a was first extracted from the samples in heated ethanol (90 – 95 percent at 72 – 78 degrees Celsius) for 5 – 20 min, then steeped overnight.  Chlorophyll a concentrations were measured using a spectrophotometer and were corrected for pheophytin with acidification (Biggs and Kilroy 2000).  Pheophytin is a byproduct of chlorophyll a degradation, and chlorophyll a measures corrected for this byproduct account for dead algae cells (Biggs and Kilroy 2000).  AFDM samples were processed with a two-step oven-drying process following USGS CERC protocols similar to Biggs and Kilroy (2000).  Finally, we divided all chlorophyll a and AFDM measurements by the surface area of the tiles. Therefore, values for these measurements are presented as a total and as a concentration per the surface area of the tile for each sample.</procdesc>
+        <procdate>2021</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Tadpoles (tadpole.csv, histology.csv) - Field Methods: Tadpoles (n = approximately 30 per lake per year) were collected with aquarium nets from along each lake shoreline in July 2021 and 2022.  Approximately 15 tadpoles per lake were collected for whole-body copper concentrations and another 15 tadpoles for histology.  At Frog Lake in 2021, however, only tadpoles for copper concentrations were collected, due to few observed tadpoles.  Upon collection, tadpoles were kept live in containers filled with lake water and set in the lake’s littoral zone to maintain a suitable temperature while tadpoles were processed.  
+Each tadpole was euthanized individually with an overdose of MS-222 (Galex et al. 2020) then gently dried, before we recorded mass (to 0.001 g), total length (mm), snout-vent length (SVL, mm), and Gosner stage (Gosner 1960).  We noted deformities and distinguished between cases where tails appeared to have recent damage from collection and those where tail damage appeared to be healed and thus older and naturally occurring.  Tadpoles collected for whole-body copper concentrations were placed in clean plastic bags and stored on ice in the field.  Upon return the lab at Sequoia National Park’s headquarters,   samples were frozen at -20 degrees Celsius for 1 – 3 days before being shipped overnight on ice to USGS CERC.  In the lab, tadpole tissues were stored at -20 degrees Celsius for 6 – 12 months until they were analyzed.  Tadpoles collected for histology were dissected in the field, and liver tissues were removed and placed into histology cassettes stored in a 500 mL Nalgene bottle (Thermo Fisher Scientific Inc., Waltham, MA) of 10 percent neutral-buffered formalin (Sigma-Aldrich, St. Louis, MO).  Dissection scalpels and forceps were cleaned with DI water and wiped clean between each tadpole.</procdesc>
+        <procdate>2021</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Tadpoles (tadpole.csv, histology.csv) - Lab Methods: Tadpole whole-body copper concentrations were processed similar to samples of other media as described above.  Tadpole tissues were lyophilized and digested in a microwave with nitric acid and hydrogen peroxide (following USGS CERC protocols and EPA Method 3050B; USEPA 1996), then analyzed with ICP-MS (EPA Method 6020B, USEPA 2014).  Quality control methods included the use of duplicate and spike samples, and NIST-traceable and International Atomic Energy Agency (IEAE) calibration and reference standards.  Method detection limits varied with sample batch, but ranged from 0.2 to 0.3 micrograms per gram. Liver histology samples were processed following methods from Tillitt et al. (2010).  Liver samples were first dehydrated through a series of aqueous solutions containing 50 to 100 percent ethanol, immersed in xylene, and then infiltrated with paraffin wax.  Tissue and wax blocks were sectioned with a microtome at 4 µm thickness and 3-4 sections were mounted onto glass microscope slides.  One slide per tadpole was stained with hematoxylin and eosin (H and E) for standard cellular evaluation.  The H&amp;E staining was performed on an automatic stainer that included dewaxing with xylene, rehydration with water in decreasing ethanol solutions of 100 percent to 0 percent, then staining with H and E solutions (Tillitt et al. 2010).  A second slide from each tadpole was stained for copper following the microwave protocol for a rhodanine stain kit (Newcomer Supply, Middleton, WI).  We mounted coverslips to all slides and allowed them to air-dry overnight before examining them under a compound microscope with a camera (Nikon Eclipse 90i, Nikon, Tokyo, Japan).  In addition to the tadpole liver slides, we stained dog liver positive control slides provided by the manufacturer.  Liver sections stained for copper were examined first.  We estimated the proportion of copper content in each liver sample and found that all liver tissues had no copper content when compared to the positive control.  We then evaluated the H&amp;E slides to look for any cellular abnormalities or variation in cellular structure (such as vacuolization, melanomacrophage accumulation, or large intracellular spaces; Gürkan and Hayretdağ 2012, Chai et al. 2014).  All slides were evaluated by two individuals, including a wildlife pathologist (M. Forzán).</procdesc>
+        <procdate>2022</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>lakeSpatialData.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing the spatial data (elevation, aspect, slope, land cover, etc.) calculated for each lake basin.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Location</attrlabl>
+        <attrdef>A literal value representing the name of the water body or location where the measurements were made.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Emerald</edomv>
+            <edomvd>Emerald Lake: located at latitude of 36.598481 and longitude of -118.676132</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Frog</edomv>
+            <edomvd>Frog Lake: located at latitude of 36.616831 and longitude of -118.642568</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Heather</edomv>
+            <edomvd>Heather Lake: located at latitude of 36.602361 and longitude of -118.688415</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Lyness</edomv>
+            <edomvd>Lyness Lake: located at latitude of 36.609037 and longitude of -118.653567</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Pear</edomv>
+            <edomvd>Pear Lake: located at latitude of 36.603370 and longitude of -118.669158</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Topaz</edomv>
+            <edomvd>Topaz Lake: located at latitude of 36.624747 and longitude of -118.639408</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Parameter</attrlabl>
+        <attrdef>A  value representing the parameter measured.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>depth</edomv>
+            <edomvd>Maximum depth of the lake, measured to the nearest 0.1 m.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>ws_nolake_sa</edomv>
+            <edomvd>Surface area, measured in hectares, of the lake's watershed, excluding the surface area of the lake itself.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>lake_sa</edomv>
+            <edomvd>Surface area of the lake, measured in hectares.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>CA_LA</edomv>
+            <edomvd>The ratio of catchment area (i.e., the watershed, ws_noLake_ha) to the lake surface area (lake_sa_ha).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>elevation</edomv>
+            <edomvd>Elevation characteristic of the lake's watershed.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>slope</edomv>
+            <edomvd>Slope characteristic of the lake's watershed, i.e., the steepness of the land surface.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>aspect</edomv>
+            <edomvd>Aspect characteristic of the lake's watershed, i.e., the direction that the land surface faces.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>meadow_area</edomv>
+            <edomvd>The proportion of the lake's watershed that is comprised of meadow habitat types, measured as a proportion</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>rock_area</edomv>
+            <edomvd>The proportion of the lake's watershed that is comprised of rock habitat types, measured as a proportion</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>upland_area</edomv>
+            <edomvd>The proportion of the lake's watershed that is comprised of upland habitat types, measured as a proportion</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>water_area</edomv>
+            <edomvd>The proportion of the lake's watershed that is comprised of water habitat types, measured as a proportion</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Statistic</attrlabl>
+        <attrdef>The specific measurement made of the parameter of the lake or lake watershed.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>maximum</edomv>
+            <edomvd>The maximum value observed.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>surface_area</edomv>
+            <edomvd>The surface area of the parameter.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>ratio</edomv>
+            <edomvd>The ratio of catchment area to lake surface area.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>minimum</edomv>
+            <edomvd>The minimum value observed.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>median</edomv>
+            <edomvd>The median of all observed values.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>mean</edomv>
+            <edomvd>The arithmetic mean of all observed values.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>standard_deviation</edomv>
+            <edomvd>The standard deviation of the mean of all observed values.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>proportion</edomv>
+            <edomvd>The proportion of the watershed.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Value</attrlabl>
+        <attrdef>The result for the parameters and statistic measured</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>3473.0</rdommax>
+            <attrunit>See "Units" attribute</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Unit</attrlabl>
+        <attrdef>A literal value describing the standard unit of measure for the Value</attrdef>
+        <attrdefs>National Institute of Standards and Technology</attrdefs>
+        <attrdomv>
+          <udom>The standard unit of measure for RESULT as defined by National Institute of Standards and Technology https://www.nist.gov/pml/weights-and-measures/metric-si/si-units</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>hourlyLoggers.csv and .rds</enttypl>
+        <enttypd>Comma Separated Value (CSV) file  containing the hourly measurements of nitrate, dissolved oxygen, temperature, conductivity, and pH made by passive data loggers in the six lake and two stream study sites. This data is also presented in .rds format which retains formatting for times and dates.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Location</attrlabl>
+        <attrdef>A literal value representing the name of the water body or location where the measurements were made.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Emerald</edomv>
+            <edomvd>Emerald Lake: located at latitude of 36.598481 and longitude of -118.676132</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Frog</edomv>
+            <edomvd>Frog Lake: located at latitude of 36.616831 and longitude of -118.642568</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Heather</edomv>
+            <edomvd>Heather Lake: located at latitude of 36.602361 and longitude of -118.688415</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Lyness</edomv>
+            <edomvd>Lyness Lake: located at latitude of 36.609037 and longitude of -118.653567</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Pear</edomv>
+            <edomvd>Pear Lake: located at latitude of 36.603370 and longitude of -118.669158</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Tablelands</edomv>
+            <edomvd>Marble Fork Kaweah River in the Tablelands region of the basin: located at latitude of 36.611528 and longitude of -118.665183</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Topaz</edomv>
+            <edomvd>Topaz Lake: located at latitude of 36.624747 and longitude of -118.639408</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>USGSStation</edomv>
+            <edomvd>Marble Fork Kaweah River near the established USGS stream gage: located at latitude of 36.611479 and longitude of -118.701819</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DateTimePDT</attrlabl>
+        <attrdef>The data and time at which the measurement was taken, in Pacific Daylight Time, written as YYY-MM-DD HH:MM:SS.  As an .rds file, this field is saved in the POSIXct format.  In the .csv file, the DateTimePDT column was converted to a character before saving.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>The data and time at which the measurement was taken, in Pacific Daylight Time, written as YYY-MM-DD HH:MM:SS.  As an .rds file, this field is saved in the POSIXct format.  In the .csv file, the DateTimePDT column was converted to a character before saving.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Metric</attrlabl>
+        <attrdef>A literal value representing the metric measured. Some metrics were measured by multiple sensors and</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>COT_TemperatureC</edomv>
+            <edomvd>The analyte measured was temperature, in degrees Celsius, measured by the conductivity sensor. Temperature is defined as the degree or intensity of heat or cold measured in the water expressed in degrees Celsius</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Conductivity</edomv>
+            <edomvd>Specific conductivity, Reciprocal of the resistance in ohms measured between opposite faces of a centimeter cube of an aqueous solution at a specified temperature, 25 degrees Celsius, reported as microsiemens per cm.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>DO_TemperatureC</edomv>
+            <edomvd>Temperature as measured by the dissolved oxygen sensor, reported in degrees Celsius. Temperature is defined as the degree or intensity of heat or cold measured in the water expressed in degrees Celsius</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>DO_mgL</edomv>
+            <edomvd>Dissolved oxygen, Concentration of gaseous oxygen in water or water solutions, unfiltered, measured as milligrams per liter.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>DO_percent</edomv>
+            <edomvd>Dissolved oxygen, reported as percent saturation of that water at its concurrently measured temperature.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>pH_TemperatureC</edomv>
+            <edomvd>The water temperature, measured as degrees Celsius, by the pH sensor. Temperature is defined as the degree or intensity of heat or cold measured in the water expressed in degrees Celsius</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>pH_Millivolts</edomv>
+            <edomvd>The measured electrical potential of the water measured by the pH probe, expressed in millivolts, which is representative of the pH.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>pH</edomv>
+            <edomvd>Logarithm of the reciprocal hydrogen ion concentration in atoms per liter or acidity of the water.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NO3N</edomv>
+            <edomvd>Nitrate measured in the water, in milligrams per liter as nitrogen.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NO3</edomv>
+            <edomvd>Nitrate measured in the water, in milligrams per liter as nitrate.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>SQI</edomv>
+            <edomvd>Sensor-Quality-Index value that indicates the quality of a nitrate measurement.  Less than 0.5 indicates an error, 0.5-0.8 indicates a marginal measurement, and 0.8-1 indicates a good measurement.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Measurement</attrlabl>
+        <attrdef>The analytical result for the metric measured</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-113.38</rdommin>
+            <rdommax>204.7653</rdommax>
+            <attrunit>See "Units" attribute</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Units</attrlabl>
+        <attrdef>The standard unit of measure for the Measurement</attrdef>
+        <attrdefs>National Institute of Standards and Technology</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not applicable</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <udom>The standard unit of measure for RESULT as defined by National Institute of Standards and Technology https://www.nist.gov/pml/weights-and-measures/metric-si/si-units</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>usgsStationWQ.csv and .rds</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing the nitrate data from grab samples at the USGS Gage Station (site identification number: 11206820) where we co-located one of our sites. We collected this data from the U.S.G.S. National Water Dashboard (https://waterdata.usgs.gov). This data is also presented in .rds format which retains formatting for times and dates.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>location</attrlabl>
+        <attrdef>A literal value representing the name of the water body or location where the measurements were made.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>USGSStation</edomv>
+            <edomvd>USGS gage station at Marble Fork Kaweah River</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>site_no</attrlabl>
+        <attrdef>The numeric identifier assigned to the gage station by the USGS</attrdef>
+        <attrdefs>U.S. Geological Survey</attrdefs>
+        <attrdomv>
+          <udom>The numeric identifier assigned to the gage station by the USGS</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>date</attrlabl>
+        <attrdef>Date when the water sample was collected</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>Date in the format of YYYY-MM-DD</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>conc</attrlabl>
+        <attrdef>The numeric concentration measured in the water sample of the metric indicated.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.01</rdommin>
+            <rdommax>0.8</rdommax>
+            <attrunit>See "Units" attribute</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>metric</attrlabl>
+        <attrdef>An alphanumeric value representing the metric  measured.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NO3N_NO2N_filt</edomv>
+            <edomvd>The analyte measured was nitrate + nitrite as nitrogen from the dissolved (filtered) fraction of water.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>units</attrlabl>
+        <attrdef>The standard unit of measure for the 'conc'.</attrdef>
+        <attrdefs>National Institute of Standards and Technology</attrdefs>
+        <attrdomv>
+          <udom>The standard unit of measure for RESULT as defined by National Institute of Standards and Technology https://www.nist.gov/pml/weights-and-measures/metric-si/si-units</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>secchi.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing the secchi disk depth measurements made during each lake site visit. Secchi measurements were taken in triplicate, ascending and descending, and average and max values are also provided.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Date</attrlabl>
+        <attrdef>A representation of time in which the smallest unit of measure is a day. The value is expressed in YYYYMMDD.  It represents the date upon which</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>20210615</rdommin>
+            <rdommax>20221015</rdommax>
+            <attrunit>YYYYMMDD</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Location</attrlabl>
+        <attrdef>A literal value representing the name of the water body or location where the measurements were made.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Heather</edomv>
+            <edomvd>Heather Lake: located at latitude of 36.602361 and longitude of -118.688415</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Emerald</edomv>
+            <edomvd>Emerald Lake: located at latitude of 36.598481 and longitude of -118.676132</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Pear</edomv>
+            <edomvd>Pear Lake: located at latitude of 36.603370 and longitude of -118.669158</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Lyness</edomv>
+            <edomvd>Lyness Lake: located at latitude of 36.609037 and longitude of -118.653567</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Frog</edomv>
+            <edomvd>Frog Lake: located at latitude of 36.616831 and longitude of -118.642568</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Topaz</edomv>
+            <edomvd>Topaz Lake: located at latitude of 36.624747 and longitude of -118.639408</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>A representation of time in which the smallest unit of measure is a year. The value is expressed in YYYY.  It represents the year when sampling was performed.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2021</rdommin>
+            <rdommax>2022</rdommax>
+            <attrunit>YYYY</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Trip</attrlabl>
+        <attrdef>Numerical identifier for the visit to the study site within each year when the sample was taken.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Trip 1, represents sampling performed in June each year</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Trip 2, represents sampling performed in July each year</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Trip 3, represents sampling performed in August each year</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>Trip 4, represents sampling performed in September each year</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>Trip 5, represents sampling performed in  November 2021 and October 2022.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SeeBottom</attrlabl>
+        <attrdef>A binary indicator of whether the observer could see the bottom of the lake from the boat.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Yes</edomv>
+            <edomvd>The observer can see the lake bottom from the boat.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>No</edomv>
+            <edomvd>The observer cannot see the lake bottom from the boat.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DDepth1_m</attrlabl>
+        <attrdef>Descending secchi depth for the first deployment. The depth, in meters,  at which the observer cannot see the Secchi disk when lowering it into the water column. Numeric.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>A measured value is not applicable because the Secchi disc was visible after touching the bottom of the lake.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>3.2</rdommin>
+            <rdommax>11.0</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ADepth1_m</attrlabl>
+        <attrdef>Ascending secchi depth for the first deployment. The first depth, in meters, at which the observer can again see the Secchi disk when raising it from the first descent depth.  Numeric.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>A measured value is not applicable because the Secchi disc was visible after touching the bottom of the lake.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>3.1</rdommin>
+            <rdommax>11.6</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DDepth2_m</attrlabl>
+        <attrdef>Descending secchi depth for the second deployment. The depth, in meters,  at which the observer cannot see the Secchi disk when lowering it into the water column. Numeric.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>A measured value is not applicable because the Secchi disc was visible after touching the bottom of the lake.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>3.3</rdommin>
+            <rdommax>11.5</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ADepth2_m</attrlabl>
+        <attrdef>Ascending secchi depth for the second deployment. The depth, in meters, at which the observer can again see the Secchi disk when raising it from the second descent depth.  Numeric.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>A measured value is not applicable because the Secchi disc was visible after touching the bottom of the lake.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>3.3</rdommin>
+            <rdommax>11.7</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DDepth3_m</attrlabl>
+        <attrdef>Descending secchi depth for the third deployment. The depth, in meters,  at which the observer cannot see the Secchi disk when lowering it into the water column. Numeric.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>A measured value is not applicable because the Secchi disc was visible after touching the bottom of the lake.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>3.4</rdommin>
+            <rdommax>11.5</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ADepth3_m</attrlabl>
+        <attrdef>Ascending secchi depth for the third deployment. The depth, in meters, at which the observer can again see the Secchi disk when raising it from the third descent depth.  Numeric.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>A measured value is not applicable because the Secchi disc was visible after touching the bottom of the lake.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>3.3</rdommin>
+            <rdommax>11.7</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AvgSecchi_m</attrlabl>
+        <attrdef>The average of the three descent and three ascent depths.  In cases where all ascent and descent values are "NA" then the average depth is the same as the maximum depth as measured using a handheld depth finder (i.e., MaxDepth_m).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>3.3</rdommin>
+            <rdommax>11.5</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MaxDepth_m</attrlabl>
+        <attrdef>Maximum depth of the lake as estimated by using handheld depth finder, however, this may not be the true exact greatest depth.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>4.1</rdommin>
+            <rdommax>24.1</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Comments</attrlabl>
+        <attrdef>A textual expression of opinion, an observation, or a criticism; a remark.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Not applicable. There are no comments about the values or measurements</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <udom>A literal value which represents the comment about the sample</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>YSI_Clean.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing the data collected by the YSI sonde sensors to develop lake depth profiles.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>A representation of time in which the smallest unit of measure is a year. The value is expressed in YYYY.  It represents the year when sampling was performed.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2021</rdommin>
+            <rdommax>2022</rdommax>
+            <attrunit>YYYY</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Trip</attrlabl>
+        <attrdef>Numerical identifier for the visit to the study site within each year when the sample was taken.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Trip 1, represents sampling performed in June each year</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Trip 2, represents sampling performed in July each year</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Trip 3, represents sampling performed in August each year</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>Trip 4, represents sampling performed in September each year</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>Trip 5, represents sampling performed in November 2021 and October 2022.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Date</attrlabl>
+        <attrdef>A representation of time in which the smallest unit of measure is a day. The value is expressed in YYYYMMDD.  It represents the date upon which samples were collected</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>20210615</rdommin>
+            <rdommax>20221015</rdommax>
+            <attrunit>YYYYMMDD</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Time</attrlabl>
+        <attrdef>Time of day when sample was collected expressed in 24 hour clock.  Representation of time in which the smallest unit of measure is a second. Indicates the time the sample was collected. The value is expressed in HH:MM:SS Pacific Daylight Time.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>Time of day when sample was collected expressed in 24 hour clock.  Representation of time in which the smallest unit of measure is a second. Indicates the time the sample was collected. The value is expressed in HH:MM:SS Pacific Daylight Time.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Location</attrlabl>
+        <attrdef>A literal value representing the name of the water body or location where the measurements were made.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Emerald</edomv>
+            <edomvd>Emerald Lake: located at latitude of 36.598481 and longitude of -118.676132</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Frog</edomv>
+            <edomvd>Frog Lake: located at latitude of 36.616831 and longitude of -118.642568</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Heather</edomv>
+            <edomvd>Heather Lake: located at latitude of 36.602361 and longitude of -118.688415</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Lyness</edomv>
+            <edomvd>Lyness Lake: located at latitude of 36.609037 and longitude of -118.653567</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Pear</edomv>
+            <edomvd>Pear Lake: located at latitude of 36.603370 and longitude of -118.669158</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Topaz</edomv>
+            <edomvd>Topaz Lake: located at latitude of 36.624747 and longitude of -118.639408</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Depth_m</attrlabl>
+        <attrdef>Depth measured by the YSI sonde at the time of measurement, in meters. Negative values indicate Numeric. A small negative value indicates that the sonde was being held at the water surface.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-0.38</rdommin>
+            <rdommax>21.815</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Placement</attrlabl>
+        <attrdef>A categorical description of the depth of the sonde relative to the lake's total depth.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>surface</edomv>
+            <edomvd>Sonde recorded measurement at the surface of the lake.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>mid</edomv>
+            <edomvd>Sonde recorded measurement at approximately the mid-point of the lake.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>bottom</edomv>
+            <edomvd>Sonde recorded measurement approximately 1 meter above the lake's maximum depth.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NomDepth_m</attrlabl>
+        <attrdef>A nominal depth to represent the Placement value, as estimated by the maximum depth of the lake measured with a handheld depth finder.  A value of 'surface' in Placement is reflected here as 0, 'mid' is reflected here as the lake's maximum depth divided by 2, and 'bottom' is reflected here as the lake's maximum depth minus 1.  These values were used for data visualization purposes.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>22.0</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Metric</attrlabl>
+        <attrdef>A literal value representing the metric measured.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Chlorophylla</edomv>
+            <edomvd>a measure of the chlorophyll a in the water. It is an indicator of the amount of algae growing in a water body, based on florescence.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>DO</edomv>
+            <edomvd>Dissolved oxygen. Concentration of gaseous oxygen in water or water solutions, unfiltered, measured as milligrams per liter.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Conductivity</edomv>
+            <edomvd>Reciprocal of the resistance in ohms measured between opposite faces of a centimeter cube of an aqueous solution at a specified temperature, 25 degrees Celsius, reported as microsiemens per cm.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Phycocyanin</edomv>
+            <edomvd>A quantification of the concentration of phycocyanin in the water based on florescence</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>pH</edomv>
+            <edomvd>Logarithm of the reciprocal hydrogen ion concentration in atoms per liter or acidity of sample water.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Temperature</edomv>
+            <edomvd>The degree or intensity of heat or cold measured in the water expressed in degrees Celsius</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Units</attrlabl>
+        <attrdef>The standard unit of measure for the Value.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>The Metric is unitless</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>RFU</edomv>
+            <edomvd>relative fluorescence unit</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>mg/L</edomv>
+            <edomvd>milligrams per liter</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>uS/cm</edomv>
+            <edomvd>microsiemens per centimeter</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>degrees Celsius</edomv>
+            <edomvd>degrees Celsius</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Value</attrlabl>
+        <attrdef>The result for the metric measured.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>35.0</rdommax>
+            <attrunit>See 'Units' attribute</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>waterchem.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing chemistry data collected from lake water samples including cations, anions, dissolved organic carbon, and copper concentrations.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>SampleLabel</attrlabl>
+        <attrdef>Sample label assigned to sample for field collection.  This label includes identifiers for lake, lake section, trip, year, sample media and analyte, and sample type.  For a breakdown of how to interpret sample labels, please see the SampleLabelREADME.txt file.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>For a breakdown of how to interpret sample labels, please see the SampleLabelREADME.txt file.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Date</attrlabl>
+        <attrdef>A representation of time in which the smallest unit of measure is a day. The value is expressed in YYYYMMDD.  It represents the date upon which samples were collected in the field</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>20210615</rdommin>
+            <rdommax>20221015</rdommax>
+            <attrunit>YYYYMMDD</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Location</attrlabl>
+        <attrdef>A literal value representing the name of the water body or location where the measurements were made.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Pear</edomv>
+            <edomvd>Pear Lake: located at latitude of 36.603370 and longitude of -118.669158</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Topaz</edomv>
+            <edomvd>Topaz Lake: located at latitude of 36.624747 and longitude of -118.639408</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Frog</edomv>
+            <edomvd>Frog Lake: located at latitude of 36.616831 and longitude of -118.642568</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Heather</edomv>
+            <edomvd>Heather Lake: located at latitude of 36.602361 and longitude of -118.688415</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Emerald</edomv>
+            <edomvd>Emerald Lake: located at latitude of 36.598481 and longitude of -118.676132</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Lyness</edomv>
+            <edomvd>Lyness Lake: located at latitude of 36.609037 and longitude of -118.653567</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Section</attrlabl>
+        <attrdef>A randomly assigned letter for a section of the lake that a sample was taken from.  Lake Section was randomly assigned</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>A randomly assigned letter for a section of the lake that a sample was taken from.  Lake Section was randomly assigned</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Trip</attrlabl>
+        <attrdef>Numerical identifier for the visit to the study site within each year when the sample was taken.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Trip 1, represents sampling performed in June each year</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Trip 2, represents sampling performed in July each year</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Trip 3, represents sampling performed in August each year</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>Trip 5, represents sampling performed in  November 2021 and October 2022.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>Trip 4, represents sampling performed in September each year</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>A representation of time in which the smallest unit of measure is a year. The value is expressed in YYYY.  It represents the year when sampling was performed.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2021</rdommin>
+            <rdommax>2022</rdommax>
+            <attrunit>YYYY</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Sample_Type</attrlabl>
+        <attrdef>The type of sample collected with regards to quality assurance (QA)</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Standard</edomv>
+            <edomvd>A 'Standard' sample was a single sample collected at the location and date.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Duplicate</edomv>
+            <edomvd>A 'Duplicate' sample is one that was collected or analyzed as a field or lab duplicate.  Due to random assignment, only some samples were paired with duplicates.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Metric</attrlabl>
+        <attrdef>A literal value representing the element measured.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Cu</edomv>
+            <edomvd>Copper</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Na</edomv>
+            <edomvd>sodium</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Mg</edomv>
+            <edomvd>magnesium</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>K</edomv>
+            <edomvd>potassium</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Ca</edomv>
+            <edomvd>calcium</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Mn</edomv>
+            <edomvd>manganese</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Fe</edomv>
+            <edomvd>iron</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Sr</edomv>
+            <edomvd>strontium</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Fl</edomv>
+            <edomvd>fluoride</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Cl</edomv>
+            <edomvd>chloride</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Br</edomv>
+            <edomvd>bromide</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>SO4</edomv>
+            <edomvd>sulfate</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>DOC</edomv>
+            <edomvd>dissolved organic carbon</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Alkalinity_CaCO3</edomv>
+            <edomvd>alkalinity as calcium carbonate</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Conc</attrlabl>
+        <attrdef>The concentration of the element measured in the dissolved fraction.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>The concentration could not be identified. See "Comments" for further information.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.1</rdommin>
+            <rdommax>5.93</rdommax>
+            <attrunit>See 'Units'  attribute</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Units</attrlabl>
+        <attrdef>The standard unit of measure for the  "Conc"</attrdef>
+        <attrdefs>National Institute of Standards and Technology</attrdefs>
+        <attrdomv>
+          <udom>The standard unit of measure for RESULT as defined by National Institute of Standards and Technology https://www.nist.gov/pml/weights-and-measures/metric-si/si-units</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MDL</attrlabl>
+        <attrdef>Minimum detection limit. The lowest concentration of the Metric that can be detected with the method used.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Indicates that there is no minimum detection limit for the metric</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.01</rdommin>
+            <rdommax>1.5</rdommax>
+            <attrunit>See 'Units" attribute</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Comments</attrlabl>
+        <attrdef>A textual expression of opinion, an observation, or a criticism; a remark.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <udom>A textual expression of opinion, an observation, or a criticism; a remark.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>waternutr.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing the nutrient data collected from lake water samples, including nitrate/nitrite, ammonia, phosphate, and total phosphorus.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>SampleLabel</attrlabl>
+        <attrdef>Sample label assigned to sample for field collection.  This label includes identifiers for lake, lake section, trip, year, sample media and analyte, and sample type.  For a breakdown of how to interpret sample labels, please see the SampleLabelREADME.txt file.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>For a breakdown of how to interpret sample labels, please see the SampleLabelREADME.txt file.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Date</attrlabl>
+        <attrdef>A representation of time in which the smallest unit of measure is a day. The value is expressed in YYYYMMDD.  It represents the date upon which samples were collected in the field</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>20210615</rdommin>
+            <rdommax>20221015</rdommax>
+            <attrunit>YYYYMMDD</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Location</attrlabl>
+        <attrdef>A literal value representing the name of the water body or location where the measurements were made.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Heather</edomv>
+            <edomvd>Heather Lake: located at latitude of 36.602361 and longitude of -118.688415</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Emerald</edomv>
+            <edomvd>Emerald Lake: located at latitude of 36.598481 and longitude of -118.676132</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Pear</edomv>
+            <edomvd>Pear Lake: located at latitude of 36.603370 and longitude of -118.669158</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Lyness</edomv>
+            <edomvd>Lyness Lake: located at latitude of 36.609037 and longitude of -118.653567</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Frog</edomv>
+            <edomvd>Frog Lake: located at latitude of 36.616831 and longitude of -118.642568</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Topaz</edomv>
+            <edomvd>Topaz Lake: located at latitude of 36.624747 and longitude of -118.639408</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Section</attrlabl>
+        <attrdef>A randomly assigned letter for a section of the lake that a sample was taken from.  Lake Section was randomly assigned</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>A randomly assigned letter for a section of the lake that a sample was taken from.  Lake Section was randomly assigned</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Trip</attrlabl>
+        <attrdef>Numerical identifier for the visit to the study site within each year when the sample was taken.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Trip 1, represents sampling performed in June each year</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Trip 2, represents sampling performed in July each year</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Trip 3, represents sampling performed in August each year</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>Trip 5, represents sampling performed in  November 2021 and October 2022.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>Trip 4, represents sampling performed in September each year</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>A representation of time in which the smallest unit of measure is a year. The value is expressed in YYYY.  It represents the year when sampling was performed.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2021</rdommin>
+            <rdommax>2022</rdommax>
+            <attrunit>YYYY</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Metric</attrlabl>
+        <attrdef>A literal value representing the element measured.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NH3N</edomv>
+            <edomvd>ammonia as nitrogen</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>NOxN</edomv>
+            <edomvd>nitrate + nitrite as nitrogen</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>PO4P</edomv>
+            <edomvd>phosphate as phosphorus</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>TP</edomv>
+            <edomvd>total phosphorus</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Sample_Type</attrlabl>
+        <attrdef>The type of sample collected with regards to quality assurance (QA)</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Standard</edomv>
+            <edomvd>A 'Standard' sample was a single sample collected.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Duplicate Set</edomv>
+            <edomvd>A 'Duplicate' sample is one that was collected or analyzed as a field or lab duplicate.  Due to random assignment, only some samples were paired with duplicates.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Spike Set</edomv>
+            <edomvd>A 'Spike Set' sample is one that was aliquoted in the lab so that a standard sample analysis was run, as well as an aliqout spiked with a known concentration of the target analyte (e.g., see Metric).  The spiked sets were run for quality assurance in the lab.  Only the true sample measurements are published here, but identification of samples used in spiked tests are reported here for completeness.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Conc</attrlabl>
+        <attrdef>The concentration of the metric measured.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>The concentration could not be identified. See "Comments" for further information.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.62</rdommin>
+            <rdommax>175.0</rdommax>
+            <attrunit>See "Units" attribute</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Units</attrlabl>
+        <attrdef>The standard unit of measure for the  "Conc"</attrdef>
+        <attrdefs>National Institute of Standards and Technology</attrdefs>
+        <attrdomv>
+          <udom>The standard unit of measure for RESULT as defined by National Institute of Standards and Technology https://www.nist.gov/pml/weights-and-measures/metric-si/si-units</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MDL</attrlabl>
+        <attrdef>Minimum detection limit. The lowest concentration of the Metric that can be detected with the method used.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.37</rdommin>
+            <rdommax>5.46</rdommax>
+            <attrunit>micrograms per liter</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Comments</attrlabl>
+        <attrdef>A textual expression of opinion, an observation, or a criticism; a remark.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No comments apply to the values or measurements.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <udom>Literal text to clarify or add context to other field values.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>sediment.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing the copper concentration data measured in sediment samples.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>SampleLabel</attrlabl>
+        <attrdef>Sample label assigned to sample for field collection.  This label includes identifiers for lake, lake section, trip, year, sample media and analyte, and sample type.  For a breakdown of how to interpret sample labels, please see the SampleLabelREADME.txt file.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>For a breakdown of how to interpret sample labels, please see the SampleLabelREADME.txt file.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Date</attrlabl>
+        <attrdef>A representation of time in which the smallest unit of measure is a day. The value is expressed in YYYYMMDD.  It represents the date upon which samples were collected in the field</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>20210615</rdommin>
+            <rdommax>20221015</rdommax>
+            <attrunit>YYYYMMDD</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Location</attrlabl>
+        <attrdef>A literal value representing the name of the water body or location where the measurements were made.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Pear</edomv>
+            <edomvd>Pear Lake: located at latitude of 36.603370 and longitude of -118.669158</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Frog</edomv>
+            <edomvd>Frog Lake: located at latitude of 36.616831 and longitude of -118.642568</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Topaz</edomv>
+            <edomvd>Topaz Lake: located at latitude of 36.624747 and longitude of -118.639408</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Emerald</edomv>
+            <edomvd>Emerald Lake: located at latitude of 36.598481 and longitude of -118.676132</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Lyness</edomv>
+            <edomvd>Lyness Lake: located at latitude of 36.609037 and longitude of -118.653567</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Heather</edomv>
+            <edomvd>Heather Lake: located at latitude of 36.602361 and longitude of -118.688415</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Trip</attrlabl>
+        <attrdef>Numerical identifier for the visit to the study site within each year when the sample was taken.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Trip 1, represents sampling performed in June each year</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Trip 2, represents sampling performed in July each year</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Trip 3, represents sampling performed in August each year</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>Trip 4, represents sampling performed in September each year</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>Trip 5, represents sampling performed in  November 2021 and October 2022.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>A representation of time in which the smallest unit of measure is a year. The value is expressed in YYYY.  It represents the year when sampling was performed.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2021</rdommin>
+            <rdommax>2022</rdommax>
+            <attrunit>YYYY</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ConcCu</attrlabl>
+        <attrdef>The concentration of copper in the sediment sample</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1.25</rdommin>
+            <rdommax>32.0</rdommax>
+            <attrunit>See "Units" attribute</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Units</attrlabl>
+        <attrdef>The standard unit of measure for the  "ConcCu"</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>ug/g dry wt</edomv>
+            <edomvd>micrograms per gram of dry weight</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Sample_Type</attrlabl>
+        <attrdef>The type of sample collected with regards to quality assurance (QA)</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Standard</edomv>
+            <edomvd>A 'Standard' sample was a single sample collected.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Duplicate</edomv>
+            <edomvd>A 'Duplicate' sample is one that was collected or analyzed as a field or lab duplicate.  Due to random assignment, only some samples were paired with duplicates.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>tadpole.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing information about the morphology, copper concentration, and sample purposes of the tadpoles collected in the field.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Location</attrlabl>
+        <attrdef>A literal value representing the name of the water body or location where the measurements were made.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Lyness</edomv>
+            <edomvd>Lyness Lake: located at latitude of 36.609037 and longitude of -118.653567</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Frog</edomv>
+            <edomvd>Frog Lake: located at latitude of 36.616831 and longitude of -118.642568</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Topaz</edomv>
+            <edomvd>Topaz Lake: located at latitude of 36.624747 and longitude of -118.639408</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Date</attrlabl>
+        <attrdef>A representation of time in which the smallest unit of measure is a day. The value is expressed in YYYYMMDD.  It represents the date upon which samples were collected in the field</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>20210721</rdommin>
+            <rdommax>20220717</rdommax>
+            <attrunit>YYYYMMDD</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>A representation of time in which the smallest unit of measure is a year. The value is expressed in YYYY.  It represents the year when sampling was performed.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2021</rdommin>
+            <rdommax>2022</rdommax>
+            <attrunit>YYYY</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Trip</attrlabl>
+        <attrdef>Numerical identifier for the visit to the study site within each year when the sample was taken.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Trip 2, represents sampling performed in July each year</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TadpoleID</attrlabl>
+        <attrdef>A numeric unique identifier assigned to an individual tadpole collected. This is a key identifier linking data between tables.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>A numeric unique identifier assigned to an individual tadpole collected.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Purpose</attrlabl>
+        <attrdef>A literal value representing one of two purposes the collected tadpole sample was used for.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>copper</edomv>
+            <edomvd>The collected tadpole was used for quantification of whole body copper concentration.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>histology</edomv>
+            <edomvd>The collected tadpole was used for liver histology</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Bio_GS</attrlabl>
+        <attrdef>The Gosner stage of the tadpole.  For Gosner stage determinations see: Gosner, K. L. 1960. A simplified table for staging anuran embryos and larvae with notes on identification. Herpetologica 16:183-190.</attrdef>
+        <attrdefs>Gosner 1960</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>27</rdommin>
+            <rdommax>43</rdommax>
+            <attrunit>NA</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Bio_SVL</attrlabl>
+        <attrdef>The snout-vent length of the tadpole, in millimeters. Numeric.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>10</rdommin>
+            <rdommax>24</rdommax>
+            <attrunit>millimeters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Bio_TL</attrlabl>
+        <attrdef>The total length of the tadpole, in millimeters. Numeric.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>The measurement was not taken. See "Comments" for further information.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>17</rdommin>
+            <rdommax>63</rdommax>
+            <attrunit>millimeters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Bio_Mass</attrlabl>
+        <attrdef>The wet mass of the whole tadpole, in grams. Numeric.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.159</rdommin>
+            <rdommax>2.481</rdommax>
+            <attrunit>grams</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Bio_Deform</attrlabl>
+        <attrdef>A binary indicator of whether the tadpole collected had a visible physical deformity. Details on deformities are provided in the "Comments" column.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>No</edomv>
+            <edomvd>The tadpole did not have a visible physical deformity.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Yes</edomv>
+            <edomvd>The tadpole did have a visible physical deformity.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ConcCu</attrlabl>
+        <attrdef>The whole body copper concentration in the tadpole, in micrograms per gram dry weight. numeric.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data. The copper concentration was not determined because the tadpole was used for histology</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>2.98</rdommin>
+            <rdommax>23.7</rdommax>
+            <attrunit>micrograms per gram dry weight</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Comments</attrlabl>
+        <attrdef>A textual expression of opinion, an observation, or a criticism; a remark.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No comments apply to the values or measurements.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <udom>Text to clarify any other field values.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>histology.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing the histology data associated with each dissected tadpole.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Location</attrlabl>
+        <attrdef>A literal value representing the name of the water body or location where the measurements were made.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Frog</edomv>
+            <edomvd>Frog Lake: located at latitude of 36.616831 and longitude of -118.642568</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Lyness</edomv>
+            <edomvd>Lyness Lake: located at latitude of 36.609037 and longitude of -118.653567</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Topaz</edomv>
+            <edomvd>Topaz Lake: located at latitude of 36.624747 and longitude of -118.639408</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Date</attrlabl>
+        <attrdef>A representation of time in which the smallest unit of measure is a day. The value is expressed in YYYYMMDD.  It represents the date upon which samples were collected in the field</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>20210721</rdommin>
+            <rdommax>20220717</rdommax>
+            <attrunit>YYYYMMDD</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>A representation of time in which the smallest unit of measure is a year. The value is expressed in YYYY. It represents the year when sampling was performed.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2021</rdommin>
+            <rdommax>2022</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Trip</attrlabl>
+        <attrdef>Numerical identifier for the visit to the study site within each year when the sample was taken.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Trip 2, represents sampling performed in July each year</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TadpoleID</attrlabl>
+        <attrdef>A numeric unique identifier assigned to an individual tadpole collected. This is a key identifier linking data between tables.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>A numeric unique identifier assigned to an individual tadpole collected.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Bio_Mass</attrlabl>
+        <attrdef>The wet mass of the whole tadpole, in grams. Numeric.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.387</rdommin>
+            <rdommax>2.481</rdommax>
+            <attrunit>grams</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Liver_Mass</attrlabl>
+        <attrdef>The wet mass of the dissected liver of the tadpole, in grams.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>The measurement was not taken</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.008</rdommin>
+            <rdommax>0.477</rdommax>
+            <attrunit>grams</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HSI</attrlabl>
+        <attrdef>The hepatosomatic-index of the tadpole, calculated as Liver_Mass divided by Bio_Mass.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.012</rdommin>
+            <rdommax>0.336</rdommax>
+            <attrunit>unitless</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SlideID</attrlabl>
+        <attrdef>A unique alphanumeric identifier for the histology slide for each tadpole.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>The code is an abbreviated code of the Location concatenated with the tadpole ID.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Stain</attrlabl>
+        <attrdef>A literal value describing the stain that the slide was processed with.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>hematoxylin and eosin</edomv>
+            <edomvd>The slide was stained with hematoxylin and eosin. Hematoxylin and eosin staining helps identify different types of cells and tissues and provides important information about the pattern, shape, and structure of cells in a tissue sample</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>copper</edomv>
+            <edomvd>The slide was stained with a kit to identify copper deposition in the tissue.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CuClass</attrlabl>
+        <attrdef>A number to identify a class of copper deposition, estimated as percent coverage of the tissue on the slide.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>The slide was not stained with the copper-staining kit and therefore copper deposition could not be identified.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>The slide was stained with the copper-staining kit and did not have any detectable copper deposition.  I.e., there was not more that 1 percent of the tissue surface area showing any indication of copper deposition.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Hypereosin</attrlabl>
+        <attrdef>A number to identify the degree of hypereosinophilia in the liver tissue.  Hypereosinophilia is the (over)abundance of eosinophil cells.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Slide was not evaluated for this variable (because it is a copper-stained slide).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>No hypereosinophilia identified in the liver tissue.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Heavy hypereosinophilia identified in the liver tissue, i.e., hyperosinphilia was observed throughout the liver tissue.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Mild hypereosinophilia identified in the liver tissue, i.e., a few, small spots or areas of hypereosinophilia were observed.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Moderate hypereosinophilia identified in the liver tissue, i.e., larger patches of hypereosinophilia were observed.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Autolysis</attrlabl>
+        <attrdef>A binary to identify if any autolysis was observed in the liver tissue. 
+Autolysis is the natural postmortem self-digestion of cells by their endogenous enzymes.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>Autolysis was not observed in the liver tissue</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Autolysis was observed in the liver tissue</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Vacuoliz</attrlabl>
+        <attrdef>A binary to identify if any vacuolization was observed in the liver tissue.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>Vacuolization was not observed in the liver tissue.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Vacuolization was observed in the liver tissue.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Pancreas</attrlabl>
+        <attrdef>A binary to identify if any pancreatic tissue was observed in the liver tissue.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Slide was not evaluated for this variable (because it is a copper-stained slide).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Pancreas tissue was observed on the slide.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>Pancreas tissue was not observed on the slide.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ExtraTiss</attrlabl>
+        <attrdef>An abbreviation to indicate what other tissue types, if any, were identified on the slide.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Slide was not evaluated for this variable (because it is a copper-stained slide).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>No tissues other than liver and/or pancreas were observed on the slide.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>e/sto</edomv>
+            <edomvd>Esophagus and/or stomach tissue was observed on the slide.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>e/sto fat bla oth</edomv>
+            <edomvd>Esophagus and/or stomach, adipose, bladder, and other unidentified tissue was observed on the slide.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>fat</edomv>
+            <edomvd>Adipose tissue was observed on the slide.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>bla</edomv>
+            <edomvd>Bladder, possibly gallbladder, tissue was observed on the slide.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>oth</edomv>
+            <edomvd>Other, unidentified tissues were observed on the slide.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Comments</attrlabl>
+        <attrdef>A textual expression of opinion, an observation, or a criticism; a remark.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No comments apply to the values or measurements.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <udom>Text to clarify any other field values.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>periChlaAfdm.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing the chlorophyll a and ash-free dry mass data we collected from periphyton samples. Values are measured as total and as the concentration per surface area of the tile for each sample.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>SampleLabel</attrlabl>
+        <attrdef>Sample label assigned to sample for field collection.  This label includes identifiers for lake, lake section, trip, year, sample media and analyte, and sample type.  For a breakdown of how to interpret sample labels, please see the SampleLabelREADME.txt file.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>For a breakdown of how to interpret sample labels, please see the SampleLabelREADME.txt file.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Date</attrlabl>
+        <attrdef>A representation of time in which the smallest unit of measure is a day. The value is expressed in YYYYMMDD.  It represents the date upon which samples were collected in the field</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>20210817</rdommin>
+            <rdommax>20221015</rdommax>
+            <attrunit>YYYYMMDD</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Location</attrlabl>
+        <attrdef>A literal value representing the name of the water body or location where the measurements were made.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Heather</edomv>
+            <edomvd>Heather Lake: located at latitude of 36.602361 and longitude of -118.688415</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Emerald</edomv>
+            <edomvd>Emerald Lake: located at latitude of 36.598481 and longitude of -118.676132</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Pear</edomv>
+            <edomvd>Pear Lake: located at latitude of 36.603370 and longitude of -118.669158</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Lyness</edomv>
+            <edomvd>Lyness Lake: located at latitude of 36.609037 and longitude of -118.653567</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Frog</edomv>
+            <edomvd>Frog Lake: located at latitude of 36.616831 and longitude of -118.642568</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Topaz</edomv>
+            <edomvd>Topaz Lake: located at latitude of 36.624747 and longitude of -118.639408</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Trip</attrlabl>
+        <attrdef>Numerical identifier for the visit to the study site within each year when the sample was taken.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Trip 3, represents sampling performed in August each year</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>Trip 4, represents sampling performed in September each year</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>Trip 5, represents sampling performed in  November 2021 and October 2022</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>A representation of time in which the smallest unit of measure is a year. The value is expressed in YYYY. It represents the year when sampling was performed.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2021</rdommin>
+            <rdommax>2022</rdommax>
+            <attrunit>YYYY</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Metric</attrlabl>
+        <attrdef>A literal value representing the metric  measured.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>chlorophylla</edomv>
+            <edomvd>a measure of the chlorophyll a in the water. It is an indicator of the amount of algae growing in a water body, based on florescence.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>AFDM</edomv>
+            <edomvd>Ash free dry mass</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Conc</attrlabl>
+        <attrdef>The concentration of the metric measured.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>0.744</rdommax>
+            <attrunit>See "Units" attribute</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Units</attrlabl>
+        <attrdef>The standard unit of measure for the "Conc"</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>mg</edomv>
+            <edomvd>millgrams</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>mg_per_cm2</edomv>
+            <edomvd>milligrams per centimeter squared</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>g</edomv>
+            <edomvd>grams</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>g_per_cm2</edomv>
+            <edomvd>grams per centimeter squared</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Notes</attrlabl>
+        <attrdef>A textual expression of opinion, an observation, or a criticism; a remark</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <udom>Text to clarify any other field values.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>periphytonCu.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing the copper concentration data measured in periphyton samples.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>SampleLabel</attrlabl>
+        <attrdef>Sample label assigned to sample for field collection.  This label includes identifiers for lake, lake section, trip, year, sample media and analyte, and sample type.  For a breakdown of how to interpret sample labels, please see the SampleLabelREADME.txt file.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>For a breakdown of how to interpret sample labels, please see the SampleLabelREADME.txt file.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Date</attrlabl>
+        <attrdef>A representation of time in which the smallest unit of measure is a day. The value is expressed in YYYYMMDD.  It represents the date upon which samples were collected in the field</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>20210817</rdommin>
+            <rdommax>20221015</rdommax>
+            <attrunit>YYYYMMDD</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Location</attrlabl>
+        <attrdef>A literal value representing the name of the water body or location where the measurements were made.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Heather</edomv>
+            <edomvd>Heather Lake: located at latitude of 36.602361 and longitude of -118.688415</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Emerald</edomv>
+            <edomvd>Emerald Lake: located at latitude of 36.598481 and longitude of -118.676132</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Pear</edomv>
+            <edomvd>Pear Lake: located at latitude of 36.603370 and longitude of -118.669158</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Lyness</edomv>
+            <edomvd>Lyness Lake: located at latitude of 36.609037 and longitude of -118.653567</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Frog</edomv>
+            <edomvd>Frog Lake: located at latitude of 36.616831 and longitude of -118.642568</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Topaz</edomv>
+            <edomvd>Topaz Lake: located at latitude of 36.624747 and longitude of -118.639408</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Trip</attrlabl>
+        <attrdef>Numerical identifier for the visit to the study site within each year when the sample was taken.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Trip 3, represents sampling performed in August each year</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>5</edomv>
+            <edomvd>Trip 5, represents sampling performed in  November 2021 and October 2022</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>Trip 4, represents sampling performed in September each year</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>A representation of time in which the smallest unit of measure is a year. The value is expressed in YYYY. It represents the year when sampling was performed.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2021</rdommin>
+            <rdommax>2022</rdommax>
+            <attrunit>YYYY</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Conc</attrlabl>
+        <attrdef>The concentration of the metric measured.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>5.47</rdommin>
+            <rdommax>60.9</rdommax>
+            <attrunit>See "Units" attribute</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Units</attrlabl>
+        <attrdef>The standard unit of measure for the "Conc"</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>ug/g dry wt</edomv>
+            <edomvd>micrograms per gram of dry weight</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Composite</attrlabl>
+        <attrdef>A binary indicator of whether the sample was made of a single periphyton tile or of a composited set of tiles to meet minimum mass requirements for lab analysis methods.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>The sample as analyzed in the lab is comprised of only 1 periphyton tile sample collected in the field.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>The sample as analyzed in the lab is comprised of more than 1 periphyton tile sample collected in the field.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CompReps</attrlabl>
+        <attrdef>A numerical indication of the number of periphyton tiles used for a single sample.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>3</rdommax>
+            <attrunit>count</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>SampleLabelREADME.txt</enttypl>
+        <enttypd>A text file which explains the interpretation of sample labels. The information conveyed by the sample labels is not required to use and interpret the data, but we have included it just in case a user is interested.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>GS ScienceBase</cntper>
+          <cntorg>U.S. Geological Survey</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.</distliab>
+  </distinfo>
+  <metainfo>
+    <metd>20250214</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>CERC Data Manager</cntper>
+          <cntorg>U.S. Geological Survey, Columbia Environmental Research Center</cntorg>
+        </cntperp>
+        <cntpos>Natural Resource Data Manager</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>4200 New Haven Road</address>
+          <city>Columbia</city>
+          <state>MO</state>
+          <postal>65201</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>573-875-5399</cntvoice>
+        <cntemail>gs-mw-cerc_data_manager@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Biological Data Profile of the Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001.1-1999</metstdv>
+  </metainfo>
+</metadata>

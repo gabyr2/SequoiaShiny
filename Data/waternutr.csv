@@ -1,0 +1,749 @@
+SampleLabel,Date,Location,Section,Trip,Year,Metric,Sample_Type,Conc,Units,MDL,Comments
+HE_A_1.21_DNP_ZZ,20210617,Heather,A,1,2021,NH3N,Standard,4.86,micrograms per liter,2.09,NA
+HE_A_1.21_DNP_ZZ,20210617,Heather,A,1,2021,NOxN,Standard,6.58,micrograms per liter,4.95,NA
+HE_B_1.21_DNP_ZZ,20210617,Heather,B,1,2021,NH3N,Duplicate Set,3.2,micrograms per liter,2.09,NA
+HE_B_1.21_DNP_ZZ,20210617,Heather,B,1,2021,NOxN,Duplicate Set,7.61,micrograms per liter,4.95,NA
+HE_B_1.21_DNP_ZZ,20210617,Heather,B,1,2021,NH3N,Duplicate Set,3.03,micrograms per liter,2.09,NA
+HE_B_1.21_DNP_ZZ,20210617,Heather,B,1,2021,NOxN,Duplicate Set,7.39,micrograms per liter,4.95,NA
+HE_C_1.21_DNP_ZZ,20210617,Heather,C,1,2021,NH3N,Spike Set,4.54,micrograms per liter,2.09,NA
+HE_C_1.21_DNP_ZZ,20210617,Heather,C,1,2021,NOxN,Spike Set,10.8,micrograms per liter,4.95,NA
+EM_A_1.21_DNP_ZZ,20210618,Emerald,A,1,2021,NH3N,Standard,14.2,micrograms per liter,2.09,NA
+EM_A_1.21_DNP_ZZ,20210618,Emerald,A,1,2021,NOxN,Standard,107,micrograms per liter,4.95,NA
+EM_B_1.21_DNP_ZZ,20210618,Emerald,B,1,2021,NH3N,Duplicate Set,2.25,micrograms per liter,2.09,NA
+EM_B_1.21_DNP_ZZ,20210618,Emerald,B,1,2021,NOxN,Duplicate Set,123,micrograms per liter,4.95,NA
+EM_B_1.21_DNP_ZZ,20210618,Emerald,B,1,2021,NH3N,Duplicate Set,2.62,micrograms per liter,2.09,NA
+EM_B_1.21_DNP_ZZ,20210618,Emerald,B,1,2021,NOxN,Duplicate Set,124,micrograms per liter,4.95,NA
+EM_C_1.21_DNP_ZZ,20210618,Emerald,C,1,2021,NH3N,Standard,2.46,micrograms per liter,2.09,NA
+EM_C_1.21_DNP_ZZ,20210618,Emerald,C,1,2021,NOxN,Standard,137,micrograms per liter,4.95,NA
+PE_A_1.21_DNP_ZZ,20210615,Pear,A,1,2021,NH3N,Standard,2.93,micrograms per liter,2.09,NA
+PE_A_1.21_DNP_ZZ,20210615,Pear,A,1,2021,NOxN,Standard,53.9,micrograms per liter,4.95,NA
+PE_B_1.21_DNP_ZZ,20210615,Pear,B,1,2021,NH3N,Spike Set,2.33,micrograms per liter,2.09,NA
+PE_B_1.21_DNP_ZZ,20210615,Pear,B,1,2021,NOxN,Spike Set,54.4,micrograms per liter,4.95,NA
+PE_C_1.21_DNP_ZZ,20210615,Pear,C,1,2021,NH3N,Standard,2.42,micrograms per liter,2.09,NA
+PE_C_1.21_DNP_ZZ,20210615,Pear,C,1,2021,NOxN,Standard,60.9,micrograms per liter,4.95,NA
+LY_A_1.21_DNP_ZZ,20210620,Lyness,A,1,2021,NH3N,Standard,NA,micrograms per liter,2.09,below method detection limit
+LY_A_1.21_DNP_ZZ,20210620,Lyness,A,1,2021,NOxN,Standard,NA,micrograms per liter,4.95,below method detection limit
+LY_B_1.21_DNP_ZZ,20210620,Lyness,B,1,2021,NH3N,Duplicate Set,NA,micrograms per liter,2.09,below method detection limit
+LY_B_1.21_DNP_ZZ,20210620,Lyness,B,1,2021,NOxN,Duplicate Set,NA,micrograms per liter,4.95,below method detection limit
+LY_B_1.21_DNP_ZZ,20210620,Lyness,B,1,2021,NH3N,Duplicate Set,NA,micrograms per liter,2.09,below method detection limit
+LY_B_1.21_DNP_ZZ,20210620,Lyness,B,1,2021,NOxN,Duplicate Set,NA,micrograms per liter,4.95,below method detection limit
+LY_C_1.21_DNP_ZZ,20210620,Lyness,C,1,2021,NH3N,Spike Set,NA,micrograms per liter,2.09,below method detection limit
+LY_C_1.21_DNP_ZZ,20210620,Lyness,C,1,2021,NOxN,Spike Set,NA,micrograms per liter,4.95,below method detection limit
+FR_A_1.21_DNP_ZZ,20210616,Frog,A,1,2021,NH3N,Standard,3.89,micrograms per liter,2.09,NA
+FR_A_1.21_DNP_ZZ,20210616,Frog,A,1,2021,NOxN,Standard,47.6,micrograms per liter,4.95,NA
+FR_B_1.21_DNP_ZZ,20210616,Frog,B,1,2021,NH3N,Standard,4.57,micrograms per liter,2.09,NA
+FR_B_1.21_DNP_ZZ,20210616,Frog,B,1,2021,NOxN,Standard,45.4,micrograms per liter,4.95,NA
+FR_C_1.21_DNP_ZZ,20210616,Frog,C,1,2021,NH3N,Standard,4.06,micrograms per liter,2.09,NA
+FR_C_1.21_DNP_ZZ,20210616,Frog,C,1,2021,NOxN,Standard,44.9,micrograms per liter,4.95,NA
+TO_A_1.21_DNP_ZZ,20210619,Topaz,A,1,2021,NH3N,Standard,NA,micrograms per liter,2.09,below method detection limit
+TO_A_1.21_DNP_ZZ,20210619,Topaz,A,1,2021,NOxN,Standard,NA,micrograms per liter,4.95,below method detection limit
+TO_B_1.21_DNP_ZZ,20210619,Topaz,B,1,2021,NH3N,Duplicate Set,3.05,micrograms per liter,2.09,NA
+TO_B_1.21_DNP_ZZ,20210619,Topaz,B,1,2021,NOxN,Duplicate Set,NA,micrograms per liter,4.95,below method detection limit
+TO_B_1.21_DNP_ZZ,20210619,Topaz,B,1,2021,NH3N,Duplicate Set,3.31,micrograms per liter,2.09,NA
+TO_B_1.21_DNP_ZZ,20210619,Topaz,B,1,2021,NOxN,Duplicate Set,NA,micrograms per liter,4.95,below method detection limit
+TO_C_1.21_DNP_ZZ,20210619,Topaz,C,1,2021,NH3N,Standard,2.23,micrograms per liter,2.09,NA
+TO_C_1.21_DNP_ZZ,20210619,Topaz,C,1,2021,NOxN,Standard,6.28,micrograms per liter,4.95,NA
+FR_A_1.21_DNP_DU,20210616,Frog,A,1,2021,NH3N,Standard,NA,micrograms per liter,2.09,below method detection limit
+FR_A_1.21_DNP_DU,20210616,Frog,A,1,2021,NOxN,Standard,NA,micrograms per liter,4.95,below method detection limit
+HE_A_1.21_DNP_ZZ,20210617,Heather,A,1,2021,PO4P,Standard,NA,micrograms per liter,3.53,below method detection limit
+HE_B_1.21_DNP_ZZ,20210617,Heather,B,1,2021,PO4P,Duplicate Set,NA,micrograms per liter,3.53,below method detection limit
+HE_B_1.21_DNP_ZZ,20210617,Heather,B,1,2021,PO4P,Duplicate Set,NA,micrograms per liter,3.53,below method detection limit
+HE_C_1.21_DNP_ZZ,20210617,Heather,C,1,2021,PO4P,Spike Set,NA,micrograms per liter,3.53,below method detection limit
+EM_A_1.21_DNP_ZZ,20210618,Emerald,A,1,2021,PO4P,Standard,NA,micrograms per liter,3.53,below method detection limit
+EM_B_1.21_DNP_ZZ,20210618,Emerald,B,1,2021,PO4P,Duplicate Set,NA,micrograms per liter,3.53,below method detection limit
+EM_B_1.21_DNP_ZZ,20210618,Emerald,B,1,2021,PO4P,Duplicate Set,NA,micrograms per liter,3.53,below method detection limit
+EM_C_1.21_DNP_ZZ,20210618,Emerald,C,1,2021,PO4P,Standard,NA,micrograms per liter,3.53,below method detection limit
+PE_A_1.21_DNP_ZZ,20210615,Pear,A,1,2021,PO4P,Standard,NA,micrograms per liter,3.53,below method detection limit
+PE_B_1.21_DNP_ZZ,20210615,Pear,B,1,2021,PO4P,Spike Set,NA,micrograms per liter,3.53,below method detection limit
+PE_C_1.21_DNP_ZZ,20210615,Pear,C,1,2021,PO4P,Standard,NA,micrograms per liter,3.53,below method detection limit
+LY_A_1.21_DNP_ZZ,20210620,Lyness,A,1,2021,PO4P,Standard,NA,micrograms per liter,3.53,below method detection limit
+LY_B_1.21_DNP_ZZ,20210620,Lyness,B,1,2021,PO4P,Duplicate Set,NA,micrograms per liter,3.53,below method detection limit
+LY_B_1.21_DNP_ZZ,20210620,Lyness,B,1,2021,PO4P,Duplicate Set,NA,micrograms per liter,3.53,below method detection limit
+LY_C_1.21_DNP_ZZ,20210620,Lyness,C,1,2021,PO4P,Spike Set,NA,micrograms per liter,3.53,below method detection limit
+FR_A_1.21_DNP_ZZ,20210616,Frog,A,1,2021,PO4P,Standard,NA,micrograms per liter,3.53,below method detection limit
+FR_B_1.21_DNP_ZZ,20210616,Frog,B,1,2021,PO4P,Standard,NA,micrograms per liter,3.53,below method detection limit
+FR_C_1.21_DNP_ZZ,20210616,Frog,C,1,2021,PO4P,Standard,NA,micrograms per liter,3.53,below method detection limit
+TO_A_1.21_DNP_ZZ,20210619,Topaz,A,1,2021,PO4P,Standard,NA,micrograms per liter,3.53,below method detection limit
+TO_B_1.21_DNP_ZZ,20210619,Topaz,B,1,2021,PO4P,Duplicate Set,NA,micrograms per liter,3.53,below method detection limit
+TO_B_1.21_DNP_ZZ,20210619,Topaz,B,1,2021,PO4P,Duplicate Set,NA,micrograms per liter,3.53,below method detection limit
+TO_C_1.21_DNP_ZZ,20210619,Topaz,C,1,2021,PO4P,Standard,NA,micrograms per liter,3.53,below method detection limit
+FR_A_1.21_DNP_DU,20210616,Frog,A,1,2021,PO4P,Standard,NA,micrograms per liter,3.53,below method detection limit
+HE_A_1.21_TPH_ZZ,20210617,Heather,A,1,2021,TP,Standard,4.89,micrograms per liter,1.14,NA
+HE_B_1.21_TPH_ZZ,20210617,Heather,B,1,2021,TP,Duplicate Set,7.49,micrograms per liter,1.14,NA
+HE_B_1.21_TPH_ZZ,20210617,Heather,B,1,2021,TP,Duplicate Set,8.81,micrograms per liter,1.14,NA
+HE_C_1.21_TPH_ZZ,20210617,Heather,C,1,2021,TP,Spike Set,3.15,micrograms per liter,1.14,NA
+EM_A_1.21_TPH_ZZ,20210618,Emerald,A,1,2021,TP,Standard,1.91,micrograms per liter,1.14,NA
+EM_B_1.21_TPH_ZZ,20210618,Emerald,B,1,2021,TP,Standard,4.52,micrograms per liter,1.14,NA
+EM_C_1.21_TPH_ZZ,20210618,Emerald,C,1,2021,TP,Standard,2.64,micrograms per liter,1.14,NA
+PE_A_1.21_TPH_ZZ,20210615,Pear,A,1,2021,TP,Standard,4.55,micrograms per liter,1.14,NA
+PE_B_1.21_TPH_ZZ,20210615,Pear,B,1,2021,TP,Spike Set,3.27,micrograms per liter,1.14,NA
+PE_C_1.21_TPH_ZZ,20210615,Pear,C,1,2021,TP,Standard,5.04,micrograms per liter,1.14,NA
+LY_A_1.21_TPH_ZZ,20210620,Lyness,A,1,2021,TP,Standard,7,micrograms per liter,1.14,NA
+LY_B_1.21_TPH_ZZ,20210620,Lyness,B,1,2021,TP,Standard,19,micrograms per liter,1.14,NA
+LY_C_1.21_TPH_ZZ,20210620,Lyness,C,1,2021,TP,Duplicate Set,14.1,micrograms per liter,1.14,NA
+LY_C_1.21_TPH_ZZ,20210620,Lyness,C,1,2021,TP,Duplicate Set,14.2,micrograms per liter,1.14,NA
+FR_A_1.21_TPH_ZZ,20210616,Frog,A,1,2021,TP,Standard,2.77,micrograms per liter,1.14,NA
+FR_B_1.21_TPH_ZZ,20210616,Frog,B,1,2021,TP,Standard,3.3,micrograms per liter,1.14,NA
+FR_C_1.21_TPH_ZZ,20210616,Frog,C,1,2021,TP,Duplicate Set,4.32,micrograms per liter,1.14,NA
+FR_C_1.21_TPH_ZZ,20210616,Frog,C,1,2021,TP,Duplicate Set,4.18,micrograms per liter,1.14,NA
+TO_A_1.21_TPH_ZZ,20210619,Topaz,A,1,2021,TP,Spike Set,6.02,micrograms per liter,1.14,NA
+TO_B_1.21_TPH_ZZ,20210619,Topaz,B,1,2021,TP,Standard,9.2,micrograms per liter,1.14,NA
+TO_C_1.21_TPH_ZZ,20210619,Topaz,C,1,2021,TP,Duplicate Set,8.69,micrograms per liter,1.14,NA
+TO_C_1.21_TPH_ZZ,20210619,Topaz,C,1,2021,TP,Duplicate Set,9.64,micrograms per liter,1.14,NA
+FR_A_1.21_TPH_DU,20210616,Frog,A,1,2021,TP,Standard,6.88,micrograms per liter,1.14,NA
+HE_A_2.21_DNP_ZZ,20210722,Heather,A,2,2021,PO4P,Standard,NA,micrograms per liter,1.62,below method detection limit
+HE_A_2.21_DNP_ZZ,20210722,Heather,A,2,2021,NH3N,Standard,3.22,micrograms per liter,2.48,NA
+HE_A_2.21_DNP_ZZ,20210722,Heather,A,2,2021,NOxN,Standard,4.92,micrograms per liter,4.11,NA
+HE_B_2.21_DNP_ZZ,20210722,Heather,B,2,2021,PO4P,Standard,NA,micrograms per liter,1.62,below method detection limit
+HE_B_2.21_DNP_ZZ,20210722,Heather,B,2,2021,NH3N,Standard,8.18,micrograms per liter,2.48,NA
+HE_B_2.21_DNP_ZZ,20210722,Heather,B,2,2021,NOxN,Standard,6.87,micrograms per liter,4.11,NA
+HE_C_2.21_DNP_ZZ,20210722,Heather,C,2,2021,PO4P,Standard,NA,micrograms per liter,1.62,below method detection limit
+HE_C_2.21_DNP_ZZ,20210722,Heather,C,2,2021,NH3N,Standard,NA,micrograms per liter,2.48,below method detection limit
+HE_C_2.21_DNP_ZZ,20210722,Heather,C,2,2021,NOxN,Standard,6.75,micrograms per liter,4.11,NA
+EM_A_2.21_DNP_ZZ,20210724,Emerald,A,2,2021,PO4P,Spike Set,NA,micrograms per liter,1.62,below method detection limit
+EM_A_2.21_DNP_ZZ,20210724,Emerald,A,2,2021,NH3N,Spike Set,5.25,micrograms per liter,2.48,NA
+EM_A_2.21_DNP_ZZ,20210724,Emerald,A,2,2021,NOxN,Spike Set,69.1,micrograms per liter,4.11,NA
+EM_B_2.21_DNP_ZZ,20210724,Emerald,B,2,2021,PO4P,Standard,NA,micrograms per liter,1.62,below method detection limit
+EM_B_2.21_DNP_ZZ,20210724,Emerald,B,2,2021,NH3N,Standard,5.5,micrograms per liter,2.48,NA
+EM_B_2.21_DNP_ZZ,20210724,Emerald,B,2,2021,NOxN,Standard,70.8,micrograms per liter,4.11,NA
+EM_C_2.21_DNP_ZZ,20210724,Emerald,C,2,2021,PO4P,Duplicate Set,NA,micrograms per liter,1.62,below method detection limit
+EM_C_2.21_DNP_ZZ,20210724,Emerald,C,2,2021,NH3N,Duplicate Set,6.55,micrograms per liter,2.48,NA
+EM_C_2.21_DNP_ZZ,20210724,Emerald,C,2,2021,NOxN,Duplicate Set,66.3,micrograms per liter,4.11,NA
+EM_C_2.21_DNP_ZZ,20210724,Emerald,C,2,2021,PO4P,Duplicate Set,NA,micrograms per liter,1.62,below method detection limit
+EM_C_2.21_DNP_ZZ,20210724,Emerald,C,2,2021,NH3N,Duplicate Set,6.4,micrograms per liter,2.48,NA
+EM_C_2.21_DNP_ZZ,20210724,Emerald,C,2,2021,NOxN,Duplicate Set,65.9,micrograms per liter,4.11,NA
+PE_A_2.21_DNP_ZZ,20210720,Pear,A,2,2021,PO4P,Standard,NA,micrograms per liter,1.62,below method detection limit
+PE_A_2.21_DNP_ZZ,20210720,Pear,A,2,2021,NH3N,Standard,9.4,micrograms per liter,2.48,NA
+PE_A_2.21_DNP_ZZ,20210720,Pear,A,2,2021,NOxN,Standard,21.2,micrograms per liter,4.11,NA
+PE_B_2.21_DNP_ZZ,20210720,Pear,B,2,2021,PO4P,Standard,NA,micrograms per liter,1.62,below method detection limit
+PE_B_2.21_DNP_ZZ,20210720,Pear,B,2,2021,NH3N,Standard,6.05,micrograms per liter,2.48,NA
+PE_B_2.21_DNP_ZZ,20210720,Pear,B,2,2021,NOxN,Standard,33.5,micrograms per liter,4.11,NA
+PE_C_2.21_DNP_ZZ,20210720,Pear,C,2,2021,PO4P,Spike Set,NA,micrograms per liter,1.62,below method detection limit
+PE_C_2.21_DNP_ZZ,20210720,Pear,C,2,2021,NH3N,Spike Set,8.07,micrograms per liter,2.48,NA
+PE_C_2.21_DNP_ZZ,20210720,Pear,C,2,2021,NOxN,Spike Set,31.7,micrograms per liter,4.11,NA
+LY_A_2.21_DNP_ZZ,20210721,Lyness,A,2,2021,PO4P,Duplicate Set,NA,micrograms per liter,1.62,below method detection limit
+LY_A_2.21_DNP_ZZ,20210721,Lyness,A,2,2021,NH3N,Duplicate Set,5.84,micrograms per liter,2.48,NA
+LY_A_2.21_DNP_ZZ,20210721,Lyness,A,2,2021,NOxN,Duplicate Set,17.8,micrograms per liter,4.11,NA
+LY_A_2.21_DNP_ZZ,20210721,Lyness,A,2,2021,PO4P,Duplicate Set,NA,micrograms per liter,1.62,below method detection limit
+LY_A_2.21_DNP_ZZ,20210721,Lyness,A,2,2021,NH3N,Duplicate Set,5.55,micrograms per liter,2.48,NA
+LY_A_2.21_DNP_ZZ,20210721,Lyness,A,2,2021,NOxN,Duplicate Set,17.7,micrograms per liter,4.11,NA
+LY_B_2.21_DNP_ZZ,20210721,Lyness,B,2,2021,PO4P,Standard,NA,micrograms per liter,1.62,below method detection limit
+LY_B_2.21_DNP_ZZ,20210721,Lyness,B,2,2021,NH3N,Standard,5.71,micrograms per liter,2.48,NA
+LY_B_2.21_DNP_ZZ,20210721,Lyness,B,2,2021,NOxN,Standard,15.1,micrograms per liter,4.11,NA
+LY_C_2.21_DNP_ZZ,20210721,Lyness,C,2,2021,PO4P,Duplicate Set,NA,micrograms per liter,1.62,below method detection limit
+LY_C_2.21_DNP_ZZ,20210721,Lyness,C,2,2021,NH3N,Duplicate Set,7.18,micrograms per liter,2.48,NA
+LY_C_2.21_DNP_ZZ,20210721,Lyness,C,2,2021,NOxN,Duplicate Set,18.2,micrograms per liter,4.11,NA
+LY_C_2.21_DNP_ZZ,20210721,Lyness,C,2,2021,PO4P,Duplicate Set,NA,micrograms per liter,1.62,below method detection limit
+LY_C_2.21_DNP_ZZ,20210721,Lyness,C,2,2021,NH3N,Duplicate Set,7.58,micrograms per liter,2.48,NA
+LY_C_2.21_DNP_ZZ,20210721,Lyness,C,2,2021,NOxN,Duplicate Set,18.2,micrograms per liter,4.11,NA
+FR_A_2.21_DNP_ZZ,20210725,Frog,A,2,2021,PO4P,Standard,NA,micrograms per liter,1.62,below method detection limit
+FR_A_2.21_DNP_ZZ,20210725,Frog,A,2,2021,NH3N,Standard,3.92,micrograms per liter,2.48,NA
+FR_A_2.21_DNP_ZZ,20210725,Frog,A,2,2021,NOxN,Standard,4.27,micrograms per liter,4.11,NA
+FR_B_2.21_DNP_ZZ,20210725,Frog,B,2,2021,PO4P,Spike Set,NA,micrograms per liter,1.62,below method detection limit
+FR_B_2.21_DNP_ZZ,20210725,Frog,B,2,2021,NH3N,Spike Set,4.31,micrograms per liter,2.48,NA
+FR_B_2.21_DNP_ZZ,20210725,Frog,B,2,2021,NOxN,Spike Set,7,micrograms per liter,4.11,NA
+FR_C_2.21_DNP_ZZ,20210725,Frog,C,2,2021,PO4P,Duplicate Set,NA,micrograms per liter,1.62,below method detection limit
+FR_C_2.21_DNP_ZZ,20210725,Frog,C,2,2021,NH3N,Duplicate Set,6.12,micrograms per liter,2.48,NA
+FR_C_2.21_DNP_ZZ,20210725,Frog,C,2,2021,NOxN,Duplicate Set,9.04,micrograms per liter,4.11,NA
+FR_C_2.21_DNP_ZZ,20210725,Frog,C,2,2021,PO4P,Duplicate Set,NA,micrograms per liter,1.62,below method detection limit
+FR_C_2.21_DNP_ZZ,20210725,Frog,C,2,2021,NH3N,Duplicate Set,6.44,micrograms per liter,2.48,NA
+FR_C_2.21_DNP_ZZ,20210725,Frog,C,2,2021,NOxN,Duplicate Set,8.86,micrograms per liter,4.11,NA
+TO_A_2.21_DNP_ZZ,20210723,Topaz,A,2,2021,PO4P,Standard,NA,micrograms per liter,1.62,below method detection limit
+TO_A_2.21_DNP_ZZ,20210723,Topaz,A,2,2021,NH3N,Standard,3.35,micrograms per liter,2.48,NA
+TO_A_2.21_DNP_ZZ,20210723,Topaz,A,2,2021,NOxN,Standard,13.5,micrograms per liter,4.11,NA
+TO_B_2.21_DNP_ZZ,20210723,Topaz,B,2,2021,PO4P,Standard,NA,micrograms per liter,1.62,below method detection limit
+TO_B_2.21_DNP_ZZ,20210723,Topaz,B,2,2021,NH3N,Standard,3.57,micrograms per liter,2.48,NA
+TO_B_2.21_DNP_ZZ,20210723,Topaz,B,2,2021,NOxN,Standard,9.14,micrograms per liter,4.11,NA
+TO_C_2.21_DNP_ZZ,20210723,Topaz,C,2,2021,PO4P,Spike Set,NA,micrograms per liter,1.62,below method detection limit
+TO_C_2.21_DNP_ZZ,20210723,Topaz,C,2,2021,NH3N,Spike Set,5.9,micrograms per liter,2.48,NA
+TO_C_2.21_DNP_ZZ,20210723,Topaz,C,2,2021,NOxN,Spike Set,12,micrograms per liter,4.11,NA
+FR_A_2.21_DNP_DU,20210725,Frog,A,2,2021,PO4P,Standard,NA,micrograms per liter,1.62,below method detection limit
+FR_A_2.21_DNP_DU,20210725,Frog,A,2,2021,NH3N,Standard,9.63,micrograms per liter,2.48,NA
+FR_A_2.21_DNP_DU,20210725,Frog,A,2,2021,NOxN,Standard,16.8,micrograms per liter,4.11,NA
+HE_A_2.21_TPH_ZZ,20210722,Heather,A,2,2021,TP,Standard,7.55,micrograms per liter,0.96,NA
+HE_B_2.21_TPH_ZZ,20210722,Heather,B,2,2021,TP,Duplicate Set,19.8,micrograms per liter,0.96,NA
+HE_B_2.21_TPH_ZZ,20210722,Heather,B,2,2021,TP,Duplicate Set,20.1,micrograms per liter,0.96,NA
+HE_C_2.21_TPH_ZZ,20210722,Heather,C,2,2021,TP,Spike Set,23.7,micrograms per liter,0.96,NA
+EM_A_2.21_TPH_ZZ,20210724,Emerald,A,2,2021,TP,Standard,6.14,micrograms per liter,0.96,NA
+EM_B_2.21_TPH_ZZ,20210724,Emerald,B,2,2021,TP,Standard,11.2,micrograms per liter,0.96,NA
+EM_C_2.21_TPH_ZZ,20210724,Emerald,C,2,2021,TP,Duplicate Set,6.08,micrograms per liter,0.96,NA
+EM_C_2.21_TPH_ZZ,20210724,Emerald,C,2,2021,TP,Duplicate Set,5.58,micrograms per liter,0.96,NA
+PE_A_2.21_TPH_ZZ,20210720,Pear,A,2,2021,TP,Standard,10.3,micrograms per liter,0.96,NA
+PE_B_2.21_TPH_ZZ,20210720,Pear,B,2,2021,TP,Spike Set,10.8,micrograms per liter,0.96,NA
+PE_C_2.21_TPH_ZZ,20210720,Pear,C,2,2021,TP,Standard,9.89,micrograms per liter,0.96,NA
+LY_A_2.21_TPH_ZZ,20210721,Lyness,A,2,2021,TP,Standard,9.37,micrograms per liter,0.96,NA
+LY_B_2.21_TPH_ZZ,20210721,Lyness,B,2,2021,TP,Standard,18.1,micrograms per liter,0.96,NA
+LY_C_2.21_TPH_ZZ,20210721,Lyness,C,2,2021,TP,Standard,19.3,micrograms per liter,0.96,NA
+FR_A_2.21_TPH_ZZ,20210725,Frog,A,2,2021,TP,Spike Set,9.2,micrograms per liter,0.96,NA
+FR_B_2.21_TPH_ZZ,20210725,Frog,B,2,2021,TP,Standard,9.66,micrograms per liter,0.96,NA
+FR_C_2.21_TPH_ZZ,20210725,Frog,C,2,2021,TP,Duplicate Set,15.7,micrograms per liter,0.96,NA
+FR_C_2.21_TPH_ZZ,20210725,Frog,C,2,2021,TP,Duplicate Set,16,micrograms per liter,0.96,NA
+TO_A_2.21_TPH_ZZ,20210723,Topaz,A,2,2021,TP,Standard,9.83,micrograms per liter,0.96,NA
+TO_B_2.21_TPH_ZZ,20210723,Topaz,B,2,2021,TP,Standard,12.6,micrograms per liter,0.96,NA
+TO_C_2.21_TPH_ZZ,20210723,Topaz,C,2,2021,TP,Duplicate Set,12.9,micrograms per liter,0.96,NA
+TO_C_2.21_TPH_ZZ,20210723,Topaz,C,2,2021,TP,Duplicate Set,12.5,micrograms per liter,0.96,NA
+FR_A_2.21_TPH_DU,20210725,Frog,A,2,2021,TP,Standard,9.51,micrograms per liter,0.96,NA
+HE_A_3.21_DNP_ZZ,20210817,Heather,A,3,2021,PO4P,Standard,NA,micrograms per liter,1.9,below method detection limit
+HE_A_3.21_DNP_ZZ,20210817,Heather,A,3,2021,NH3N,Standard,1.24,micrograms per liter,0.97,NA
+HE_A_3.21_DNP_ZZ,20210817,Heather,A,3,2021,NOxN,Standard,14.7,micrograms per liter,1.12,NA
+HE_B_3.21_DNP_ZZ,20210817,Heather,B,3,2021,PO4P,Standard,NA,micrograms per liter,1.9,below method detection limit
+HE_B_3.21_DNP_ZZ,20210817,Heather,B,3,2021,NH3N,Standard,11.5,micrograms per liter,0.97,NA
+HE_B_3.21_DNP_ZZ,20210817,Heather,B,3,2021,NOxN,Standard,9.45,micrograms per liter,1.12,NA
+HE_C_3.21_DNP_ZZ,20210817,Heather,C,3,2021,PO4P,Standard,NA,micrograms per liter,1.9,below method detection limit
+HE_C_3.21_DNP_ZZ,20210817,Heather,C,3,2021,NH3N,Standard,12.6,micrograms per liter,0.97,NA
+HE_C_3.21_DNP_ZZ,20210817,Heather,C,3,2021,NOxN,Standard,16.9,micrograms per liter,1.12,NA
+EM_A_3.21_DNP_ZZ,20210820,Emerald,A,3,2021,PO4P,Spike Set,NA,micrograms per liter,1.9,below method detection limit
+EM_A_3.21_DNP_ZZ,20210820,Emerald,A,3,2021,NH3N,Spike Set,4.78,micrograms per liter,0.97,NA
+EM_A_3.21_DNP_ZZ,20210820,Emerald,A,3,2021,NOxN,Spike Set,27.2,micrograms per liter,1.12,NA
+EM_B_3.21_DNP_ZZ,20210820,Emerald,B,3,2021,PO4P,Standard,NA,micrograms per liter,1.9,below method detection limit
+EM_B_3.21_DNP_ZZ,20210820,Emerald,B,3,2021,NH3N,Standard,7.68,micrograms per liter,0.97,NA
+EM_B_3.21_DNP_ZZ,20210820,Emerald,B,3,2021,NOxN,Standard,33.7,micrograms per liter,1.12,NA
+EM_C_3.21_DNP_ZZ,20210820,Emerald,C,3,2021,PO4P,Duplicate Set,NA,micrograms per liter,1.9,below method detection limit
+EM_C_3.21_DNP_ZZ,20210820,Emerald,C,3,2021,NH3N,Duplicate Set,8.29,micrograms per liter,0.97,NA
+EM_C_3.21_DNP_ZZ,20210820,Emerald,C,3,2021,NOxN,Duplicate Set,37.3,micrograms per liter,1.12,NA
+EM_C_3.21_DNP_ZZ,20210820,Emerald,C,3,2021,PO4P,Duplicate Set,NA,micrograms per liter,1.9,below method detection limit
+EM_C_3.21_DNP_ZZ,20210820,Emerald,C,3,2021,NH3N,Duplicate Set,8.05,micrograms per liter,0.97,NA
+EM_C_3.21_DNP_ZZ,20210820,Emerald,C,3,2021,NOxN,Duplicate Set,37.1,micrograms per liter,1.12,NA
+PE_A_3.21_DNP_ZZ,20210821,Pear,A,3,2021,PO4P,Standard,NA,micrograms per liter,1.9,below method detection limit
+PE_A_3.21_DNP_ZZ,20210821,Pear,A,3,2021,NH3N,Standard,1.32,micrograms per liter,0.97,NA
+PE_A_3.21_DNP_ZZ,20210821,Pear,A,3,2021,NOxN,Standard,NA,micrograms per liter,1.12,below method detection limit
+PE_B_3.21_DNP_ZZ,20210821,Pear,B,3,2021,PO4P,Standard,NA,micrograms per liter,1.9,below method detection limit
+PE_B_3.21_DNP_ZZ,20210821,Pear,B,3,2021,NH3N,Standard,3.19,micrograms per liter,0.97,NA
+PE_B_3.21_DNP_ZZ,20210821,Pear,B,3,2021,NOxN,Standard,1.99,micrograms per liter,1.12,NA
+PE_C_3.21_DNP_ZZ,20210821,Pear,C,3,2021,PO4P,Spike Set,NA,micrograms per liter,1.9,below method detection limit
+PE_C_3.21_DNP_ZZ,20210821,Pear,C,3,2021,NH3N,Spike Set,2.18,micrograms per liter,0.97,NA
+PE_C_3.21_DNP_ZZ,20210821,Pear,C,3,2021,NOxN,Spike Set,2.02,micrograms per liter,1.12,NA
+LY_A_3.21_DNP_ZZ,20210819,Lyness,A,3,2021,PO4P,Duplicate Set,NA,micrograms per liter,1.9,below method detection limit
+LY_A_3.21_DNP_ZZ,20210819,Lyness,A,3,2021,NH3N,Duplicate Set,4.23,micrograms per liter,0.97,NA
+LY_A_3.21_DNP_ZZ,20210819,Lyness,A,3,2021,NOxN,Duplicate Set,1.12,micrograms per liter,1.12,NA
+LY_A_3.21_DNP_ZZ,20210819,Lyness,A,3,2021,PO4P,Duplicate Set,NA,micrograms per liter,1.9,below method detection limit
+LY_A_3.21_DNP_ZZ,20210819,Lyness,A,3,2021,NH3N,Duplicate Set,4.33,micrograms per liter,0.97,NA
+LY_A_3.21_DNP_ZZ,20210819,Lyness,A,3,2021,NOxN,Duplicate Set,1.24,micrograms per liter,1.12,NA
+LY_B_3.21_DNP_ZZ,20210819,Lyness,B,3,2021,PO4P,Spike Set,NA,micrograms per liter,1.9,below method detection limit
+LY_B_3.21_DNP_ZZ,20210819,Lyness,B,3,2021,NH3N,Spike Set,2.72,micrograms per liter,0.97,NA
+LY_B_3.21_DNP_ZZ,20210819,Lyness,B,3,2021,NOxN,Spike Set,8.36,micrograms per liter,1.12,NA
+LY_C_3.21_DNP_ZZ,20210819,Lyness,C,3,2021,PO4P,Duplicate Set,NA,micrograms per liter,1.9,below method detection limit
+LY_C_3.21_DNP_ZZ,20210819,Lyness,C,3,2021,NH3N,Duplicate Set,NA,micrograms per liter,0.97,below method detection limit
+LY_C_3.21_DNP_ZZ,20210819,Lyness,C,3,2021,NOxN,Duplicate Set,NA,micrograms per liter,1.12,below method detection limit
+LY_C_3.21_DNP_ZZ,20210819,Lyness,C,3,2021,PO4P,Duplicate Set,NA,micrograms per liter,1.9,below method detection limit
+LY_C_3.21_DNP_ZZ,20210819,Lyness,C,3,2021,NH3N,Duplicate Set,NA,micrograms per liter,0.97,below method detection limit
+LY_C_3.21_DNP_ZZ,20210819,Lyness,C,3,2021,NOxN,Duplicate Set,NA,micrograms per liter,1.12,below method detection limit
+FR_A_3.21_DNP_ZZ,20210818,Frog,A,3,2021,PO4P,Standard,NA,micrograms per liter,1.9,below method detection limit
+FR_A_3.21_DNP_ZZ,20210818,Frog,A,3,2021,NH3N,Standard,5.92,micrograms per liter,0.97,NA
+FR_A_3.21_DNP_ZZ,20210818,Frog,A,3,2021,NOxN,Standard,NA,micrograms per liter,1.12,below method detection limit
+FR_B_3.21_DNP_ZZ,20210818,Frog,B,3,2021,PO4P,Standard,NA,micrograms per liter,1.9,below method detection limit
+FR_B_3.21_DNP_ZZ,20210818,Frog,B,3,2021,NH3N,Standard,3.08,micrograms per liter,0.97,NA
+FR_B_3.21_DNP_ZZ,20210818,Frog,B,3,2021,NOxN,Standard,4.17,micrograms per liter,1.12,NA
+FR_C_3.21_DNP_ZZ,20210818,Frog,C,3,2021,PO4P,Duplicate Set,NA,micrograms per liter,1.9,below method detection limit
+FR_C_3.21_DNP_ZZ,20210818,Frog,C,3,2021,NH3N,Duplicate Set,2.22,micrograms per liter,0.97,NA
+FR_C_3.21_DNP_ZZ,20210818,Frog,C,3,2021,NOxN,Duplicate Set,NA,micrograms per liter,1.12,below method detection limit
+FR_C_3.21_DNP_ZZ,20210818,Frog,C,3,2021,PO4P,Duplicate Set,2.04,micrograms per liter,1.9,NA
+FR_C_3.21_DNP_ZZ,20210818,Frog,C,3,2021,NH3N,Duplicate Set,3.43,micrograms per liter,0.97,NA
+FR_C_3.21_DNP_ZZ,20210818,Frog,C,3,2021,NOxN,Duplicate Set,NA,micrograms per liter,1.12,below method detection limit
+TO_A_3.21_DNP_ZZ,20210821,Topaz,A,3,2021,PO4P,Standard,NA,micrograms per liter,1.9,below method detection limit
+TO_A_3.21_DNP_ZZ,20210821,Topaz,A,3,2021,NH3N,Standard,9.56,micrograms per liter,0.97,NA
+TO_A_3.21_DNP_ZZ,20210821,Topaz,A,3,2021,NOxN,Standard,11.7,micrograms per liter,1.12,NA
+TO_B_3.21_DNP_ZZ,20210821,Topaz,B,3,2021,PO4P,Spike Set,NA,micrograms per liter,1.9,below method detection limit
+TO_B_3.21_DNP_ZZ,20210821,Topaz,B,3,2021,NH3N,Spike Set,4.51,micrograms per liter,0.97,NA
+TO_B_3.21_DNP_ZZ,20210821,Topaz,B,3,2021,NOxN,Spike Set,1.58,micrograms per liter,1.12,NA
+TO_C_3.21_DNP_ZZ,20210821,Topaz,C,3,2021,PO4P,Standard,NA,micrograms per liter,1.9,below method detection limit
+TO_C_3.21_DNP_ZZ,20210821,Topaz,C,3,2021,NH3N,Standard,2.96,micrograms per liter,0.97,NA
+TO_C_3.21_DNP_ZZ,20210821,Topaz,C,3,2021,NOxN,Standard,3.39,micrograms per liter,1.12,NA
+FR_B_3.21_DNP_DU,20210818,Frog,B,3,2021,PO4P,Standard,NA,micrograms per liter,1.9,below method detection limit
+FR_B_3.21_DNP_DU,20210818,Frog,B,3,2021,NH3N,Standard,4.29,micrograms per liter,0.97,NA
+FR_B_3.21_DNP_DU,20210818,Frog,B,3,2021,NOxN,Standard,NA,micrograms per liter,1.12,below method detection limit
+HE_A_3.21_TPH_ZZ,20210817,Heather,A,3,2021,TP,Standard,5.71,micrograms per liter,0.79,NA
+HE_B_3.21_TPH_ZZ,20210817,Heather,B,3,2021,TP,Spike Set,8.55,micrograms per liter,0.79,NA
+HE_C_3.21_TPH_ZZ,20210817,Heather,C,3,2021,TP,Standard,10.2,micrograms per liter,0.79,NA
+EM_A_3.21_TPH_ZZ,20210820,Emerald,A,3,2021,TP,Duplicate Set,5.58,micrograms per liter,0.79,NA
+EM_A_3.21_TPH_ZZ,20210820,Emerald,A,3,2021,TP,Duplicate Set,5.34,micrograms per liter,0.79,NA
+EM_B_3.21_TPH_ZZ,20210820,Emerald,B,3,2021,TP,Standard,7.55,micrograms per liter,0.79,NA
+EM_C_3.21_TPH_ZZ,20210820,Emerald,C,3,2021,TP,Spike Set,7.34,micrograms per liter,0.79,NA
+PE_A_3.21_TPH_ZZ,20210821,Pear,A,3,2021,TP,Standard,7.69,micrograms per liter,0.79,NA
+PE_B_3.21_TPH_ZZ,20210821,Pear,B,3,2021,TP,Standard,6.56,micrograms per liter,0.79,NA
+PE_C_3.21_TPH_ZZ,20210821,Pear,C,3,2021,TP,Standard,12.4,micrograms per liter,0.79,NA
+LY_A_3.21_TPH_ZZ,20210819,Lyness,A,3,2021,TP,Duplicate Set,8.5,micrograms per liter,0.79,NA
+LY_A_3.21_TPH_ZZ,20210819,Lyness,A,3,2021,TP,Duplicate Set,8.79,micrograms per liter,0.79,NA
+LY_B_3.21_TPH_ZZ,20210819,Lyness,B,3,2021,TP,Standard,11.1,micrograms per liter,0.79,NA
+LY_C_3.21_TPH_ZZ,20210819,Lyness,C,3,2021,TP,Standard,17.9,micrograms per liter,0.79,NA
+FR_A_3.21_TPH_ZZ,20210818,Frog,A,3,2021,TP,Standard,9.9,micrograms per liter,0.79,NA
+FR_B_3.21_TPH_ZZ,20210818,Frog,B,3,2021,TP,Duplicate Set,9.45,micrograms per liter,0.79,NA
+FR_B_3.21_TPH_ZZ,20210818,Frog,B,3,2021,TP,Duplicate Set,8.89,micrograms per liter,0.79,NA
+FR_C_3.21_TPH_ZZ,20210818,Frog,C,3,2021,TP,Standard,8.79,micrograms per liter,0.79,NA
+TO_A_3.21_TPH_ZZ,20210821,Topaz,A,3,2021,TP,Spike Set,8.93,micrograms per liter,0.79,NA
+TO_B_3.21_TPH_ZZ,20210821,Topaz,B,3,2021,TP,Standard,11.2,micrograms per liter,0.79,NA
+TO_C_3.21_TPH_ZZ,20210821,Topaz,C,3,2021,TP,Spike Set,9.37,micrograms per liter,0.79,NA
+FR_B_3.21_TPH_DU,20210818,Frog,B,3,2021,TP,Standard,9.86,micrograms per liter,0.79,NA
+HE_B_5.21_DNP_ZZ,20211117,Heather,B,5,2021,PO4P,Standard,NA,micrograms per liter,1.69,below method detection limit
+HE_B_5.21_DNP_ZZ,20211117,Heather,B,5,2021,NH3N,Standard,NA,micrograms per liter,5.46,below method detection limit
+HE_B_5.21_DNP_ZZ,20211117,Heather,B,5,2021,NOxN,Standard,6.86,micrograms per liter,1.62,NA
+EM_A_5.21_DNP_ZZ,20211117,Emerald,A,5,2021,PO4P,Standard,NA,micrograms per liter,1.69,below method detection limit
+EM_A_5.21_DNP_ZZ,20211117,Emerald,A,5,2021,NH3N,Standard,NA,micrograms per liter,5.46,below method detection limit
+EM_A_5.21_DNP_ZZ,20211117,Emerald,A,5,2021,NOxN,Standard,70.2,micrograms per liter,1.62,NA
+PE_A_5.21_DNP_ZZ,20211117,Pear,A,5,2021,PO4P,Duplicate Set,NA,micrograms per liter,1.69,below method detection limit
+PE_A_5.21_DNP_ZZ,20211117,Pear,A,5,2021,NH3N,Duplicate Set,15.6,micrograms per liter,5.46,NA
+PE_A_5.21_DNP_ZZ,20211117,Pear,A,5,2021,NOxN,Duplicate Set,6.59,micrograms per liter,1.62,NA
+PE_A_5.21_DNP_ZZ,20211117,Pear,A,5,2021,PO4P,Duplicate Set,NA,micrograms per liter,1.69,below method detection limit
+PE_A_5.21_DNP_ZZ,20211117,Pear,A,5,2021,NH3N,Duplicate Set,15.2,micrograms per liter,5.46,NA
+PE_A_5.21_DNP_ZZ,20211117,Pear,A,5,2021,NOxN,Duplicate Set,6.74,micrograms per liter,1.62,NA
+HE_B_5.21_TPH_ZZ,20211117,Heather,B,5,2021,TP,Spike Set,10.5,micrograms per liter,2.63,NA
+EM_A_5.21_TPH_ZZ,20211117,Emerald,A,5,2021,TP,Duplicate Set,6.52,micrograms per liter,2.63,NA
+EM_A_5.21_TPH_ZZ,20211117,Emerald,A,5,2021,TP,Duplicate Set,7.15,micrograms per liter,2.63,NA
+PE_A_5.21_TPH_ZZ,20211117,Pear,A,5,2021,TP,Spike Set,12.1,micrograms per liter,2.63,NA
+HE_A_1.22_DNP_ZZ,20220623,Heather,A,1,2022,PO4P,Standard,NA,micrograms per liter,1.52,below method detection limit
+HE_A_1.22_DNP_ZZ,20220623,Heather,A,1,2022,NH3N,Standard,5.96,micrograms per liter,2.42,NA
+HE_A_1.22_DNP_ZZ,20220623,Heather,A,1,2022,NOxN,Standard,8.41,micrograms per liter,0.43,NA
+HE_B_1.22_DNP_ZZ,20220623,Heather,B,1,2022,PO4P,Spike Set,NA,micrograms per liter,1.52,below method detection limit
+HE_B_1.22_DNP_ZZ,20220623,Heather,B,1,2022,NH3N,Spike Set,4.84,micrograms per liter,2.42,NA
+HE_B_1.22_DNP_ZZ,20220623,Heather,B,1,2022,NOxN,Spike Set,9.16,micrograms per liter,0.43,NA
+HE_C_1.22_DNP_ZZ,20220623,Heather,C,1,2022,PO4P,Standard,2.03,micrograms per liter,1.52,NA
+HE_C_1.22_DNP_ZZ,20220623,Heather,C,1,2022,NH3N,Standard,11.3,micrograms per liter,2.42,NA
+HE_C_1.22_DNP_ZZ,20220623,Heather,C,1,2022,NOxN,Standard,5.19,micrograms per liter,0.43,NA
+EM_A_1.22_DNP_ZZ,20220622,Emerald,A,1,2022,PO4P,Duplicate Set,NA,micrograms per liter,1.52,below method detection limit
+EM_A_1.22_DNP_ZZ,20220622,Emerald,A,1,2022,NH3N,Duplicate Set,6.52,micrograms per liter,2.42,NA
+EM_A_1.22_DNP_ZZ,20220622,Emerald,A,1,2022,NOxN,Duplicate Set,165,micrograms per liter,0.43,NA
+EM_A_1.22_DNP_ZZ,20220622,Emerald,A,1,2022,PO4P,Duplicate Set,NA,micrograms per liter,1.52,below method detection limit
+EM_A_1.22_DNP_ZZ,20220622,Emerald,A,1,2022,NH3N,Duplicate Set,6.25,micrograms per liter,2.42,NA
+EM_A_1.22_DNP_ZZ,20220622,Emerald,A,1,2022,NOxN,Duplicate Set,164,micrograms per liter,0.43,NA
+EM_B_1.22_DNP_ZZ,20220622,Emerald,B,1,2022,PO4P,Standard,NA,micrograms per liter,1.52,below method detection limit
+EM_B_1.22_DNP_ZZ,20220622,Emerald,B,1,2022,NH3N,Standard,6.4,micrograms per liter,2.42,NA
+EM_B_1.22_DNP_ZZ,20220622,Emerald,B,1,2022,NOxN,Standard,168,micrograms per liter,0.43,NA
+EM_C_1.22_DNP_ZZ,20220622,Emerald,C,1,2022,PO4P,Standard,NA,micrograms per liter,1.52,below method detection limit
+EM_C_1.22_DNP_ZZ,20220622,Emerald,C,1,2022,NH3N,Standard,14.6,micrograms per liter,2.42,NA
+EM_C_1.22_DNP_ZZ,20220622,Emerald,C,1,2022,NOxN,Standard,18.3,micrograms per liter,0.43,NA
+PE_A_1.22_DNP_ZZ,20220621,Pear,A,1,2022,PO4P,Spike Set,NA,micrograms per liter,1.52,below method detection limit
+PE_A_1.22_DNP_ZZ,20220621,Pear,A,1,2022,NH3N,Spike Set,4.07,micrograms per liter,2.42,NA
+PE_A_1.22_DNP_ZZ,20220621,Pear,A,1,2022,NOxN,Spike Set,10.7,micrograms per liter,0.43,NA
+PE_B_1.22_DNP_ZZ,20220621,Pear,B,1,2022,PO4P,Standard,NA,micrograms per liter,1.52,below method detection limit
+PE_B_1.22_DNP_ZZ,20220621,Pear,B,1,2022,NH3N,Standard,4.45,micrograms per liter,2.42,NA
+PE_B_1.22_DNP_ZZ,20220621,Pear,B,1,2022,NOxN,Standard,11.3,micrograms per liter,0.43,NA
+PE_C_1.22_DNP_ZZ,20220621,Pear,C,1,2022,PO4P,Standard,NA,micrograms per liter,1.52,below method detection limit
+PE_C_1.22_DNP_ZZ,20220621,Pear,C,1,2022,NH3N,Standard,4.44,micrograms per liter,2.42,NA
+PE_C_1.22_DNP_ZZ,20220621,Pear,C,1,2022,NOxN,Standard,10.3,micrograms per liter,0.43,NA
+LY_A_1.22_DNP_ZZ,20220625,Lyness,A,1,2022,PO4P,Duplicate Set,NA,micrograms per liter,1.52,below method detection limit
+LY_A_1.22_DNP_ZZ,20220625,Lyness,A,1,2022,NH3N,Duplicate Set,11.2,micrograms per liter,2.42,NA
+LY_A_1.22_DNP_ZZ,20220625,Lyness,A,1,2022,NOxN,Duplicate Set,9.36,micrograms per liter,0.43,NA
+LY_A_1.22_DNP_ZZ,20220625,Lyness,A,1,2022,PO4P,Duplicate Set,NA,micrograms per liter,1.52,below method detection limit
+LY_A_1.22_DNP_ZZ,20220625,Lyness,A,1,2022,NH3N,Duplicate Set,11.2,micrograms per liter,2.42,NA
+LY_A_1.22_DNP_ZZ,20220625,Lyness,A,1,2022,NOxN,Duplicate Set,9.51,micrograms per liter,0.43,NA
+LY_B_1.22_DNP_ZZ,20220625,Lyness,B,1,2022,PO4P,Duplicate Set,NA,micrograms per liter,1.52,below method detection limit
+LY_B_1.22_DNP_ZZ,20220625,Lyness,B,1,2022,NH3N,Duplicate Set,12.6,micrograms per liter,2.42,NA
+LY_B_1.22_DNP_ZZ,20220625,Lyness,B,1,2022,NOxN,Duplicate Set,8.87,micrograms per liter,0.43,NA
+LY_B_1.22_DNP_ZZ,20220625,Lyness,B,1,2022,PO4P,Duplicate Set,1.71,micrograms per liter,1.52,NA
+LY_B_1.22_DNP_ZZ,20220625,Lyness,B,1,2022,NH3N,Duplicate Set,12.3,micrograms per liter,2.42,NA
+LY_B_1.22_DNP_ZZ,20220625,Lyness,B,1,2022,NOxN,Duplicate Set,8.72,micrograms per liter,0.43,NA
+LY_C_1.22_DNP_ZZ,20220625,Lyness,C,1,2022,PO4P,Standard,1.88,micrograms per liter,1.52,NA
+LY_C_1.22_DNP_ZZ,20220625,Lyness,C,1,2022,NH3N,Standard,7.45,micrograms per liter,2.42,NA
+LY_C_1.22_DNP_ZZ,20220625,Lyness,C,1,2022,NOxN,Standard,11,micrograms per liter,0.43,NA
+FR_A_1.22_DNP_ZZ,20220626,Frog,A,1,2022,PO4P,Standard,NA,micrograms per liter,1.52,below method detection limit
+FR_A_1.22_DNP_ZZ,20220626,Frog,A,1,2022,NH3N,Standard,5.23,micrograms per liter,2.42,NA
+FR_A_1.22_DNP_ZZ,20220626,Frog,A,1,2022,NOxN,Standard,19.4,micrograms per liter,0.43,NA
+FR_B_1.22_DNP_ZZ,20220626,Frog,B,1,2022,PO4P,Spike Set,1.56,micrograms per liter,1.52,NA
+FR_B_1.22_DNP_ZZ,20220626,Frog,B,1,2022,NH3N,Spike Set,4.21,micrograms per liter,2.42,NA
+FR_B_1.22_DNP_ZZ,20220626,Frog,B,1,2022,NOxN,Spike Set,10.3,micrograms per liter,0.43,NA
+FR_C_1.22_DNP_ZZ,20220626,Frog,C,1,2022,PO4P,Standard,NA,micrograms per liter,1.52,below method detection limit
+FR_C_1.22_DNP_ZZ,20220626,Frog,C,1,2022,NH3N,Standard,4.51,micrograms per liter,2.42,NA
+FR_C_1.22_DNP_ZZ,20220626,Frog,C,1,2022,NOxN,Standard,16.5,micrograms per liter,0.43,NA
+TO_A_1.22_DNP_ZZ,20220624,Topaz,A,1,2022,PO4P,Standard,1.6,micrograms per liter,1.52,NA
+TO_A_1.22_DNP_ZZ,20220624,Topaz,A,1,2022,NH3N,Standard,7.16,micrograms per liter,2.42,NA
+TO_A_1.22_DNP_ZZ,20220624,Topaz,A,1,2022,NOxN,Standard,NA,micrograms per liter,0.43,below method detection limit
+TO_B_1.22_DNP_ZZ,20220624,Topaz,B,1,2022,PO4P,Standard,NA,micrograms per liter,1.52,below method detection limit
+TO_B_1.22_DNP_ZZ,20220624,Topaz,B,1,2022,NH3N,Standard,9.42,micrograms per liter,2.42,NA
+TO_B_1.22_DNP_ZZ,20220624,Topaz,B,1,2022,NOxN,Standard,NA,micrograms per liter,0.43,below method detection limit
+TO_C_1.22_DNP_ZZ,20220624,Topaz,C,1,2022,PO4P,Standard,NA,micrograms per liter,1.52,below method detection limit
+TO_C_1.22_DNP_ZZ,20220624,Topaz,C,1,2022,NH3N,Standard,6.06,micrograms per liter,2.42,NA
+TO_C_1.22_DNP_ZZ,20220624,Topaz,C,1,2022,NOxN,Standard,NA,micrograms per liter,0.43,below method detection limit
+EM_C_1.22_DNP_DU,20220622,Emerald,C,1,2022,PO4P,Spike Set,1.99,micrograms per liter,1.52,NA
+EM_C_1.22_DNP_DU,20220622,Emerald,C,1,2022,NH3N,Spike Set,17.1,micrograms per liter,2.42,NA
+EM_C_1.22_DNP_DU,20220622,Emerald,C,1,2022,NOxN,Spike Set,175,micrograms per liter,0.43,NA
+HE_A_1.22_TPH_ZZ,20220623,Heather,A,1,2022,TP,Standard,12,micrograms per liter,2.16,NA
+HE_B_1.22_TPH_ZZ,20220623,Heather,B,1,2022,TP,Spike Set,8.72,micrograms per liter,2.16,NA
+HE_C_1.22_TPH_ZZ,20220623,Heather,C,1,2022,TP,Duplicate Set,9.87,micrograms per liter,2.16,NA
+HE_C_1.22_TPH_ZZ,20220623,Heather,C,1,2022,TP,Duplicate Set,11.3,micrograms per liter,2.16,NA
+EM_A_1.22_TPH_ZZ,20220622,Emerald,A,1,2022,TP,Standard,9.36,micrograms per liter,2.16,NA
+EM_B_1.22_TPH_ZZ,20220622,Emerald,B,1,2022,TP,Spike Set,8.24,micrograms per liter,2.16,NA
+EM_C_1.22_TPH_ZZ,20220622,Emerald,C,1,2022,TP,Standard,11.7,micrograms per liter,2.16,NA
+PE_A_1.22_TPH_ZZ,20220621,Pear,A,1,2022,TP,Standard,6.87,micrograms per liter,2.16,NA
+PE_B_1.22_TPH_ZZ,20220621,Pear,B,1,2022,TP,Standard,7.21,micrograms per liter,2.16,NA
+PE_C_1.22_TPH_ZZ,20220621,Pear,C,1,2022,TP,Standard,7.71,micrograms per liter,2.16,NA
+LY_A_1.22_TPH_ZZ,20220625,Lyness,A,1,2022,TP,Standard,8.29,micrograms per liter,2.16,NA
+LY_B_1.22_TPH_ZZ,20220625,Lyness,B,1,2022,TP,Standard,29.1,micrograms per liter,2.16,NA
+LY_C_1.22_TPH_ZZ,20220625,Lyness,C,1,2022,TP,Standard,14,micrograms per liter,2.16,NA
+FR_A_1.22_TPH_ZZ,20220626,Frog,A,1,2022,TP,Standard,6.79,micrograms per liter,2.16,NA
+FR_B_1.22_TPH_ZZ,20220626,Frog,B,1,2022,TP,Spike Set,5.79,micrograms per liter,2.16,NA
+FR_C_1.22_TPH_ZZ,20220626,Frog,C,1,2022,TP,Duplicate Set,7.26,micrograms per liter,2.16,NA
+FR_C_1.22_TPH_ZZ,20220626,Frog,C,1,2022,TP,Duplicate Set,7,micrograms per liter,2.16,NA
+TO_A_1.22_TPH_ZZ,20220624,Topaz,A,1,2022,TP,Standard,8.42,micrograms per liter,2.16,NA
+TO_B_1.22_TPH_ZZ,20220624,Topaz,B,1,2022,TP,Standard,9.61,micrograms per liter,2.16,NA
+TO_C_1.22_TPH_ZZ,20220624,Topaz,C,1,2022,TP,Standard,8.04,micrograms per liter,2.16,NA
+EM_C_1.22_TPH_DU,20220622,Emerald,C,1,2022,TP,Standard,13.1,micrograms per liter,2.16,NA
+HE_A_2.22_DNP_ZZ,20220715,Heather,A,2,2022,PO4P,Standard,1.53,micrograms per liter,1.08,NA
+HE_A_2.22_DNP_ZZ,20220715,Heather,A,2,2022,NH3N,Standard,6.49,micrograms per liter,1.33,NA
+HE_A_2.22_DNP_ZZ,20220715,Heather,A,2,2022,NOxN,Standard,NA,micrograms per liter,0.8,below method detection limit
+HE_B_2.22_DNP_ZZ,20220715,Heather,B,2,2022,PO4P,Spike Set,NA,micrograms per liter,1.08,below method detection limit
+HE_B_2.22_DNP_ZZ,20220715,Heather,B,2,2022,NH3N,Spike Set,6.56,micrograms per liter,1.33,NA
+HE_B_2.22_DNP_ZZ,20220715,Heather,B,2,2022,NOxN,Spike Set,NA,micrograms per liter,0.8,below method detection limit
+HE_C_2.22_DNP_ZZ,20220715,Heather,C,2,2022,PO4P,Standard,NA,micrograms per liter,1.08,below method detection limit
+HE_C_2.22_DNP_ZZ,20220715,Heather,C,2,2022,NH3N,Standard,5.8,micrograms per liter,1.33,NA
+HE_C_2.22_DNP_ZZ,20220715,Heather,C,2,2022,NOxN,Standard,NA,micrograms per liter,0.8,below method detection limit
+EM_A_2.22_DNP_ZZ,20220717,Emerald,A,2,2022,PO4P,Duplicate Set,2.32,micrograms per liter,1.08,NA
+EM_A_2.22_DNP_ZZ,20220717,Emerald,A,2,2022,NH3N,Duplicate Set,18.2,micrograms per liter,1.33,NA
+EM_A_2.22_DNP_ZZ,20220717,Emerald,A,2,2022,NOxN,Duplicate Set,84.9,micrograms per liter,0.8,NA
+EM_A_2.22_DNP_ZZ,20220717,Emerald,A,2,2022,PO4P,Duplicate Set,1.12,micrograms per liter,1.08,NA
+EM_A_2.22_DNP_ZZ,20220717,Emerald,A,2,2022,NH3N,Duplicate Set,18,micrograms per liter,1.33,NA
+EM_A_2.22_DNP_ZZ,20220717,Emerald,A,2,2022,NOxN,Duplicate Set,84.9,micrograms per liter,0.8,NA
+EM_B_2.22_DNP_ZZ,20220717,Emerald,B,2,2022,PO4P,Standard,NA,micrograms per liter,1.08,below method detection limit
+EM_B_2.22_DNP_ZZ,20220717,Emerald,B,2,2022,NH3N,Standard,9.78,micrograms per liter,1.33,NA
+EM_B_2.22_DNP_ZZ,20220717,Emerald,B,2,2022,NOxN,Standard,84,micrograms per liter,0.8,NA
+EM_C_2.22_DNP_ZZ,20220717,Emerald,C,2,2022,PO4P,Standard,NA,micrograms per liter,1.08,below method detection limit
+EM_C_2.22_DNP_ZZ,20220717,Emerald,C,2,2022,NH3N,Standard,10.1,micrograms per liter,1.33,NA
+EM_C_2.22_DNP_ZZ,20220717,Emerald,C,2,2022,NOxN,Standard,85.9,micrograms per liter,0.8,NA
+PE_A_2.22_DNP_ZZ,20220712,Pear,A,2,2022,PO4P,Spike Set,1.41,micrograms per liter,1.08,NA
+PE_A_2.22_DNP_ZZ,20220712,Pear,A,2,2022,NH3N,Spike Set,15.6,micrograms per liter,1.33,NA
+PE_A_2.22_DNP_ZZ,20220712,Pear,A,2,2022,NOxN,Spike Set,5.06,micrograms per liter,0.8,NA
+PE_B_2.22_DNP_ZZ,20220712,Pear,B,2,2022,PO4P,Standard,NA,micrograms per liter,1.08,below method detection limit
+PE_B_2.22_DNP_ZZ,20220712,Pear,B,2,2022,NH3N,Standard,11.3,micrograms per liter,1.33,NA
+PE_B_2.22_DNP_ZZ,20220712,Pear,B,2,2022,NOxN,Standard,3.47,micrograms per liter,0.8,NA
+PE_C_2.22_DNP_ZZ,20220712,Pear,C,2,2022,PO4P,Standard,1.16,micrograms per liter,1.08,NA
+PE_C_2.22_DNP_ZZ,20220712,Pear,C,2,2022,NH3N,Standard,11.7,micrograms per liter,1.33,NA
+PE_C_2.22_DNP_ZZ,20220712,Pear,C,2,2022,NOxN,Standard,5.39,micrograms per liter,0.8,NA
+LY_A_2.22_DNP_ZZ,20220713,Lyness,A,2,2022,PO4P,Duplicate Set,NA,micrograms per liter,1.08,below method detection limit
+LY_A_2.22_DNP_ZZ,20220713,Lyness,A,2,2022,NH3N,Duplicate Set,16.5,micrograms per liter,1.33,NA
+LY_A_2.22_DNP_ZZ,20220713,Lyness,A,2,2022,NOxN,Duplicate Set,2.47,micrograms per liter,0.8,NA
+LY_A_2.22_DNP_ZZ,20220713,Lyness,A,2,2022,PO4P,Duplicate Set,1.34,micrograms per liter,1.08,NA
+LY_A_2.22_DNP_ZZ,20220713,Lyness,A,2,2022,NH3N,Duplicate Set,17.3,micrograms per liter,1.33,NA
+LY_A_2.22_DNP_ZZ,20220713,Lyness,A,2,2022,NOxN,Duplicate Set,2.54,micrograms per liter,0.8,NA
+LY_B_2.22_DNP_ZZ,20220713,Lyness,B,2,2022,PO4P,Duplicate Set,NA,micrograms per liter,1.08,below method detection limit
+LY_B_2.22_DNP_ZZ,20220713,Lyness,B,2,2022,NH3N,Duplicate Set,5.24,micrograms per liter,1.33,NA
+LY_B_2.22_DNP_ZZ,20220713,Lyness,B,2,2022,NOxN,Duplicate Set,NA,micrograms per liter,0.8,below method detection limit
+LY_B_2.22_DNP_ZZ,20220713,Lyness,B,2,2022,PO4P,Duplicate Set,NA,micrograms per liter,1.08,below method detection limit
+LY_B_2.22_DNP_ZZ,20220713,Lyness,B,2,2022,NH3N,Duplicate Set,4.24,micrograms per liter,1.33,NA
+LY_B_2.22_DNP_ZZ,20220713,Lyness,B,2,2022,NOxN,Duplicate Set,NA,micrograms per liter,0.8,below method detection limit
+LY_C_2.22_DNP_ZZ,20220713,Lyness,C,2,2022,PO4P,Standard,NA,micrograms per liter,1.08,below method detection limit
+LY_C_2.22_DNP_ZZ,20220713,Lyness,C,2,2022,NH3N,Standard,20.2,micrograms per liter,1.33,NA
+LY_C_2.22_DNP_ZZ,20220713,Lyness,C,2,2022,NOxN,Standard,NA,micrograms per liter,0.8,below method detection limit
+FR_A_2.22_DNP_ZZ,20220714,Frog,A,2,2022,PO4P,Standard,1.24,micrograms per liter,1.08,NA
+FR_A_2.22_DNP_ZZ,20220714,Frog,A,2,2022,NH3N,Standard,11.9,micrograms per liter,1.33,NA
+FR_A_2.22_DNP_ZZ,20220714,Frog,A,2,2022,NOxN,Standard,NA,micrograms per liter,0.8,below method detection limit
+FR_B_2.22_DNP_ZZ,20220714,Frog,B,2,2022,PO4P,Spike Set,1.37,micrograms per liter,1.08,NA
+FR_B_2.22_DNP_ZZ,20220714,Frog,B,2,2022,NH3N,Spike Set,9,micrograms per liter,1.33,NA
+FR_B_2.22_DNP_ZZ,20220714,Frog,B,2,2022,NOxN,Spike Set,NA,micrograms per liter,0.8,below method detection limit
+FR_C_2.22_DNP_ZZ,20220714,Frog,C,2,2022,PO4P,Standard,1.64,micrograms per liter,1.08,NA
+FR_C_2.22_DNP_ZZ,20220714,Frog,C,2,2022,NH3N,Standard,12,micrograms per liter,1.33,NA
+FR_C_2.22_DNP_ZZ,20220714,Frog,C,2,2022,NOxN,Standard,NA,micrograms per liter,0.8,below method detection limit
+TO_A_2.22_DNP_ZZ,20220717,Topaz,A,2,2022,PO4P,Standard,NA,micrograms per liter,1.08,below method detection limit
+TO_A_2.22_DNP_ZZ,20220717,Topaz,A,2,2022,NH3N,Standard,8.13,micrograms per liter,1.33,NA
+TO_A_2.22_DNP_ZZ,20220717,Topaz,A,2,2022,NOxN,Standard,NA,micrograms per liter,0.8,below method detection limit
+TO_B_2.22_DNP_ZZ,20220717,Topaz,B,2,2022,PO4P,Standard,1.94,micrograms per liter,1.08,NA
+TO_B_2.22_DNP_ZZ,20220717,Topaz,B,2,2022,NH3N,Standard,2.41,micrograms per liter,1.33,NA
+TO_B_2.22_DNP_ZZ,20220717,Topaz,B,2,2022,NOxN,Standard,NA,micrograms per liter,0.8,below method detection limit
+PE_C_2.22_DNP_DU,20220712,Pear,C,2,2022,PO4P,Standard,1.28,micrograms per liter,1.08,NA
+PE_C_2.22_DNP_DU,20220712,Pear,C,2,2022,NH3N,Standard,65.5,micrograms per liter,1.33,NA
+PE_C_2.22_DNP_DU,20220712,Pear,C,2,2022,NOxN,Standard,12.6,micrograms per liter,0.8,NA
+TO_B_2.22_DNP_DU,20220717,Topaz,B,2,2022,PO4P,Spike Set,1.59,micrograms per liter,1.08,NA
+TO_B_2.22_DNP_DU,20220717,Topaz,B,2,2022,NH3N,Spike Set,4.16,micrograms per liter,1.33,NA
+TO_B_2.22_DNP_DU,20220717,Topaz,B,2,2022,NOxN,Spike Set,NA,micrograms per liter,0.8,below method detection limit
+PE_B_2.22_DNP_E2,20220712,Pear,B,2,2022,PO4P,Standard,NA,micrograms per liter,1.08,below method detection limit
+PE_B_2.22_DNP_E2,20220712,Pear,B,2,2022,NH3N,Standard,11.2,micrograms per liter,1.33,NA
+PE_B_2.22_DNP_E2,20220712,Pear,B,2,2022,NOxN,Standard,3.97,micrograms per liter,0.8,NA
+PE_B_3.22_DNP_E3,20220816,Pear,B,3,2022,PO4P,Duplicate Set,NA,micrograms per liter,1.08,below method detection limit
+PE_B_3.22_DNP_E3,20220816,Pear,B,3,2022,NH3N,Duplicate Set,8.66,micrograms per liter,1.33,NA
+PE_B_3.22_DNP_E3,20220816,Pear,B,3,2022,NOxN,Duplicate Set,NA,micrograms per liter,0.8,below method detection limit
+PE_B_3.22_DNP_E3,20220816,Pear,B,3,2022,PO4P,Duplicate Set,1.92,micrograms per liter,1.08,NA
+PE_B_3.22_DNP_E3,20220816,Pear,B,3,2022,NH3N,Duplicate Set,9.12,micrograms per liter,1.33,NA
+PE_B_3.22_DNP_E3,20220816,Pear,B,3,2022,NOxN,Duplicate Set,NA,micrograms per liter,0.8,below method detection limit
+PE_B_3.22_DNP_E4,20220816,Pear,B,3,2022,PO4P,Spike Set,1.36,micrograms per liter,1.08,NA
+PE_B_3.22_DNP_E4,20220816,Pear,B,3,2022,NH3N,Spike Set,7.72,micrograms per liter,1.33,NA
+PE_B_3.22_DNP_E4,20220816,Pear,B,3,2022,NOxN,Spike Set,NA,micrograms per liter,0.8,below method detection limit
+HE_A_2.22_TPH_ZZ,20220715,Heather,A,2,2022,TP,Standard,13.9,micrograms per liter,1.96,NA
+HE_B_2.22_TPH_ZZ,20220715,Heather,B,2,2022,TP,Standard,13.2,micrograms per liter,1.96,NA
+HE_C_2.22_TPH_ZZ,20220715,Heather,C,2,2022,TP,Standard,18.2,micrograms per liter,1.96,NA
+EM_A_2.22_TPH_ZZ,20220717,Emerald,A,2,2022,TP,Duplicate Set,5.2,micrograms per liter,1.96,NA
+EM_A_2.22_TPH_ZZ,20220717,Emerald,A,2,2022,TP,Duplicate Set,4.8,micrograms per liter,1.96,NA
+EM_B_2.22_TPH_ZZ,20220717,Emerald,B,2,2022,TP,Standard,21.9,micrograms per liter,1.96,NA
+EM_C_2.22_TPH_ZZ,20220717,Emerald,C,2,2022,TP,Standard,3.67,micrograms per liter,1.96,NA
+PE_A_2.22_TPH_ZZ,20220712,Pear,A,2,2022,TP,Spike Set,10.9,micrograms per liter,1.96,NA
+PE_B_2.22_TPH_ZZ,20220712,Pear,B,2,2022,TP,Standard,9.21,micrograms per liter,1.96,NA
+PE_C_2.22_TPH_ZZ,20220712,Pear,C,2,2022,TP,Standard,16.5,micrograms per liter,1.96,NA
+LY_A_2.22_TPH_ZZ,20220713,Lyness,A,2,2022,TP,Standard,57.4,micrograms per liter,1.96,NA
+LY_B_2.22_TPH_ZZ,20220713,Lyness,B,2,2022,TP,Standard,19.1,micrograms per liter,1.96,NA
+LY_C_2.22_TPH_ZZ,20220713,Lyness,C,2,2022,TP,Standard,15.3,micrograms per liter,1.96,NA
+FR_A_2.22_TPH_ZZ,20220714,Frog,A,2,2022,TP,Duplicate Set,21.1,micrograms per liter,1.96,NA
+FR_A_2.22_TPH_ZZ,20220714,Frog,A,2,2022,TP,Duplicate Set,20.8,micrograms per liter,1.96,NA
+FR_B_2.22_TPH_ZZ,20220714,Frog,B,2,2022,TP,Standard,10.5,micrograms per liter,1.96,NA
+FR_C_2.22_TPH_ZZ,20220714,Frog,C,2,2022,TP,Standard,11,micrograms per liter,1.96,NA
+TO_A_2.22_TPH_ZZ,20220717,Topaz,A,2,2022,TP,Spike Set,5.66,micrograms per liter,1.96,NA
+TO_C_2.22_TPH_ZZ,20220717,Topaz,C,2,2022,TP,Standard,12.7,micrograms per liter,1.96,NA
+PE_C_2.22_TPH_DU,20220712,Pear,C,2,2022,TP,Standard,15.7,micrograms per liter,1.96,NA
+TO_B_2.22_TPH_DU,20220717,Topaz,B,2,2022,TP,Standard,16.4,micrograms per liter,1.96,NA
+PE_B_2.22_TPH_E2,20220712,Pear,B,2,2022,TP,Duplicate Set,8.42,micrograms per liter,1.96,NA
+PE_B_2.22_TPH_E2,20220712,Pear,B,2,2022,TP,Duplicate Set,8.74,micrograms per liter,1.96,NA
+PE_B_3.22_TPH_E3,20220816,Pear,B,3,2022,TP,Standard,4.97,micrograms per liter,1.96,NA
+PE_B_3.22_TPH_E4,20220816,Pear,B,3,2022,TP,Spike Set,15.1,micrograms per liter,1.96,NA
+HE_A_3.22_DNP_ZZ,20220818,Heather,A,3,2022,PO4P,Standard,2.98,micrograms per liter,1.89,NA
+HE_A_3.22_DNP_ZZ,20220818,Heather,A,3,2022,NH3N,Standard,13.2,micrograms per liter,1.85,NA
+HE_A_3.22_DNP_ZZ,20220818,Heather,A,3,2022,NOxN,Standard,NA,micrograms per liter,0.54,below method detection limit
+HE_B_3.22_DNP_ZZ,20220818,Heather,B,3,2022,PO4P,Duplicate Set,3.12,micrograms per liter,1.89,NA
+HE_B_3.22_DNP_ZZ,20220818,Heather,B,3,2022,NH3N,Duplicate Set,29.4,micrograms per liter,1.85,NA
+HE_B_3.22_DNP_ZZ,20220818,Heather,B,3,2022,NOxN,Duplicate Set,NA,micrograms per liter,0.54,below method detection limit
+HE_B_3.22_DNP_ZZ,20220818,Heather,B,3,2022,PO4P,Duplicate Set,3.43,micrograms per liter,1.89,NA
+HE_B_3.22_DNP_ZZ,20220818,Heather,B,3,2022,NH3N,Duplicate Set,29.6,micrograms per liter,1.85,NA
+HE_B_3.22_DNP_ZZ,20220818,Heather,B,3,2022,NOxN,Duplicate Set,NA,micrograms per liter,0.54,below method detection limit
+HE_C_3.22_DNP_ZZ,20220818,Heather,C,3,2022,PO4P,Standard,2.55,micrograms per liter,1.89,NA
+HE_C_3.22_DNP_ZZ,20220818,Heather,C,3,2022,NH3N,Standard,12.4,micrograms per liter,1.85,NA
+HE_C_3.22_DNP_ZZ,20220818,Heather,C,3,2022,NOxN,Standard,NA,micrograms per liter,0.54,below method detection limit
+EM_A_3.22_DNP_ZZ,20220820,Emerald,A,3,2022,PO4P,Spike Set,3.5,micrograms per liter,1.89,NA
+EM_A_3.22_DNP_ZZ,20220820,Emerald,A,3,2022,NH3N,Spike Set,20.8,micrograms per liter,1.85,NA
+EM_A_3.22_DNP_ZZ,20220820,Emerald,A,3,2022,NOxN,Spike Set,31.8,micrograms per liter,0.54,NA
+EM_B_3.22_DNP_ZZ,20220820,Emerald,B,3,2022,PO4P,Standard,3.09,micrograms per liter,1.89,NA
+EM_B_3.22_DNP_ZZ,20220820,Emerald,B,3,2022,NH3N,Standard,20.5,micrograms per liter,1.85,NA
+EM_B_3.22_DNP_ZZ,20220820,Emerald,B,3,2022,NOxN,Standard,46.3,micrograms per liter,0.54,NA
+EM_C_3.22_DNP_ZZ,20220820,Emerald,C,3,2022,PO4P,Standard,4.11,micrograms per liter,1.89,NA
+EM_C_3.22_DNP_ZZ,20220820,Emerald,C,3,2022,NH3N,Standard,52.6,micrograms per liter,1.85,NA
+EM_C_3.22_DNP_ZZ,20220820,Emerald,C,3,2022,NOxN,Standard,57.9,micrograms per liter,0.54,NA
+PE_A_3.22_DNP_ZZ,20220816,Pear,A,3,2022,PO4P,Standard,5.61,micrograms per liter,1.89,NA
+PE_A_3.22_DNP_ZZ,20220816,Pear,A,3,2022,NH3N,Standard,52.4,micrograms per liter,1.85,NA
+PE_A_3.22_DNP_ZZ,20220816,Pear,A,3,2022,NOxN,Standard,7.73,micrograms per liter,0.54,NA
+PE_B_3.22_DNP_ZZ,20220816,Pear,B,3,2022,PO4P,Standard,3.17,micrograms per liter,1.89,NA
+PE_B_3.22_DNP_ZZ,20220816,Pear,B,3,2022,NH3N,Standard,19.1,micrograms per liter,1.85,NA
+PE_B_3.22_DNP_ZZ,20220816,Pear,B,3,2022,NOxN,Standard,NA,micrograms per liter,0.54,below method detection limit
+PE_C_3.22_DNP_ZZ,20220816,Pear,C,3,2022,PO4P,Standard,NA,micrograms per liter,1.89,below method detection limit
+PE_C_3.22_DNP_ZZ,20220816,Pear,C,3,2022,NH3N,Standard,16.7,micrograms per liter,1.85,NA
+PE_C_3.22_DNP_ZZ,20220816,Pear,C,3,2022,NOxN,Standard,NA,micrograms per liter,0.54,below method detection limit
+LY_A_3.22_DNP_ZZ,20220817,Lyness,A,3,2022,PO4P,Standard,3.23,micrograms per liter,1.89,NA
+LY_A_3.22_DNP_ZZ,20220817,Lyness,A,3,2022,NH3N,Standard,21.5,micrograms per liter,1.85,NA
+LY_A_3.22_DNP_ZZ,20220817,Lyness,A,3,2022,NOxN,Standard,0.62,micrograms per liter,0.54,NA
+LY_B_3.22_DNP_ZZ,20220817,Lyness,B,3,2022,PO4P,Standard,3.05,micrograms per liter,1.89,NA
+LY_B_3.22_DNP_ZZ,20220817,Lyness,B,3,2022,NH3N,Standard,47.2,micrograms per liter,1.85,NA
+LY_B_3.22_DNP_ZZ,20220817,Lyness,B,3,2022,NOxN,Standard,10.4,micrograms per liter,0.54,NA
+LY_C_3.22_DNP_ZZ,20220817,Lyness,C,3,2022,PO4P,Standard,2.84,micrograms per liter,1.89,NA
+LY_C_3.22_DNP_ZZ,20220817,Lyness,C,3,2022,NH3N,Standard,36.5,micrograms per liter,1.85,NA
+LY_C_3.22_DNP_ZZ,20220817,Lyness,C,3,2022,NOxN,Standard,3.48,micrograms per liter,0.54,NA
+FR_A_3.22_DNP_ZZ,20220819,Frog,A,3,2022,PO4P,Standard,3.36,micrograms per liter,1.89,NA
+FR_A_3.22_DNP_ZZ,20220819,Frog,A,3,2022,NH3N,Standard,21.1,micrograms per liter,1.85,NA
+FR_A_3.22_DNP_ZZ,20220819,Frog,A,3,2022,NOxN,Standard,32.5,micrograms per liter,0.54,NA
+FR_B_3.22_DNP_ZZ,20220819,Frog,B,3,2022,PO4P,Standard,3.5,micrograms per liter,1.89,NA
+FR_B_3.22_DNP_ZZ,20220819,Frog,B,3,2022,NH3N,Standard,20.5,micrograms per liter,1.85,NA
+FR_B_3.22_DNP_ZZ,20220819,Frog,B,3,2022,NOxN,Standard,29.1,micrograms per liter,0.54,NA
+FR_C_3.22_DNP_ZZ,20220819,Frog,C,3,2022,PO4P,Duplicate Set,4.37,micrograms per liter,1.89,NA
+FR_C_3.22_DNP_ZZ,20220819,Frog,C,3,2022,NH3N,Duplicate Set,104,micrograms per liter,1.85,NA
+FR_C_3.22_DNP_ZZ,20220819,Frog,C,3,2022,NOxN,Duplicate Set,44.4,micrograms per liter,0.54,NA
+FR_C_3.22_DNP_ZZ,20220819,Frog,C,3,2022,PO4P,Duplicate Set,4.99,micrograms per liter,1.89,NA
+FR_C_3.22_DNP_ZZ,20220819,Frog,C,3,2022,NH3N,Duplicate Set,104,micrograms per liter,1.85,NA
+FR_C_3.22_DNP_ZZ,20220819,Frog,C,3,2022,NOxN,Duplicate Set,44.1,micrograms per liter,0.54,NA
+TO_A_3.22_DNP_ZZ,20220819,Topaz,A,3,2022,PO4P,Spike Set,3.13,micrograms per liter,1.89,NA
+TO_A_3.22_DNP_ZZ,20220819,Topaz,A,3,2022,NH3N,Spike Set,20.8,micrograms per liter,1.85,NA
+TO_A_3.22_DNP_ZZ,20220819,Topaz,A,3,2022,NOxN,Spike Set,NA,micrograms per liter,0.54,below method detection limit
+TO_B_3.22_DNP_ZZ,20220819,Topaz,B,3,2022,PO4P,Standard,3.06,micrograms per liter,1.89,NA
+TO_B_3.22_DNP_ZZ,20220819,Topaz,B,3,2022,NH3N,Standard,15.3,micrograms per liter,1.85,NA
+TO_B_3.22_DNP_ZZ,20220819,Topaz,B,3,2022,NOxN,Standard,NA,micrograms per liter,0.54,below method detection limit
+TO_C_3.22_DNP_ZZ,20220819,Topaz,C,3,2022,PO4P,Standard,3.01,micrograms per liter,1.89,NA
+TO_C_3.22_DNP_ZZ,20220819,Topaz,C,3,2022,NH3N,Standard,12.1,micrograms per liter,1.85,NA
+TO_C_3.22_DNP_ZZ,20220819,Topaz,C,3,2022,NOxN,Standard,NA,micrograms per liter,0.54,below method detection limit
+LY_C_3.22_DNP_DU,20220817,Lyness,C,3,2022,PO4P,Standard,3.25,micrograms per liter,1.89,NA
+LY_C_3.22_DNP_DU,20220817,Lyness,C,3,2022,NH3N,Standard,22.1,micrograms per liter,1.85,NA
+LY_C_3.22_DNP_DU,20220817,Lyness,C,3,2022,NOxN,Standard,NA,micrograms per liter,0.54,below method detection limit
+HE_A_3.22_TPH_ZZ,20220818,Heather,A,3,2022,TP,Standard,4.11,micrograms per liter,0.72,NA
+HE_B_3.22_TPH_ZZ,20220818,Heather,B,3,2022,TP,Standard,3.42,micrograms per liter,0.72,NA
+HE_C_3.22_TPH_ZZ,20220818,Heather,C,3,2022,TP,Spike Set,6.14,micrograms per liter,0.72,NA
+EM_A_3.22_TPH_ZZ,20220820,Emerald,A,3,2022,TP,Standard,6.87,micrograms per liter,0.72,NA
+EM_B_3.22_TPH_ZZ,20220820,Emerald,B,3,2022,TP,Duplicate Set,8.01,micrograms per liter,0.72,NA
+EM_B_3.22_TPH_ZZ,20220820,Emerald,B,3,2022,TP,Duplicate Set,7.87,micrograms per liter,0.72,NA
+PE_A_3.22_TPH_ZZ,20220816,Pear,A,3,2022,TP,Standard,18.1,micrograms per liter,0.72,NA
+PE_B_3.22_TPH_ZZ,20220816,Pear,B,3,2022,TP,Standard,9.35,micrograms per liter,0.72,NA
+PE_C_3.22_TPH_ZZ,20220816,Pear,C,3,2022,TP,Spike Set,18.5,micrograms per liter,0.72,NA
+LY_A_3.22_TPH_ZZ,20220817,Lyness,A,3,2022,TP,Standard,8.43,micrograms per liter,0.72,NA
+LY_B_3.22_TPH_ZZ,20220817,Lyness,B,3,2022,TP,Standard,7.79,micrograms per liter,0.72,NA
+LY_C_3.22_TPH_ZZ,20220817,Lyness,C,3,2022,TP,Standard,7.07,micrograms per liter,0.72,NA
+FR_A_3.22_TPH_ZZ,20220819,Frog,A,3,2022,TP,Duplicate Set,16.2,micrograms per liter,0.72,NA
+FR_A_3.22_TPH_ZZ,20220819,Frog,A,3,2022,TP,Duplicate Set,16.3,micrograms per liter,0.72,NA
+FR_B_3.22_TPH_ZZ,20220819,Frog,B,3,2022,TP,Standard,12.1,micrograms per liter,0.72,NA
+FR_C_3.22_TPH_ZZ,20220819,Frog,C,3,2022,TP,Standard,42.6,micrograms per liter,0.72,NA
+TO_A_3.22_TPH_ZZ,20220819,Topaz,A,3,2022,TP,Standard,7.53,micrograms per liter,0.72,NA
+TO_B_3.22_TPH_ZZ,20220819,Topaz,B,3,2022,TP,Spike Set,10.8,micrograms per liter,0.72,NA
+TO_C_3.22_TPH_ZZ,20220819,Topaz,C,3,2022,TP,Standard,4.46,micrograms per liter,0.72,NA
+LY_C_3.22_TPH_DU,20220817,Lyness,C,3,2022,TP,Duplicate Set,9.18,micrograms per liter,0.72,NA
+LY_C_3.22_TPH_DU,20220817,Lyness,C,3,2022,TP,Duplicate Set,8.66,micrograms per liter,0.72,NA
+HE_A_4.22_DNP_ZZ,20220916,Heather,A,4,2022,PO4P,Standard,NA,micrograms per liter,0.86,below method detection limit
+HE_A_4.22_DNP_ZZ,20220916,Heather,A,4,2022,NH3N,Standard,NA,micrograms per liter,2.41,below method detection limit
+HE_A_4.22_DNP_ZZ,20220916,Heather,A,4,2022,NOxN,Standard,NA,micrograms per liter,2.54,below method detection limit
+HE_B_4.22_DNP_ZZ,20220916,Heather,B,4,2022,PO4P,Standard,NA,micrograms per liter,0.86,below method detection limit
+HE_B_4.22_DNP_ZZ,20220916,Heather,B,4,2022,NH3N,Standard,NA,micrograms per liter,2.41,below method detection limit
+HE_B_4.22_DNP_ZZ,20220916,Heather,B,4,2022,NOxN,Standard,NA,micrograms per liter,2.54,below method detection limit
+HE_C_4.22_DNP_ZZ,20220916,Heather,C,4,2022,PO4P,Spike Set,1.09,micrograms per liter,0.86,NA
+HE_C_4.22_DNP_ZZ,20220916,Heather,C,4,2022,NH3N,Spike Set,10.5,micrograms per liter,2.41,NA
+HE_C_4.22_DNP_ZZ,20220916,Heather,C,4,2022,NOxN,Spike Set,NA,micrograms per liter,2.54,below method detection limit
+EM_A_4.22_DNP_ZZ,20220917,Emerald,A,4,2022,PO4P,Standard,1.79,micrograms per liter,0.86,NA
+EM_A_4.22_DNP_ZZ,20220917,Emerald,A,4,2022,NH3N,Standard,21.3,micrograms per liter,2.41,NA
+EM_A_4.22_DNP_ZZ,20220917,Emerald,A,4,2022,NOxN,Standard,22.4,micrograms per liter,2.54,NA
+EM_B_4.22_DNP_ZZ,20220917,Emerald,B,4,2022,PO4P,Duplicate Set,NA,micrograms per liter,0.86,below method detection limit
+EM_B_4.22_DNP_ZZ,20220917,Emerald,B,4,2022,NH3N,Duplicate Set,10.8,micrograms per liter,2.41,NA
+EM_B_4.22_DNP_ZZ,20220917,Emerald,B,4,2022,NOxN,Duplicate Set,18.5,micrograms per liter,2.54,NA
+EM_B_4.22_DNP_ZZ,20220917,Emerald,B,4,2022,PO4P,Duplicate Set,NA,micrograms per liter,0.86,below method detection limit
+EM_B_4.22_DNP_ZZ,20220917,Emerald,B,4,2022,NH3N,Duplicate Set,9.07,micrograms per liter,2.41,NA
+EM_B_4.22_DNP_ZZ,20220917,Emerald,B,4,2022,NOxN,Duplicate Set,18.3,micrograms per liter,2.54,NA
+EM_C_4.22_DNP_ZZ,20220917,Emerald,C,4,2022,PO4P,Spike Set,1.07,micrograms per liter,0.86,NA
+EM_C_4.22_DNP_ZZ,20220917,Emerald,C,4,2022,NH3N,Spike Set,13.8,micrograms per liter,2.41,NA
+EM_C_4.22_DNP_ZZ,20220917,Emerald,C,4,2022,NOxN,Spike Set,19.7,micrograms per liter,2.54,NA
+PE_A_4.22_DNP_ZZ,20220913,Pear,A,4,2022,PO4P,Standard,NA,micrograms per liter,0.86,below method detection limit
+PE_A_4.22_DNP_ZZ,20220913,Pear,A,4,2022,NH3N,Standard,3.68,micrograms per liter,2.41,NA
+PE_A_4.22_DNP_ZZ,20220913,Pear,A,4,2022,NOxN,Standard,NA,micrograms per liter,2.54,below method detection limit
+PE_B_4.22_DNP_ZZ,20220913,Pear,B,4,2022,PO4P,Standard,NA,micrograms per liter,0.86,below method detection limit
+PE_B_4.22_DNP_ZZ,20220913,Pear,B,4,2022,NH3N,Standard,1.66,micrograms per liter,2.41,NA
+PE_B_4.22_DNP_ZZ,20220913,Pear,B,4,2022,NOxN,Standard,NA,micrograms per liter,2.54,below method detection limit
+PE_C_4.22_DNP_ZZ,20220913,Pear,C,4,2022,PO4P,Standard,1.07,micrograms per liter,0.86,NA
+PE_C_4.22_DNP_ZZ,20220913,Pear,C,4,2022,NH3N,Standard,2.98,micrograms per liter,2.41,NA
+PE_C_4.22_DNP_ZZ,20220913,Pear,C,4,2022,NOxN,Standard,NA,micrograms per liter,2.54,below method detection limit
+LY_A_4.22_DNP_ZZ,20220914,Lyness,A,4,2022,PO4P,Spike Set,NA,micrograms per liter,0.86,below method detection limit
+LY_A_4.22_DNP_ZZ,20220914,Lyness,A,4,2022,NH3N,Spike Set,9.68,micrograms per liter,2.41,NA
+LY_A_4.22_DNP_ZZ,20220914,Lyness,A,4,2022,NOxN,Spike Set,17.2,micrograms per liter,2.54,NA
+LY_B_4.22_DNP_ZZ,20220914,Lyness,B,4,2022,PO4P,Standard,NA,micrograms per liter,0.86,below method detection limit
+LY_B_4.22_DNP_ZZ,20220914,Lyness,B,4,2022,NH3N,Standard,9.34,micrograms per liter,2.41,NA
+LY_B_4.22_DNP_ZZ,20220914,Lyness,B,4,2022,NOxN,Standard,21.1,micrograms per liter,2.54,NA
+LY_C_4.22_DNP_ZZ,20220914,Lyness,C,4,2022,PO4P,Standard,NA,micrograms per liter,0.86,below method detection limit
+LY_C_4.22_DNP_ZZ,20220914,Lyness,C,4,2022,NH3N,Standard,7.84,micrograms per liter,2.41,NA
+LY_C_4.22_DNP_ZZ,20220914,Lyness,C,4,2022,NOxN,Standard,18,micrograms per liter,2.54,NA
+FR_A_4.22_DNP_ZZ,20220915,Frog,A,4,2022,PO4P,Duplicate Set,1.16,micrograms per liter,0.86,NA
+FR_A_4.22_DNP_ZZ,20220915,Frog,A,4,2022,NH3N,Duplicate Set,5.52,micrograms per liter,2.41,NA
+FR_A_4.22_DNP_ZZ,20220915,Frog,A,4,2022,NOxN,Duplicate Set,3.86,micrograms per liter,2.54,NA
+FR_A_4.22_DNP_ZZ,20220915,Frog,A,4,2022,PO4P,Duplicate Set,NA,micrograms per liter,0.86,below method detection limit
+FR_A_4.22_DNP_ZZ,20220915,Frog,A,4,2022,NH3N,Duplicate Set,3.86,micrograms per liter,2.41,NA
+FR_A_4.22_DNP_ZZ,20220915,Frog,A,4,2022,NOxN,Duplicate Set,3.53,micrograms per liter,2.54,NA
+FR_B_4.22_DNP_ZZ,20220915,Frog,B,4,2022,PO4P,Standard,1.17,micrograms per liter,0.86,NA
+FR_B_4.22_DNP_ZZ,20220915,Frog,B,4,2022,NH3N,Standard,4.63,micrograms per liter,2.41,NA
+FR_B_4.22_DNP_ZZ,20220915,Frog,B,4,2022,NOxN,Standard,2.55,micrograms per liter,2.54,NA
+FR_C_4.22_DNP_ZZ,20220915,Frog,C,4,2022,PO4P,Standard,1.01,micrograms per liter,0.86,NA
+FR_C_4.22_DNP_ZZ,20220915,Frog,C,4,2022,NH3N,Standard,4.17,micrograms per liter,2.41,NA
+FR_C_4.22_DNP_ZZ,20220915,Frog,C,4,2022,NOxN,Standard,5.97,micrograms per liter,2.54,NA
+TO_A_4.22_DNP_ZZ,20220915,Topaz,A,4,2022,PO4P,Standard,NA,micrograms per liter,0.86,below method detection limit
+TO_A_4.22_DNP_ZZ,20220915,Topaz,A,4,2022,NH3N,Standard,2.55,micrograms per liter,2.41,NA
+TO_A_4.22_DNP_ZZ,20220915,Topaz,A,4,2022,NOxN,Standard,NA,micrograms per liter,2.54,below method detection limit
+TO_B_4.22_DNP_ZZ,20220915,Topaz,B,4,2022,PO4P,Standard,NA,micrograms per liter,0.86,below method detection limit
+TO_B_4.22_DNP_ZZ,20220915,Topaz,B,4,2022,NH3N,Standard,2.84,micrograms per liter,2.41,NA
+TO_B_4.22_DNP_ZZ,20220915,Topaz,B,4,2022,NOxN,Standard,NA,micrograms per liter,2.54,below method detection limit
+TO_C_4.22_DNP_ZZ,20220915,Topaz,C,4,2022,PO4P,Standard,4.91,micrograms per liter,0.86,NA
+TO_C_4.22_DNP_ZZ,20220915,Topaz,C,4,2022,NH3N,Standard,44.8,micrograms per liter,2.41,NA
+TO_C_4.22_DNP_ZZ,20220915,Topaz,C,4,2022,NOxN,Standard,5.07,micrograms per liter,2.54,NA
+FR_B_4.22_DNP_DU,20220915,Frog,B,4,2022,PO4P,Standard,NA,micrograms per liter,0.86,below method detection limit
+FR_B_4.22_DNP_DU,20220915,Frog,B,4,2022,NH3N,Standard,5.2,micrograms per liter,2.41,NA
+FR_B_4.22_DNP_DU,20220915,Frog,B,4,2022,NOxN,Standard,3.04,micrograms per liter,2.54,NA
+TO_C_4.22_DNP_DU,20220915,Topaz,C,4,2022,PO4P,Standard,0.89,micrograms per liter,0.86,NA
+TO_C_4.22_DNP_DU,20220915,Topaz,C,4,2022,NH3N,Standard,4.42,micrograms per liter,2.41,NA
+TO_C_4.22_DNP_DU,20220915,Topaz,C,4,2022,NOxN,Standard,NA,micrograms per liter,2.54,below method detection limit
+HE_A_4.22_TPH_ZZ,20220916,Heather,A,4,2022,TP,Standard,6.74,micrograms per liter,0.91,NA
+HE_B_4.22_TPH_ZZ,20220916,Heather,B,4,2022,TP,Standard,8.37,micrograms per liter,0.91,NA
+HE_C_4.22_TPH_ZZ,20220916,Heather,C,4,2022,TP,Spike Set,6.88,micrograms per liter,0.91,NA
+EM_A_4.22_TPH_ZZ,20220917,Emerald,A,4,2022,TP,Standard,4.29,micrograms per liter,0.91,NA
+EM_B_4.22_TPH_ZZ,20220917,Emerald,B,4,2022,TP,Standard,5.58,micrograms per liter,0.91,NA
+EM_C_4.22_TPH_ZZ,20220917,Emerald,C,4,2022,TP,Duplicate Set,6.49,micrograms per liter,0.91,NA
+EM_C_4.22_TPH_ZZ,20220917,Emerald,C,4,2022,TP,Duplicate Set,7.83,micrograms per liter,0.91,NA
+PE_A_4.22_TPH_ZZ,20220913,Pear,A,4,2022,TP,Standard,7.67,micrograms per liter,0.91,NA
+PE_B_4.22_TPH_ZZ,20220913,Pear,B,4,2022,TP,Standard,6.21,micrograms per liter,0.91,NA
+PE_C_4.22_TPH_ZZ,20220913,Pear,C,4,2022,TP,Standard,7.37,micrograms per liter,0.91,NA
+LY_A_4.22_TPH_ZZ,20220914,Lyness,A,4,2022,TP,Spike Set,8.01,micrograms per liter,0.91,NA
+LY_B_4.22_TPH_ZZ,20220914,Lyness,B,4,2022,TP,Standard,34.4,micrograms per liter,0.91,NA
+LY_C_4.22_TPH_ZZ,20220914,Lyness,C,4,2022,TP,Standard,9.32,micrograms per liter,0.91,NA
+FR_A_4.22_TPH_ZZ,20220915,Frog,A,4,2022,TP,Standard,6.88,micrograms per liter,0.91,NA
+FR_B_4.22_TPH_ZZ,20220915,Frog,B,4,2022,TP,Duplicate Set,11.2,micrograms per liter,0.91,NA
+FR_B_4.22_TPH_ZZ,20220915,Frog,B,4,2022,TP,Duplicate Set,10.5,micrograms per liter,0.91,NA
+FR_C_4.22_TPH_ZZ,20220915,Frog,C,4,2022,TP,Standard,10,micrograms per liter,0.91,NA
+TO_A_4.22_TPH_ZZ,20220915,Topaz,A,4,2022,TP,Standard,11.1,micrograms per liter,0.91,NA
+TO_B_4.22_TPH_ZZ,20220915,Topaz,B,4,2022,TP,Standard,14.7,micrograms per liter,0.91,NA
+TO_C_4.22_TPH_ZZ,20220915,Topaz,C,4,2022,TP,Standard,9.94,micrograms per liter,0.91,NA
+FR_B_4.22_TPH_DU,20220915,Frog,B,4,2022,TP,Standard,10.3,micrograms per liter,0.91,NA
+TO_C_4.22_TPH_DU,20220915,Topaz,C,4,2022,TP,Spike Set,11.2,micrograms per liter,0.91,NA
+HE_A_5.22_DNP_ZZ,20221013,Heather,A,5,2022,PO4P,Standard,1.37,micrograms per liter,1.27,NA
+HE_A_5.22_DNP_ZZ,20221013,Heather,A,5,2022,NH3N,Standard,NA,micrograms per liter,2.17,below method detection limit
+HE_A_5.22_DNP_ZZ,20221013,Heather,A,5,2022,NOxN,Standard,0.77,micrograms per liter,0.37,NA
+HE_B_5.22_DNP_ZZ,20221013,Heather,B,5,2022,PO4P,Spike Set,1.36,micrograms per liter,1.27,NA
+HE_B_5.22_DNP_ZZ,20221013,Heather,B,5,2022,NH3N,Spike Set,NA,micrograms per liter,2.17,below method detection limit
+HE_B_5.22_DNP_ZZ,20221013,Heather,B,5,2022,NOxN,Spike Set,0.84,micrograms per liter,0.37,NA
+HE_C_5.22_DNP_ZZ,20221013,Heather,C,5,2022,PO4P,Standard,1.47,micrograms per liter,1.27,NA
+HE_C_5.22_DNP_ZZ,20221013,Heather,C,5,2022,NH3N,Standard,NA,micrograms per liter,2.17,below method detection limit
+HE_C_5.22_DNP_ZZ,20221013,Heather,C,5,2022,NOxN,Standard,0.85,micrograms per liter,0.37,NA
+EM_A_5.22_DNP_ZZ,20221015,Emerald,A,5,2022,PO4P,Duplicate Set,8.48,micrograms per liter,1.27,NA
+EM_A_5.22_DNP_ZZ,20221015,Emerald,A,5,2022,NH3N,Duplicate Set,65,micrograms per liter,2.17,NA
+EM_A_5.22_DNP_ZZ,20221015,Emerald,A,5,2022,NOxN,Duplicate Set,10.7,micrograms per liter,0.37,NA
+EM_A_5.22_DNP_ZZ,20221015,Emerald,A,5,2022,PO4P,Duplicate Set,8.45,micrograms per liter,1.27,NA
+EM_A_5.22_DNP_ZZ,20221015,Emerald,A,5,2022,NH3N,Duplicate Set,64.6,micrograms per liter,2.17,NA
+EM_A_5.22_DNP_ZZ,20221015,Emerald,A,5,2022,NOxN,Duplicate Set,10.7,micrograms per liter,0.37,NA
+EM_B_5.22_DNP_ZZ,20221015,Emerald,B,5,2022,PO4P,Standard,NA,micrograms per liter,1.27,below method detection limit
+EM_B_5.22_DNP_ZZ,20221015,Emerald,B,5,2022,NH3N,Standard,5.18,micrograms per liter,2.17,NA
+EM_B_5.22_DNP_ZZ,20221015,Emerald,B,5,2022,NOxN,Standard,6.14,micrograms per liter,0.37,NA
+EM_C_5.22_DNP_ZZ,20221015,Emerald,C,5,2022,PO4P,Standard,NA,micrograms per liter,1.27,below method detection limit
+EM_C_5.22_DNP_ZZ,20221015,Emerald,C,5,2022,NH3N,Standard,16.1,micrograms per liter,2.17,NA
+EM_C_5.22_DNP_ZZ,20221015,Emerald,C,5,2022,NOxN,Standard,5.89,micrograms per liter,0.37,NA
+PE_A_5.22_DNP_ZZ,20221011,Pear,A,5,2022,PO4P,Spike Set,NA,micrograms per liter,1.27,below method detection limit
+PE_A_5.22_DNP_ZZ,20221011,Pear,A,5,2022,NH3N,Spike Set,2.57,micrograms per liter,2.17,NA
+PE_A_5.22_DNP_ZZ,20221011,Pear,A,5,2022,NOxN,Spike Set,0.89,micrograms per liter,0.37,NA
+PE_B_5.22_DNP_ZZ,20221011,Pear,B,5,2022,PO4P,Standard,NA,micrograms per liter,1.27,below method detection limit
+PE_B_5.22_DNP_ZZ,20221011,Pear,B,5,2022,NH3N,Standard,9.01,micrograms per liter,2.17,NA
+PE_B_5.22_DNP_ZZ,20221011,Pear,B,5,2022,NOxN,Standard,1.56,micrograms per liter,0.37,NA
+PE_C_5.22_DNP_ZZ,20221011,Pear,C,5,2022,PO4P,Standard,1.84,micrograms per liter,1.27,NA
+PE_C_5.22_DNP_ZZ,20221011,Pear,C,5,2022,NH3N,Standard,15.2,micrograms per liter,2.17,NA
+PE_C_5.22_DNP_ZZ,20221011,Pear,C,5,2022,NOxN,Standard,1.59,micrograms per liter,0.37,NA
+LY_A_5.22_DNP_ZZ,20221012,Lyness,A,5,2022,PO4P,Duplicate Set,NA,micrograms per liter,1.27,below method detection limit
+LY_A_5.22_DNP_ZZ,20221012,Lyness,A,5,2022,NH3N,Duplicate Set,5.63,micrograms per liter,2.17,NA
+LY_A_5.22_DNP_ZZ,20221012,Lyness,A,5,2022,NOxN,Duplicate Set,5.22,micrograms per liter,0.37,NA
+LY_A_5.22_DNP_ZZ,20221012,Lyness,A,5,2022,PO4P,Duplicate Set,NA,micrograms per liter,1.27,below method detection limit
+LY_A_5.22_DNP_ZZ,20221012,Lyness,A,5,2022,NH3N,Duplicate Set,4.95,micrograms per liter,2.17,NA
+LY_A_5.22_DNP_ZZ,20221012,Lyness,A,5,2022,NOxN,Duplicate Set,5.28,micrograms per liter,0.37,NA
+LY_B_5.22_DNP_ZZ,20221012,Lyness,B,5,2022,PO4P,Duplicate Set,NA,micrograms per liter,1.27,below method detection limit
+LY_B_5.22_DNP_ZZ,20221012,Lyness,B,5,2022,NH3N,Duplicate Set,5.81,micrograms per liter,2.17,NA
+LY_B_5.22_DNP_ZZ,20221012,Lyness,B,5,2022,NOxN,Duplicate Set,5.07,micrograms per liter,0.37,NA
+LY_B_5.22_DNP_ZZ,20221012,Lyness,B,5,2022,PO4P,Duplicate Set,NA,micrograms per liter,1.27,below method detection limit
+LY_B_5.22_DNP_ZZ,20221012,Lyness,B,5,2022,NH3N,Duplicate Set,4.24,micrograms per liter,2.17,NA
+LY_B_5.22_DNP_ZZ,20221012,Lyness,B,5,2022,NOxN,Duplicate Set,7.94,micrograms per liter,0.37,NA
+LY_C_5.22_DNP_ZZ,20221012,Lyness,C,5,2022,PO4P,Standard,NA,micrograms per liter,1.27,below method detection limit
+LY_C_5.22_DNP_ZZ,20221012,Lyness,C,5,2022,NH3N,Standard,NA,micrograms per liter,2.17,below method detection limit
+LY_C_5.22_DNP_ZZ,20221012,Lyness,C,5,2022,NOxN,Standard,4.98,micrograms per liter,0.37,NA
+FR_A_5.22_DNP_ZZ,20221014,Frog,A,5,2022,PO4P,Standard,1.94,micrograms per liter,1.27,NA
+FR_A_5.22_DNP_ZZ,20221014,Frog,A,5,2022,NH3N,Standard,37,micrograms per liter,2.17,NA
+FR_A_5.22_DNP_ZZ,20221014,Frog,A,5,2022,NOxN,Standard,22.3,micrograms per liter,0.37,NA
+FR_B_5.22_DNP_ZZ,20221014,Frog,B,5,2022,PO4P,Spike Set,NA,micrograms per liter,1.27,below method detection limit
+FR_B_5.22_DNP_ZZ,20221014,Frog,B,5,2022,NH3N,Spike Set,10.6,micrograms per liter,2.17,NA
+FR_B_5.22_DNP_ZZ,20221014,Frog,B,5,2022,NOxN,Spike Set,5.72,micrograms per liter,0.37,NA
+FR_C_5.22_DNP_ZZ,20221014,Frog,C,5,2022,PO4P,Standard,8.78,micrograms per liter,1.27,NA
+FR_C_5.22_DNP_ZZ,20221014,Frog,C,5,2022,NH3N,Standard,7.21,micrograms per liter,2.17,NA
+FR_C_5.22_DNP_ZZ,20221014,Frog,C,5,2022,NOxN,Standard,5.46,micrograms per liter,0.37,NA
+TO_A_5.22_DNP_ZZ,20221014,Topaz,A,5,2022,PO4P,Standard,2.52,micrograms per liter,1.27,NA
+TO_A_5.22_DNP_ZZ,20221014,Topaz,A,5,2022,NH3N,Standard,9.19,micrograms per liter,2.17,NA
+TO_A_5.22_DNP_ZZ,20221014,Topaz,A,5,2022,NOxN,Standard,4.52,micrograms per liter,0.37,NA
+TO_B_5.22_DNP_ZZ,20221014,Topaz,B,5,2022,PO4P,Standard,2.71,micrograms per liter,1.27,NA
+TO_B_5.22_DNP_ZZ,20221014,Topaz,B,5,2022,NH3N,Standard,NA,micrograms per liter,2.17,below method detection limit
+TO_B_5.22_DNP_ZZ,20221014,Topaz,B,5,2022,NOxN,Standard,0.94,micrograms per liter,0.37,NA
+TO_C_5.22_DNP_ZZ,20221014,Topaz,C,5,2022,PO4P,Standard,2.06,micrograms per liter,1.27,NA
+TO_C_5.22_DNP_ZZ,20221014,Topaz,C,5,2022,NH3N,Standard,10.6,micrograms per liter,2.17,NA
+TO_C_5.22_DNP_ZZ,20221014,Topaz,C,5,2022,NOxN,Standard,3.38,micrograms per liter,0.37,NA
+HE_A_5.22_DNP_DU,20221013,Heather,A,5,2022,PO4P,Spike Set,NA,micrograms per liter,1.27,below method detection limit
+HE_A_5.22_DNP_DU,20221013,Heather,A,5,2022,NH3N,Spike Set,NA,micrograms per liter,2.17,below method detection limit
+HE_A_5.22_DNP_DU,20221013,Heather,A,5,2022,NOxN,Spike Set,0.8,micrograms per liter,0.37,NA
+TO_A_5.22_DNP_DU,20221014,Topaz,A,5,2022,PO4P,Duplicate Set,NA,micrograms per liter,1.27,below method detection limit
+TO_A_5.22_DNP_DU,20221014,Topaz,A,5,2022,NH3N,Duplicate Set,8.08,micrograms per liter,2.17,NA
+TO_A_5.22_DNP_DU,20221014,Topaz,A,5,2022,NOxN,Duplicate Set,3.69,micrograms per liter,0.37,NA
+TO_A_5.22_DNP_DU,20221014,Topaz,A,5,2022,PO4P,Duplicate Set,1.71,micrograms per liter,1.27,NA
+TO_A_5.22_DNP_DU,20221014,Topaz,A,5,2022,NH3N,Duplicate Set,9.72,micrograms per liter,2.17,NA
+TO_A_5.22_DNP_DU,20221014,Topaz,A,5,2022,NOxN,Duplicate Set,3.79,micrograms per liter,0.37,NA
+HE_A_5.22_TPH_ZZ,20221013,Heather,A,5,2022,TP,Standard,16.5,micrograms per liter,1.22,NA
+HE_B_5.22_TPH_ZZ,20221013,Heather,B,5,2022,TP,Standard,7.24,micrograms per liter,1.22,NA
+HE_C_5.22_TPH_ZZ,20221013,Heather,C,5,2022,TP,Spike Set,10.2,micrograms per liter,1.22,NA
+EM_A_5.22_TPH_ZZ,20221015,Emerald,A,5,2022,TP,Standard,20.6,micrograms per liter,1.22,NA
+EM_B_5.22_TPH_ZZ,20221015,Emerald,B,5,2022,TP,Standard,10.9,micrograms per liter,1.22,NA
+EM_C_5.22_TPH_ZZ,20221015,Emerald,C,5,2022,TP,Duplicate Set,5.09,micrograms per liter,1.22,NA
+EM_C_5.22_TPH_ZZ,20221015,Emerald,C,5,2022,TP,Duplicate Set,5.08,micrograms per liter,1.22,NA
+PE_A_5.22_TPH_ZZ,20221011,Pear,A,5,2022,TP,Standard,7.13,micrograms per liter,1.22,NA
+PE_B_5.22_TPH_ZZ,20221011,Pear,B,5,2022,TP,Standard,3.76,micrograms per liter,1.22,NA
+PE_C_5.22_TPH_ZZ,20221011,Pear,C,5,2022,TP,Standard,16.3,micrograms per liter,1.22,NA
+LY_A_5.22_TPH_ZZ,20221012,Lyness,A,5,2022,TP,Spike Set,13.3,micrograms per liter,1.22,NA
+LY_B_5.22_TPH_ZZ,20221012,Lyness,B,5,2022,TP,Standard,8.53,micrograms per liter,1.22,NA
+LY_C_5.22_TPH_ZZ,20221012,Lyness,C,5,2022,TP,Duplicate Set,5.9,micrograms per liter,1.22,NA
+LY_C_5.22_TPH_ZZ,20221012,Lyness,C,5,2022,TP,Duplicate Set,5.3,micrograms per liter,1.22,NA
+FR_A_5.22_TPH_ZZ,20221014,Frog,A,5,2022,TP,Standard,10.2,micrograms per liter,1.22,NA
+FR_B_5.22_TPH_ZZ,20221014,Frog,B,5,2022,TP,Standard,11.8,micrograms per liter,1.22,NA
+FR_C_5.22_TPH_ZZ,20221014,Frog,C,5,2022,TP,Spike Set,8.15,micrograms per liter,1.22,NA
+TO_A_5.22_TPH_ZZ,20221014,Topaz,A,5,2022,TP,Standard,24.7,micrograms per liter,1.22,NA
+TO_B_5.22_TPH_ZZ,20221014,Topaz,B,5,2022,TP,Standard,31.2,micrograms per liter,1.22,NA
+TO_C_5.22_TPH_ZZ,20221014,Topaz,C,5,2022,TP,Standard,9.59,micrograms per liter,1.22,NA
+HE_A_5.22_TPH_DU,20221013,Heather,A,5,2022,TP,Duplicate Set,16.3,micrograms per liter,1.22,NA
+HE_A_5.22_TPH_DU,20221013,Heather,A,5,2022,TP,Duplicate Set,15.9,micrograms per liter,1.22,NA
+TO_A_5.22_TPH_DU,20221014,Topaz,A,5,2022,TP,Standard,13,micrograms per liter,1.22,NA
